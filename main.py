@@ -1,6 +1,6 @@
 from src.competition_classes import Region, Country
 from src.season_classes import Season
-from src.results_creator import createShortResultsFile, createLongResultsFile
+from src.results_creator import createShortResultsFile, createLongResultsFile, createJSONFile
 
 
 # Define regions
@@ -107,3 +107,4 @@ for year in range(10):
 # Create results file
 createShortResultsFile(seasons)
 createLongResultsFile(seasons)
+createJSONFile(seasons)

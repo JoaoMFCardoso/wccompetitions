@@ -1,0 +1,2389 @@
+{
+    "1": {
+        "year": "1",
+        "competitions": {
+            "1B": {
+                "competition": "European Nations League B",
+                "region": 1,
+                "division": 2,
+                "field": 12,
+                "promotions": 2,
+                "promoted countries": [
+                    "Wales",
+                    "Latvia"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Austria",
+                    "Slovakia",
+                    "Finland",
+                    "Belgium"
+                ],
+                "results": {
+                    "1": "Wales",
+                    "2": "Latvia",
+                    "3": "Netherlands",
+                    "4": "England",
+                    "5": "Spain",
+                    "6": "Hungary",
+                    "7": "Denmark",
+                    "8": "Estonia",
+                    "9": "Belgium",
+                    "10": "Finland",
+                    "11": "Slovakia",
+                    "12": "Austria"
+                }
+            },
+            "2B": {
+                "competition": "Americas Nations League B",
+                "region": 2,
+                "division": 2,
+                "field": 8,
+                "promotions": 1,
+                "promoted countries": [
+                    "Guyana"
+                ],
+                "results": {
+                    "1": "Guyana",
+                    "2": "Jamaica",
+                    "3": "Brazil",
+                    "4": "Bolivia",
+                    "5": "Dominican Republic",
+                    "6": "Mexico",
+                    "7": "Puerto Rico",
+                    "8": "US Virgin Islands"
+                }
+            },
+            "3B": {
+                "competition": "Asia Pacific Nations League B",
+                "region": 3,
+                "division": 2,
+                "field": 12,
+                "promotions": 1,
+                "promoted countries": [
+                    "Australia"
+                ],
+                "relegations": 3,
+                "relegated countries": [
+                    "Saudi Arabia",
+                    "Nigeria",
+                    "Kyrgystan"
+                ],
+                "results": {
+                    "1": "Australia",
+                    "2": "Hong Kong",
+                    "3": "Chinese Taipei",
+                    "4": "New Zealand",
+                    "5": "China",
+                    "6": "Kazakhstan",
+                    "7": "Philippines",
+                    "8": "Qatar",
+                    "9": "India",
+                    "10": "Kyrgystan",
+                    "11": "Nigeria",
+                    "12": "Saudi Arabia"
+                }
+            },
+            "1A": {
+                "competition": "European Nations League A",
+                "region": 1,
+                "division": 1,
+                "field": 10,
+                "winner": "Czechia",
+                "results": {
+                    "1": "Czechia",
+                    "2": "Norway",
+                    "3": "Italy",
+                    "4": "Latvia",
+                    "5": "Wales",
+                    "6": "T\u00fcrkiye",
+                    "7": "Germany",
+                    "8": "Switzerland",
+                    "9": "Sweden",
+                    "10": "Scotland"
+                }
+            },
+            "23A": {
+                "competition": "Pan Continental Nations League A",
+                "region": [
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 8,
+                "winner": "Hong Kong",
+                "results": {
+                    "1": "Hong Kong",
+                    "2": "USA",
+                    "3": "Japan",
+                    "4": "Korea",
+                    "5": "Guyana",
+                    "6": "Canada",
+                    "7": "Jamaica",
+                    "8": "Australia"
+                }
+            },
+            "WC": {
+                "competition": "World Championships",
+                "region": [
+                    1,
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 16,
+                "winner": "Norway",
+                "relegations": 4,
+                "relegated countries": [
+                    "Switzerland",
+                    "Sweden",
+                    "Italy",
+                    "Guyana"
+                ],
+                "results": {
+                    "1": "Norway",
+                    "2": "Korea",
+                    "3": "USA",
+                    "4": "Canada",
+                    "5": "T\u00fcrkiye",
+                    "6": "Scotland",
+                    "7": "Czechia",
+                    "8": "Wales",
+                    "9": "Latvia",
+                    "10": "Germany",
+                    "11": "Australia",
+                    "12": "Japan",
+                    "13": "Guyana",
+                    "14": "Italy",
+                    "15": "Sweden",
+                    "16": "Switzerland"
+                }
+            },
+            "1C": {
+                "competition": "European Nations League C",
+                "region": 1,
+                "division": 3,
+                "field": 12,
+                "promotions": 3,
+                "promoted countries": [
+                    "Ireland",
+                    "Portugal",
+                    "France"
+                ],
+                "relegations": 3,
+                "relegated countries": [
+                    "Andorra",
+                    "Liechtenstein",
+                    "Poland"
+                ],
+                "results": {
+                    "1": "Ireland",
+                    "2": "Portugal",
+                    "3": "France",
+                    "4": "Ukraine",
+                    "5": "Slovenia",
+                    "6": "Lithuania",
+                    "7": "Romania",
+                    "8": "Bulgaria",
+                    "9": "Croatia",
+                    "10": "Poland",
+                    "11": "Liechtenstein",
+                    "12": "Andorra"
+                }
+            },
+            "3C": {
+                "competition": "Asia Pacific Nations League C",
+                "region": 3,
+                "division": 3,
+                "field": 7,
+                "promotions": 4,
+                "promoted countries": [
+                    "Turkmenistan",
+                    "Kenya",
+                    "Pakistan",
+                    "Thailand"
+                ],
+                "results": {
+                    "1": "Turkmenistan",
+                    "2": "Kenya",
+                    "3": "Pakistan",
+                    "4": "Thailand",
+                    "5": "Kuwait",
+                    "6": "Afghanistan",
+                    "7": "Mongolia"
+                }
+            },
+            "1D": {
+                "competition": "European Nations League D",
+                "region": 1,
+                "division": 4,
+                "field": 9,
+                "promotions": 2,
+                "promoted countries": [
+                    "Israel",
+                    "Georgia"
+                ],
+                "results": {
+                    "1": "Israel",
+                    "2": "Georgia",
+                    "3": "Iceland",
+                    "4": "Serbia",
+                    "5": "Monaco",
+                    "6": "Kosovo",
+                    "7": "Bosnia & Herzegovina",
+                    "8": "Greece",
+                    "9": "Luxembourg"
+                }
+            }
+        }
+    },
+    "2": {
+        "year": "2",
+        "competitions": {
+            "1B": {
+                "competition": "European Nations League B",
+                "region": 1,
+                "division": 2,
+                "field": 12,
+                "promotions": 2,
+                "promoted countries": [
+                    "Netherlands",
+                    "England"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Hungary",
+                    "Portugal",
+                    "Estonia",
+                    "Spain"
+                ],
+                "results": {
+                    "1": "Netherlands",
+                    "2": "England",
+                    "3": "Denmark",
+                    "4": "France",
+                    "5": "Ireland",
+                    "6": "Sweden",
+                    "7": "Italy",
+                    "8": "Switzerland",
+                    "9": "Spain",
+                    "10": "Estonia",
+                    "11": "Portugal",
+                    "12": "Hungary"
+                }
+            },
+            "2B": {
+                "competition": "Americas Nations League B",
+                "region": 2,
+                "division": 2,
+                "field": 8,
+                "promotions": 1,
+                "promoted countries": [
+                    "Dominican Republic"
+                ],
+                "results": {
+                    "1": "Dominican Republic",
+                    "2": "Mexico",
+                    "3": "Jamaica",
+                    "4": "US Virgin Islands",
+                    "5": "Puerto Rico",
+                    "6": "Bolivia",
+                    "7": "Guyana",
+                    "8": "Brazil"
+                }
+            },
+            "3B": {
+                "competition": "Asia Pacific Nations League B",
+                "region": 3,
+                "division": 2,
+                "field": 12,
+                "promotions": 1,
+                "promoted countries": [
+                    "Philippines"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Thailand",
+                    "Kenya",
+                    "Pakistan",
+                    "Turkmenistan"
+                ],
+                "results": {
+                    "1": "Philippines",
+                    "2": "New Zealand",
+                    "3": "Qatar",
+                    "4": "China",
+                    "5": "Kazakhstan",
+                    "6": "Chinese Taipei",
+                    "7": "India",
+                    "8": "Hong Kong",
+                    "9": "Turkmenistan",
+                    "10": "Pakistan",
+                    "11": "Kenya",
+                    "12": "Thailand"
+                }
+            },
+            "1A": {
+                "competition": "European Nations League A",
+                "region": 1,
+                "division": 1,
+                "field": 10,
+                "winner": "Wales",
+                "results": {
+                    "1": "Wales",
+                    "2": "Denmark",
+                    "3": "T\u00fcrkiye",
+                    "4": "England",
+                    "5": "Latvia",
+                    "6": "Norway",
+                    "7": "Germany",
+                    "8": "Netherlands",
+                    "9": "Scotland",
+                    "10": "Czechia"
+                }
+            },
+            "23A": {
+                "competition": "Pan Continental Nations League A",
+                "region": [
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 8,
+                "winner": "Korea",
+                "results": {
+                    "1": "Korea",
+                    "2": "Australia",
+                    "3": "Dominican Republic",
+                    "4": "Canada",
+                    "5": "Philippines",
+                    "6": "Japan",
+                    "7": "Mexico",
+                    "8": "USA"
+                }
+            },
+            "WC": {
+                "competition": "World Championships",
+                "region": [
+                    1,
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 16,
+                "winner": "Japan",
+                "relegations": 4,
+                "relegated countries": [
+                    "Latvia",
+                    "Australia",
+                    "Philippines",
+                    "Scotland"
+                ],
+                "results": {
+                    "1": "Japan",
+                    "2": "Netherlands",
+                    "3": "Canada",
+                    "4": "Germany",
+                    "5": "England",
+                    "6": "Korea",
+                    "7": "Dominican Republic",
+                    "8": "Wales",
+                    "9": "Norway",
+                    "10": "Czechia",
+                    "11": "USA",
+                    "12": "T\u00fcrkiye",
+                    "13": "Scotland",
+                    "14": "Philippines",
+                    "15": "Australia",
+                    "16": "Latvia"
+                }
+            },
+            "1C": {
+                "competition": "European Nations League C",
+                "region": 1,
+                "division": 3,
+                "field": 12,
+                "promotions": 4,
+                "promoted countries": [
+                    "Croatia",
+                    "Finland",
+                    "Belgium",
+                    "Israel"
+                ],
+                "relegations": 2,
+                "relegated countries": [
+                    "Lithuania",
+                    "Slovenia"
+                ],
+                "results": {
+                    "1": "Croatia",
+                    "2": "Finland",
+                    "3": "Belgium",
+                    "4": "Israel",
+                    "5": "Slovakia",
+                    "6": "Romania",
+                    "7": "Austria",
+                    "8": "Ukraine",
+                    "9": "Georgia",
+                    "10": "Bulgaria",
+                    "11": "Slovenia",
+                    "12": "Lithuania"
+                }
+            },
+            "3C": {
+                "competition": "Asia Pacific Nations League C",
+                "region": 3,
+                "division": 3,
+                "field": 6,
+                "promotions": 3,
+                "promoted countries": [
+                    "Kyrgystan",
+                    "Saudi Arabia",
+                    "Mongolia"
+                ],
+                "results": {
+                    "1": "Kyrgystan",
+                    "2": "Saudi Arabia",
+                    "3": "Mongolia",
+                    "4": "Nigeria",
+                    "5": "Kuwait",
+                    "6": "Afghanistan"
+                }
+            },
+            "1D": {
+                "competition": "European Nations League D",
+                "region": 1,
+                "division": 4,
+                "field": 10,
+                "promotions": 2,
+                "promoted countries": [
+                    "Luxembourg",
+                    "Kosovo"
+                ],
+                "results": {
+                    "1": "Luxembourg",
+                    "2": "Kosovo",
+                    "3": "Greece",
+                    "4": "Monaco",
+                    "5": "Bosnia & Herzegovina",
+                    "6": "Poland",
+                    "7": "Serbia",
+                    "8": "Liechtenstein",
+                    "9": "Andorra",
+                    "10": "Iceland"
+                }
+            }
+        }
+    },
+    "3": {
+        "year": "3",
+        "competitions": {
+            "1B": {
+                "competition": "European Nations League B",
+                "region": 1,
+                "division": 2,
+                "field": 12,
+                "promotions": 2,
+                "promoted countries": [
+                    "Ireland",
+                    "Sweden"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Belgium",
+                    "Switzerland",
+                    "Latvia",
+                    "Scotland"
+                ],
+                "results": {
+                    "1": "Ireland",
+                    "2": "Sweden",
+                    "3": "Italy",
+                    "4": "France",
+                    "5": "Finland",
+                    "6": "Denmark",
+                    "7": "Croatia",
+                    "8": "Israel",
+                    "9": "Scotland",
+                    "10": "Latvia",
+                    "11": "Switzerland",
+                    "12": "Belgium"
+                }
+            },
+            "2B": {
+                "competition": "Americas Nations League B",
+                "region": 2,
+                "division": 2,
+                "field": 7,
+                "promotions": 1,
+                "promoted countries": [
+                    "Guyana"
+                ],
+                "results": {
+                    "1": "Guyana",
+                    "2": "Puerto Rico",
+                    "3": "Bolivia",
+                    "4": "Mexico",
+                    "5": "Brazil",
+                    "6": "Jamaica",
+                    "7": "US Virgin Islands"
+                }
+            },
+            "3B": {
+                "competition": "Asia Pacific Nations League B",
+                "region": 3,
+                "division": 2,
+                "field": 12,
+                "promotions": 1,
+                "promoted countries": [
+                    "India"
+                ],
+                "relegations": 3,
+                "relegated countries": [
+                    "Mongolia",
+                    "China",
+                    "Saudi Arabia"
+                ],
+                "results": {
+                    "1": "India",
+                    "2": "Kazakhstan",
+                    "3": "Australia",
+                    "4": "Chinese Taipei",
+                    "5": "Philippines",
+                    "6": "Hong Kong",
+                    "7": "Qatar",
+                    "8": "New Zealand",
+                    "9": "Kyrgystan",
+                    "10": "Saudi Arabia",
+                    "11": "China",
+                    "12": "Mongolia"
+                }
+            },
+            "1A": {
+                "competition": "European Nations League A",
+                "region": 1,
+                "division": 1,
+                "field": 10,
+                "winner": "Italy",
+                "results": {
+                    "1": "Italy",
+                    "2": "Germany",
+                    "3": "Netherlands",
+                    "4": "Sweden",
+                    "5": "T\u00fcrkiye",
+                    "6": "Wales",
+                    "7": "Norway",
+                    "8": "England",
+                    "9": "Czechia",
+                    "10": "Ireland"
+                }
+            },
+            "23A": {
+                "competition": "Pan Continental Nations League A",
+                "region": [
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 8,
+                "winner": "Japan",
+                "results": {
+                    "1": "Japan",
+                    "2": "Korea",
+                    "3": "Dominican Republic",
+                    "4": "Puerto Rico",
+                    "5": "Guyana",
+                    "6": "Canada",
+                    "7": "India",
+                    "8": "USA"
+                }
+            },
+            "WC": {
+                "competition": "World Championships",
+                "region": [
+                    1,
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 16,
+                "winner": "Norway",
+                "relegations": 4,
+                "relegated countries": [
+                    "Czechia",
+                    "Canada",
+                    "Korea",
+                    "Germany"
+                ],
+                "results": {
+                    "1": "Norway",
+                    "2": "T\u00fcrkiye",
+                    "3": "Ireland",
+                    "4": "Wales",
+                    "5": "England",
+                    "6": "USA",
+                    "7": "Japan",
+                    "8": "Sweden",
+                    "9": "Dominican Republic",
+                    "10": "India",
+                    "11": "Guyana",
+                    "12": "Netherlands",
+                    "13": "Germany",
+                    "14": "Korea",
+                    "15": "Canada",
+                    "16": "Czechia"
+                }
+            },
+            "1C": {
+                "competition": "European Nations League C",
+                "region": 1,
+                "division": 3,
+                "field": 12,
+                "promotions": 4,
+                "promoted countries": [
+                    "Romania",
+                    "Slovakia",
+                    "Luxembourg",
+                    "Ukraine"
+                ],
+                "relegations": 2,
+                "relegated countries": [
+                    "Georgia",
+                    "Kosovo"
+                ],
+                "results": {
+                    "1": "Romania",
+                    "2": "Slovakia",
+                    "3": "Luxembourg",
+                    "4": "Ukraine",
+                    "5": "Austria",
+                    "6": "Estonia",
+                    "7": "Portugal",
+                    "8": "Bulgaria",
+                    "9": "Hungary",
+                    "10": "Spain",
+                    "11": "Kosovo",
+                    "12": "Georgia"
+                }
+            },
+            "3C": {
+                "competition": "Asia Pacific Nations League C",
+                "region": 3,
+                "division": 3,
+                "field": 7,
+                "promotions": 3,
+                "promoted countries": [
+                    "Nigeria",
+                    "Afghanistan",
+                    "Kuwait"
+                ],
+                "results": {
+                    "1": "Nigeria",
+                    "2": "Afghanistan",
+                    "3": "Kuwait",
+                    "4": "Turkmenistan",
+                    "5": "Kenya",
+                    "6": "Thailand",
+                    "7": "Pakistan"
+                }
+            },
+            "1D": {
+                "competition": "European Nations League D",
+                "region": 1,
+                "division": 4,
+                "field": 10,
+                "promotions": 2,
+                "promoted countries": [
+                    "Serbia",
+                    "Liechtenstein"
+                ],
+                "results": {
+                    "1": "Serbia",
+                    "2": "Liechtenstein",
+                    "3": "Slovenia",
+                    "4": "Andorra",
+                    "5": "Poland",
+                    "6": "Monaco",
+                    "7": "Lithuania",
+                    "8": "Greece",
+                    "9": "Bosnia & Herzegovina",
+                    "10": "Iceland"
+                }
+            }
+        }
+    },
+    "4": {
+        "year": "4",
+        "competitions": {
+            "1B": {
+                "competition": "European Nations League B",
+                "region": 1,
+                "division": 2,
+                "field": 12,
+                "promotions": 2,
+                "promoted countries": [
+                    "Germany",
+                    "Ukraine"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Croatia",
+                    "Denmark",
+                    "Czechia",
+                    "Luxembourg"
+                ],
+                "results": {
+                    "1": "Germany",
+                    "2": "Ukraine",
+                    "3": "Finland",
+                    "4": "Italy",
+                    "5": "Slovakia",
+                    "6": "Romania",
+                    "7": "Israel",
+                    "8": "France",
+                    "9": "Luxembourg",
+                    "10": "Czechia",
+                    "11": "Denmark",
+                    "12": "Croatia"
+                }
+            },
+            "2B": {
+                "competition": "Americas Nations League B",
+                "region": 2,
+                "division": 2,
+                "field": 7,
+                "promotions": 1,
+                "promoted countries": [
+                    "Puerto Rico"
+                ],
+                "results": {
+                    "1": "Puerto Rico",
+                    "2": "Mexico",
+                    "3": "Jamaica",
+                    "4": "Canada",
+                    "5": "Bolivia",
+                    "6": "Brazil",
+                    "7": "US Virgin Islands"
+                }
+            },
+            "3B": {
+                "competition": "Asia Pacific Nations League B",
+                "region": 3,
+                "division": 2,
+                "field": 12,
+                "promotions": 1,
+                "promoted countries": [
+                    "Kuwait"
+                ],
+                "relegations": 3,
+                "relegated countries": [
+                    "Hong Kong",
+                    "Australia",
+                    "Chinese Taipei"
+                ],
+                "results": {
+                    "1": "Kuwait",
+                    "2": "Kyrgystan",
+                    "3": "Philippines",
+                    "4": "New Zealand",
+                    "5": "Qatar",
+                    "6": "Afghanistan",
+                    "7": "Kazakhstan",
+                    "8": "Nigeria",
+                    "9": "Korea",
+                    "10": "Chinese Taipei",
+                    "11": "Australia",
+                    "12": "Hong Kong"
+                }
+            },
+            "1A": {
+                "competition": "European Nations League A",
+                "region": 1,
+                "division": 1,
+                "field": 10,
+                "winner": "Wales",
+                "results": {
+                    "1": "Wales",
+                    "2": "Norway",
+                    "3": "Ukraine",
+                    "4": "T\u00fcrkiye",
+                    "5": "Finland",
+                    "6": "Sweden",
+                    "7": "Netherlands",
+                    "8": "England",
+                    "9": "Ireland",
+                    "10": "Germany"
+                }
+            },
+            "23A": {
+                "competition": "Pan Continental Nations League A",
+                "region": [
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 8,
+                "winner": "Guyana",
+                "results": {
+                    "1": "Guyana",
+                    "2": "USA",
+                    "3": "Mexico",
+                    "4": "Japan",
+                    "5": "India",
+                    "6": "Puerto Rico",
+                    "7": "Dominican Republic",
+                    "8": "Kuwait"
+                }
+            },
+            "WC": {
+                "competition": "World Championships",
+                "region": [
+                    1,
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 16,
+                "winner": "Kuwait",
+                "relegations": 4,
+                "relegated countries": [
+                    "Dominican Republic",
+                    "Sweden",
+                    "USA",
+                    "T\u00fcrkiye"
+                ],
+                "results": {
+                    "1": "Kuwait",
+                    "2": "Ukraine",
+                    "3": "Guyana",
+                    "4": "Japan",
+                    "5": "Norway",
+                    "6": "England",
+                    "7": "Ireland",
+                    "8": "Wales",
+                    "9": "Germany",
+                    "10": "India",
+                    "11": "Puerto Rico",
+                    "12": "Netherlands",
+                    "13": "T\u00fcrkiye",
+                    "14": "USA",
+                    "15": "Sweden",
+                    "16": "Dominican Republic"
+                }
+            },
+            "1C": {
+                "competition": "European Nations League C",
+                "region": 1,
+                "division": 3,
+                "field": 12,
+                "promotions": 4,
+                "promoted countries": [
+                    "Hungary",
+                    "Bulgaria",
+                    "Scotland",
+                    "Spain"
+                ],
+                "relegations": 2,
+                "relegated countries": [
+                    "Austria",
+                    "Portugal"
+                ],
+                "results": {
+                    "1": "Hungary",
+                    "2": "Bulgaria",
+                    "3": "Scotland",
+                    "4": "Spain",
+                    "5": "Estonia",
+                    "6": "Liechtenstein",
+                    "7": "Switzerland",
+                    "8": "Latvia",
+                    "9": "Belgium",
+                    "10": "Serbia",
+                    "11": "Portugal",
+                    "12": "Austria"
+                }
+            },
+            "3C": {
+                "competition": "Asia Pacific Nations League C",
+                "region": 3,
+                "division": 3,
+                "field": 7,
+                "promotions": 4,
+                "promoted countries": [
+                    "Turkmenistan",
+                    "Kenya",
+                    "Thailand",
+                    "Mongolia"
+                ],
+                "results": {
+                    "1": "Turkmenistan",
+                    "2": "Kenya",
+                    "3": "Thailand",
+                    "4": "Mongolia",
+                    "5": "Pakistan",
+                    "6": "Saudi Arabia",
+                    "7": "China"
+                }
+            },
+            "1D": {
+                "competition": "European Nations League D",
+                "region": 1,
+                "division": 4,
+                "field": 10,
+                "promotions": 2,
+                "promoted countries": [
+                    "Greece",
+                    "Bosnia & Herzegovina"
+                ],
+                "results": {
+                    "1": "Greece",
+                    "2": "Bosnia & Herzegovina",
+                    "3": "Andorra",
+                    "4": "Georgia",
+                    "5": "Lithuania",
+                    "6": "Slovenia",
+                    "7": "Poland",
+                    "8": "Monaco",
+                    "9": "Kosovo",
+                    "10": "Iceland"
+                }
+            }
+        }
+    },
+    "5": {
+        "year": "5",
+        "competitions": {
+            "1B": {
+                "competition": "European Nations League B",
+                "region": 1,
+                "division": 2,
+                "field": 12,
+                "promotions": 2,
+                "promoted countries": [
+                    "Slovakia",
+                    "Scotland"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Hungary",
+                    "Romania",
+                    "Bulgaria",
+                    "Italy"
+                ],
+                "results": {
+                    "1": "Slovakia",
+                    "2": "Scotland",
+                    "3": "T\u00fcrkiye",
+                    "4": "Sweden",
+                    "5": "France",
+                    "6": "Spain",
+                    "7": "Finland",
+                    "8": "Israel",
+                    "9": "Italy",
+                    "10": "Bulgaria",
+                    "11": "Romania",
+                    "12": "Hungary"
+                }
+            },
+            "2B": {
+                "competition": "Americas Nations League B",
+                "region": 2,
+                "division": 2,
+                "field": 8,
+                "promotions": 1,
+                "promoted countries": [
+                    "US Virgin Islands"
+                ],
+                "results": {
+                    "1": "US Virgin Islands",
+                    "2": "Bolivia",
+                    "3": "Canada",
+                    "4": "Mexico",
+                    "5": "Dominican Republic",
+                    "6": "USA",
+                    "7": "Jamaica",
+                    "8": "Brazil"
+                }
+            },
+            "3B": {
+                "competition": "Asia Pacific Nations League B",
+                "region": 3,
+                "division": 2,
+                "field": 12,
+                "promotions": 1,
+                "promoted countries": [
+                    "New Zealand"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Thailand",
+                    "Mongolia",
+                    "Philippines",
+                    "Kyrgystan"
+                ],
+                "results": {
+                    "1": "New Zealand",
+                    "2": "Kenya",
+                    "3": "Qatar",
+                    "4": "Turkmenistan",
+                    "5": "Kazakhstan",
+                    "6": "Nigeria",
+                    "7": "Korea",
+                    "8": "Afghanistan",
+                    "9": "Kyrgystan",
+                    "10": "Philippines",
+                    "11": "Mongolia",
+                    "12": "Thailand"
+                }
+            },
+            "1A": {
+                "competition": "European Nations League A",
+                "region": 1,
+                "division": 1,
+                "field": 10,
+                "winner": "Slovakia",
+                "results": {
+                    "1": "Slovakia",
+                    "2": "T\u00fcrkiye",
+                    "3": "Wales",
+                    "4": "Netherlands",
+                    "5": "England",
+                    "6": "Scotland",
+                    "7": "Norway",
+                    "8": "Ireland",
+                    "9": "Germany",
+                    "10": "Ukraine"
+                }
+            },
+            "23A": {
+                "competition": "Pan Continental Nations League A",
+                "region": [
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 8,
+                "winner": "Kuwait",
+                "results": {
+                    "1": "Kuwait",
+                    "2": "Japan",
+                    "3": "Bolivia",
+                    "4": "India",
+                    "5": "Puerto Rico",
+                    "6": "New Zealand",
+                    "7": "US Virgin Islands",
+                    "8": "Guyana"
+                }
+            },
+            "WC": {
+                "competition": "World Championships",
+                "region": [
+                    1,
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 16,
+                "winner": "Kuwait",
+                "relegations": 4,
+                "relegated countries": [
+                    "US Virgin Islands",
+                    "Ireland",
+                    "Slovakia",
+                    "India"
+                ],
+                "results": {
+                    "1": "Kuwait",
+                    "2": "Germany",
+                    "3": "Japan",
+                    "4": "Guyana",
+                    "5": "Wales",
+                    "6": "Netherlands",
+                    "7": "New Zealand",
+                    "8": "Puerto Rico",
+                    "9": "Ukraine",
+                    "10": "Norway",
+                    "11": "Scotland",
+                    "12": "England",
+                    "13": "India",
+                    "14": "Slovakia",
+                    "15": "Ireland",
+                    "16": "US Virgin Islands"
+                }
+            },
+            "1C": {
+                "competition": "European Nations League C",
+                "region": 1,
+                "division": 3,
+                "field": 12,
+                "promotions": 4,
+                "promoted countries": [
+                    "Estonia",
+                    "Serbia",
+                    "Belgium",
+                    "Greece"
+                ],
+                "relegations": 2,
+                "relegated countries": [
+                    "Luxembourg",
+                    "Bosnia & Herzegovina"
+                ],
+                "results": {
+                    "1": "Estonia",
+                    "2": "Serbia",
+                    "3": "Belgium",
+                    "4": "Greece",
+                    "5": "Switzerland",
+                    "6": "Croatia",
+                    "7": "Denmark",
+                    "8": "Czechia",
+                    "9": "Latvia",
+                    "10": "Liechtenstein",
+                    "11": "Bosnia & Herzegovina",
+                    "12": "Luxembourg"
+                }
+            },
+            "3C": {
+                "competition": "Asia Pacific Nations League C",
+                "region": 3,
+                "division": 3,
+                "field": 6,
+                "promotions": 4,
+                "promoted countries": [
+                    "Chinese Taipei",
+                    "Hong Kong",
+                    "China",
+                    "Pakistan"
+                ],
+                "results": {
+                    "1": "Chinese Taipei",
+                    "2": "Hong Kong",
+                    "3": "China",
+                    "4": "Pakistan",
+                    "5": "Saudi Arabia",
+                    "6": "Australia"
+                }
+            },
+            "1D": {
+                "competition": "European Nations League D",
+                "region": 1,
+                "division": 4,
+                "field": 10,
+                "promotions": 2,
+                "promoted countries": [
+                    "Poland",
+                    "Georgia"
+                ],
+                "results": {
+                    "1": "Poland",
+                    "2": "Georgia",
+                    "3": "Iceland",
+                    "4": "Portugal",
+                    "5": "Andorra",
+                    "6": "Lithuania",
+                    "7": "Austria",
+                    "8": "Slovenia",
+                    "9": "Monaco",
+                    "10": "Kosovo"
+                }
+            }
+        }
+    },
+    "6": {
+        "year": "6",
+        "competitions": {
+            "1B": {
+                "competition": "European Nations League B",
+                "region": 1,
+                "division": 2,
+                "field": 12,
+                "promotions": 2,
+                "promoted countries": [
+                    "Greece",
+                    "Estonia"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Spain",
+                    "Serbia",
+                    "Finland",
+                    "France"
+                ],
+                "results": {
+                    "1": "Greece",
+                    "2": "Estonia",
+                    "3": "Israel",
+                    "4": "Slovakia",
+                    "5": "Ireland",
+                    "6": "T\u00fcrkiye",
+                    "7": "Sweden",
+                    "8": "Belgium",
+                    "9": "France",
+                    "10": "Finland",
+                    "11": "Serbia",
+                    "12": "Spain"
+                }
+            },
+            "2B": {
+                "competition": "Americas Nations League B",
+                "region": 2,
+                "division": 2,
+                "field": 8,
+                "promotions": 1,
+                "promoted countries": [
+                    "Canada"
+                ],
+                "results": {
+                    "1": "Canada",
+                    "2": "USA",
+                    "3": "Jamaica",
+                    "4": "Dominican Republic",
+                    "5": "Brazil",
+                    "6": "Bolivia",
+                    "7": "Mexico",
+                    "8": "US Virgin Islands"
+                }
+            },
+            "3B": {
+                "competition": "Asia Pacific Nations League B",
+                "region": 3,
+                "division": 2,
+                "field": 12,
+                "promotions": 1,
+                "promoted countries": [
+                    "Qatar"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "India",
+                    "Kazakhstan",
+                    "Afghanistan",
+                    "Chinese Taipei"
+                ],
+                "results": {
+                    "1": "Qatar",
+                    "2": "Pakistan",
+                    "3": "China",
+                    "4": "Hong Kong",
+                    "5": "Kenya",
+                    "6": "Turkmenistan",
+                    "7": "Nigeria",
+                    "8": "Korea",
+                    "9": "Chinese Taipei",
+                    "10": "Afghanistan",
+                    "11": "Kazakhstan",
+                    "12": "India"
+                }
+            },
+            "1A": {
+                "competition": "European Nations League A",
+                "region": 1,
+                "division": 1,
+                "field": 10,
+                "winner": "Ukraine",
+                "results": {
+                    "1": "Ukraine",
+                    "2": "Scotland",
+                    "3": "Netherlands",
+                    "4": "Israel",
+                    "5": "Greece",
+                    "6": "Estonia",
+                    "7": "Norway",
+                    "8": "Wales",
+                    "9": "England",
+                    "10": "Germany"
+                }
+            },
+            "23A": {
+                "competition": "Pan Continental Nations League A",
+                "region": [
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 8,
+                "winner": "Guyana",
+                "results": {
+                    "1": "Guyana",
+                    "2": "New Zealand",
+                    "3": "Canada",
+                    "4": "Qatar",
+                    "5": "Kuwait",
+                    "6": "Puerto Rico",
+                    "7": "Japan",
+                    "8": "USA"
+                }
+            },
+            "WC": {
+                "competition": "World Championships",
+                "region": [
+                    1,
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 16,
+                "winner": "Netherlands",
+                "relegations": 4,
+                "relegated countries": [
+                    "Guyana",
+                    "Greece",
+                    "Kuwait",
+                    "Scotland"
+                ],
+                "results": {
+                    "1": "Netherlands",
+                    "2": "Wales",
+                    "3": "Qatar",
+                    "4": "Canada",
+                    "5": "New Zealand",
+                    "6": "Norway",
+                    "7": "Japan",
+                    "8": "Puerto Rico",
+                    "9": "Germany",
+                    "10": "Ukraine",
+                    "11": "England",
+                    "12": "Estonia",
+                    "13": "Scotland",
+                    "14": "Kuwait",
+                    "15": "Greece",
+                    "16": "Guyana"
+                }
+            },
+            "1C": {
+                "competition": "European Nations League C",
+                "region": 1,
+                "division": 3,
+                "field": 12,
+                "promotions": 4,
+                "promoted countries": [
+                    "Switzerland",
+                    "Poland",
+                    "Croatia",
+                    "Liechtenstein"
+                ],
+                "relegations": 2,
+                "relegated countries": [
+                    "Georgia",
+                    "Czechia"
+                ],
+                "results": {
+                    "1": "Switzerland",
+                    "2": "Poland",
+                    "3": "Croatia",
+                    "4": "Liechtenstein",
+                    "5": "Latvia",
+                    "6": "Denmark",
+                    "7": "Bulgaria",
+                    "8": "Romania",
+                    "9": "Hungary",
+                    "10": "Italy",
+                    "11": "Czechia",
+                    "12": "Georgia"
+                }
+            },
+            "3C": {
+                "competition": "Asia Pacific Nations League C",
+                "region": 3,
+                "division": 3,
+                "field": 6,
+                "promotions": 4,
+                "promoted countries": [
+                    "Thailand",
+                    "Saudi Arabia",
+                    "Kyrgystan",
+                    "Mongolia"
+                ],
+                "results": {
+                    "1": "Thailand",
+                    "2": "Saudi Arabia",
+                    "3": "Kyrgystan",
+                    "4": "Mongolia",
+                    "5": "Philippines",
+                    "6": "Australia"
+                }
+            },
+            "1D": {
+                "competition": "European Nations League D",
+                "region": 1,
+                "division": 4,
+                "field": 10,
+                "promotions": 2,
+                "promoted countries": [
+                    "Portugal",
+                    "Lithuania"
+                ],
+                "results": {
+                    "1": "Portugal",
+                    "2": "Lithuania",
+                    "3": "Bosnia & Herzegovina",
+                    "4": "Monaco",
+                    "5": "Iceland",
+                    "6": "Slovenia",
+                    "7": "Austria",
+                    "8": "Luxembourg",
+                    "9": "Kosovo",
+                    "10": "Andorra"
+                }
+            }
+        }
+    },
+    "7": {
+        "year": "7",
+        "competitions": {
+            "1B": {
+                "competition": "European Nations League B",
+                "region": 1,
+                "division": 2,
+                "field": 12,
+                "promotions": 2,
+                "promoted countries": [
+                    "Switzerland",
+                    "Slovakia"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Croatia",
+                    "Sweden",
+                    "Belgium",
+                    "Liechtenstein"
+                ],
+                "results": {
+                    "1": "Switzerland",
+                    "2": "Slovakia",
+                    "3": "Israel",
+                    "4": "T\u00fcrkiye",
+                    "5": "Poland",
+                    "6": "Greece",
+                    "7": "Scotland",
+                    "8": "Ireland",
+                    "9": "Liechtenstein",
+                    "10": "Belgium",
+                    "11": "Sweden",
+                    "12": "Croatia"
+                }
+            },
+            "2B": {
+                "competition": "Americas Nations League B",
+                "region": 2,
+                "division": 2,
+                "field": 8,
+                "promotions": 1,
+                "promoted countries": [
+                    "Jamaica"
+                ],
+                "results": {
+                    "1": "Jamaica",
+                    "2": "US Virgin Islands",
+                    "3": "Dominican Republic",
+                    "4": "USA",
+                    "5": "Guyana",
+                    "6": "Brazil",
+                    "7": "Mexico",
+                    "8": "Bolivia"
+                }
+            },
+            "3B": {
+                "competition": "Asia Pacific Nations League B",
+                "region": 3,
+                "division": 2,
+                "field": 12,
+                "promotions": 1,
+                "promoted countries": [
+                    "Saudi Arabia"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Pakistan",
+                    "Nigeria",
+                    "Hong Kong",
+                    "Thailand"
+                ],
+                "results": {
+                    "1": "Saudi Arabia",
+                    "2": "Turkmenistan",
+                    "3": "Kenya",
+                    "4": "China",
+                    "5": "Kuwait",
+                    "6": "Mongolia",
+                    "7": "Korea",
+                    "8": "Kyrgystan",
+                    "9": "Thailand",
+                    "10": "Hong Kong",
+                    "11": "Nigeria",
+                    "12": "Pakistan"
+                }
+            },
+            "1A": {
+                "competition": "European Nations League A",
+                "region": 1,
+                "division": 1,
+                "field": 10,
+                "winner": "Estonia",
+                "results": {
+                    "1": "Estonia",
+                    "2": "Wales",
+                    "3": "Slovakia",
+                    "4": "Switzerland",
+                    "5": "England",
+                    "6": "Netherlands",
+                    "7": "Norway",
+                    "8": "Ukraine",
+                    "9": "Germany",
+                    "10": "Israel"
+                }
+            },
+            "23A": {
+                "competition": "Pan Continental Nations League A",
+                "region": [
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 8,
+                "winner": "Qatar",
+                "results": {
+                    "1": "Qatar",
+                    "2": "Japan",
+                    "3": "Jamaica",
+                    "4": "US Virgin Islands",
+                    "5": "Canada",
+                    "6": "New Zealand",
+                    "7": "Saudi Arabia",
+                    "8": "Puerto Rico"
+                }
+            },
+            "WC": {
+                "competition": "World Championships",
+                "region": [
+                    1,
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 16,
+                "winner": "Qatar",
+                "relegations": 4,
+                "relegated countries": [
+                    "Wales",
+                    "New Zealand",
+                    "Puerto Rico",
+                    "Ukraine"
+                ],
+                "results": {
+                    "1": "Qatar",
+                    "2": "Canada",
+                    "3": "Saudi Arabia",
+                    "4": "Jamaica",
+                    "5": "Estonia",
+                    "6": "England",
+                    "7": "Germany",
+                    "8": "Switzerland",
+                    "9": "Norway",
+                    "10": "Slovakia",
+                    "11": "Netherlands",
+                    "12": "Japan",
+                    "13": "Ukraine",
+                    "14": "Puerto Rico",
+                    "15": "New Zealand",
+                    "16": "Wales"
+                }
+            },
+            "1C": {
+                "competition": "European Nations League C",
+                "region": 1,
+                "division": 3,
+                "field": 12,
+                "promotions": 4,
+                "promoted countries": [
+                    "Spain",
+                    "Romania",
+                    "Portugal",
+                    "Bulgaria"
+                ],
+                "relegations": 2,
+                "relegated countries": [
+                    "Finland",
+                    "Lithuania"
+                ],
+                "results": {
+                    "1": "Spain",
+                    "2": "Romania",
+                    "3": "Portugal",
+                    "4": "Bulgaria",
+                    "5": "Denmark",
+                    "6": "Serbia",
+                    "7": "Latvia",
+                    "8": "Hungary",
+                    "9": "France",
+                    "10": "Italy",
+                    "11": "Lithuania",
+                    "12": "Finland"
+                }
+            },
+            "3C": {
+                "competition": "Asia Pacific Nations League C",
+                "region": 3,
+                "division": 3,
+                "field": 6,
+                "promotions": 4,
+                "promoted countries": [
+                    "Australia",
+                    "Afghanistan",
+                    "Chinese Taipei",
+                    "Kazakhstan"
+                ],
+                "results": {
+                    "1": "Australia",
+                    "2": "Afghanistan",
+                    "3": "Chinese Taipei",
+                    "4": "Kazakhstan",
+                    "5": "Philippines",
+                    "6": "India"
+                }
+            },
+            "1D": {
+                "competition": "European Nations League D",
+                "region": 1,
+                "division": 4,
+                "field": 10,
+                "promotions": 2,
+                "promoted countries": [
+                    "Iceland",
+                    "Bosnia & Herzegovina"
+                ],
+                "results": {
+                    "1": "Iceland",
+                    "2": "Bosnia & Herzegovina",
+                    "3": "Kosovo",
+                    "4": "Andorra",
+                    "5": "Luxembourg",
+                    "6": "Austria",
+                    "7": "Slovenia",
+                    "8": "Monaco",
+                    "9": "Georgia",
+                    "10": "Czechia"
+                }
+            }
+        }
+    },
+    "8": {
+        "year": "8",
+        "competitions": {
+            "1B": {
+                "competition": "European Nations League B",
+                "region": 1,
+                "division": 2,
+                "field": 12,
+                "promotions": 2,
+                "promoted countries": [
+                    "T\u00fcrkiye",
+                    "Scotland"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Ireland",
+                    "Romania",
+                    "Poland",
+                    "Portugal"
+                ],
+                "results": {
+                    "1": "T\u00fcrkiye",
+                    "2": "Scotland",
+                    "3": "Greece",
+                    "4": "Ukraine",
+                    "5": "Bulgaria",
+                    "6": "Wales",
+                    "7": "Israel",
+                    "8": "Spain",
+                    "9": "Portugal",
+                    "10": "Poland",
+                    "11": "Romania",
+                    "12": "Ireland"
+                }
+            },
+            "2B": {
+                "competition": "Americas Nations League B",
+                "region": 2,
+                "division": 2,
+                "field": 8,
+                "promotions": 1,
+                "promoted countries": [
+                    "US Virgin Islands"
+                ],
+                "results": {
+                    "1": "US Virgin Islands",
+                    "2": "Bolivia",
+                    "3": "Brazil",
+                    "4": "USA",
+                    "5": "Mexico",
+                    "6": "Dominican Republic",
+                    "7": "Puerto Rico",
+                    "8": "Guyana"
+                }
+            },
+            "3B": {
+                "competition": "Asia Pacific Nations League B",
+                "region": 3,
+                "division": 2,
+                "field": 12,
+                "promotions": 1,
+                "promoted countries": [
+                    "Korea"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Mongolia",
+                    "Kenya",
+                    "Australia",
+                    "Afghanistan"
+                ],
+                "results": {
+                    "1": "Korea",
+                    "2": "Kuwait",
+                    "3": "Kazakhstan",
+                    "4": "New Zealand",
+                    "5": "Kyrgystan",
+                    "6": "Turkmenistan",
+                    "7": "Chinese Taipei",
+                    "8": "China",
+                    "9": "Afghanistan",
+                    "10": "Australia",
+                    "11": "Kenya",
+                    "12": "Mongolia"
+                }
+            },
+            "1A": {
+                "competition": "European Nations League A",
+                "region": 1,
+                "division": 1,
+                "field": 10,
+                "winner": "England",
+                "results": {
+                    "1": "England",
+                    "2": "T\u00fcrkiye",
+                    "3": "Netherlands",
+                    "4": "Norway",
+                    "5": "Slovakia",
+                    "6": "Germany",
+                    "7": "Switzerland",
+                    "8": "Greece",
+                    "9": "Estonia",
+                    "10": "Scotland"
+                }
+            },
+            "23A": {
+                "competition": "Pan Continental Nations League A",
+                "region": [
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 8,
+                "winner": "Qatar",
+                "results": {
+                    "1": "Qatar",
+                    "2": "Jamaica",
+                    "3": "US Virgin Islands",
+                    "4": "Korea",
+                    "5": "Bolivia",
+                    "6": "Canada",
+                    "7": "Japan",
+                    "8": "Saudi Arabia"
+                }
+            },
+            "WC": {
+                "competition": "World Championships",
+                "region": [
+                    1,
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 16,
+                "winner": "Canada",
+                "relegations": 4,
+                "relegated countries": [
+                    "Japan",
+                    "US Virgin Islands",
+                    "Slovakia",
+                    "T\u00fcrkiye"
+                ],
+                "results": {
+                    "1": "Canada",
+                    "2": "Germany",
+                    "3": "Jamaica",
+                    "4": "England",
+                    "5": "Switzerland",
+                    "6": "Qatar",
+                    "7": "Estonia",
+                    "8": "Saudi Arabia",
+                    "9": "Norway",
+                    "10": "Korea",
+                    "11": "Netherlands",
+                    "12": "Scotland",
+                    "13": "T\u00fcrkiye",
+                    "14": "Slovakia",
+                    "15": "US Virgin Islands",
+                    "16": "Japan"
+                }
+            },
+            "1C": {
+                "competition": "European Nations League C",
+                "region": 1,
+                "division": 3,
+                "field": 12,
+                "promotions": 4,
+                "promoted countries": [
+                    "Hungary",
+                    "Denmark",
+                    "Croatia",
+                    "Sweden"
+                ],
+                "relegations": 2,
+                "relegated countries": [
+                    "Belgium",
+                    "Iceland"
+                ],
+                "results": {
+                    "1": "Hungary",
+                    "2": "Denmark",
+                    "3": "Croatia",
+                    "4": "Sweden",
+                    "5": "Liechtenstein",
+                    "6": "Italy",
+                    "7": "Bosnia & Herzegovina",
+                    "8": "Serbia",
+                    "9": "France",
+                    "10": "Latvia",
+                    "11": "Iceland",
+                    "12": "Belgium"
+                }
+            },
+            "3C": {
+                "competition": "Asia Pacific Nations League C",
+                "region": 3,
+                "division": 3,
+                "field": 6,
+                "promotions": 4,
+                "promoted countries": [
+                    "Thailand",
+                    "Nigeria",
+                    "Philippines",
+                    "Pakistan"
+                ],
+                "results": {
+                    "1": "Thailand",
+                    "2": "Nigeria",
+                    "3": "Philippines",
+                    "4": "Pakistan",
+                    "5": "India",
+                    "6": "Hong Kong"
+                }
+            },
+            "1D": {
+                "competition": "European Nations League D",
+                "region": 1,
+                "division": 4,
+                "field": 10,
+                "promotions": 2,
+                "promoted countries": [
+                    "Lithuania",
+                    "Monaco"
+                ],
+                "results": {
+                    "1": "Lithuania",
+                    "2": "Monaco",
+                    "3": "Slovenia",
+                    "4": "Luxembourg",
+                    "5": "Kosovo",
+                    "6": "Georgia",
+                    "7": "Finland",
+                    "8": "Czechia",
+                    "9": "Andorra",
+                    "10": "Austria"
+                }
+            }
+        }
+    },
+    "9": {
+        "year": "9",
+        "competitions": {
+            "1B": {
+                "competition": "European Nations League B",
+                "region": 1,
+                "division": 2,
+                "field": 12,
+                "promotions": 2,
+                "promoted countries": [
+                    "Sweden",
+                    "Spain"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "T\u00fcrkiye",
+                    "Greece",
+                    "Denmark",
+                    "Hungary"
+                ],
+                "results": {
+                    "1": "Sweden",
+                    "2": "Spain",
+                    "3": "Ukraine",
+                    "4": "Israel",
+                    "5": "Wales",
+                    "6": "Slovakia",
+                    "7": "Bulgaria",
+                    "8": "Croatia",
+                    "9": "Hungary",
+                    "10": "Denmark",
+                    "11": "Greece",
+                    "12": "T\u00fcrkiye"
+                }
+            },
+            "2B": {
+                "competition": "Americas Nations League B",
+                "region": 2,
+                "division": 2,
+                "field": 8,
+                "promotions": 1,
+                "promoted countries": [
+                    "Bolivia"
+                ],
+                "results": {
+                    "1": "Bolivia",
+                    "2": "US Virgin Islands",
+                    "3": "Brazil",
+                    "4": "Dominican Republic",
+                    "5": "Guyana",
+                    "6": "USA",
+                    "7": "Mexico",
+                    "8": "Puerto Rico"
+                }
+            },
+            "3B": {
+                "competition": "Asia Pacific Nations League B",
+                "region": 3,
+                "division": 2,
+                "field": 12,
+                "promotions": 1,
+                "promoted countries": [
+                    "Kuwait"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Kyrgystan",
+                    "Nigeria",
+                    "Chinese Taipei",
+                    "Pakistan"
+                ],
+                "results": {
+                    "1": "Kuwait",
+                    "2": "China",
+                    "3": "Thailand",
+                    "4": "Turkmenistan",
+                    "5": "New Zealand",
+                    "6": "Philippines",
+                    "7": "Kazakhstan",
+                    "8": "Japan",
+                    "9": "Pakistan",
+                    "10": "Chinese Taipei",
+                    "11": "Nigeria",
+                    "12": "Kyrgystan"
+                }
+            },
+            "1A": {
+                "competition": "European Nations League A",
+                "region": 1,
+                "division": 1,
+                "field": 10,
+                "winner": "Norway",
+                "results": {
+                    "1": "Norway",
+                    "2": "Germany",
+                    "3": "Sweden",
+                    "4": "Spain",
+                    "5": "England",
+                    "6": "Scotland",
+                    "7": "Estonia",
+                    "8": "Ukraine",
+                    "9": "Switzerland",
+                    "10": "Netherlands"
+                }
+            },
+            "23A": {
+                "competition": "Pan Continental Nations League A",
+                "region": [
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 8,
+                "winner": "Kuwait",
+                "results": {
+                    "1": "Kuwait",
+                    "2": "Bolivia",
+                    "3": "US Virgin Islands",
+                    "4": "Jamaica",
+                    "5": "Saudi Arabia",
+                    "6": "Korea",
+                    "7": "Canada",
+                    "8": "Qatar"
+                }
+            },
+            "WC": {
+                "competition": "World Championships",
+                "region": [
+                    1,
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 16,
+                "winner": "Korea",
+                "relegations": 4,
+                "relegated countries": [
+                    "Switzerland",
+                    "Kuwait",
+                    "Sweden",
+                    "Netherlands"
+                ],
+                "results": {
+                    "1": "Korea",
+                    "2": "Germany",
+                    "3": "Jamaica",
+                    "4": "Norway",
+                    "5": "England",
+                    "6": "Saudi Arabia",
+                    "7": "Spain",
+                    "8": "Qatar",
+                    "9": "Canada",
+                    "10": "Estonia",
+                    "11": "Bolivia",
+                    "12": "Scotland",
+                    "13": "Netherlands",
+                    "14": "Sweden",
+                    "15": "Kuwait",
+                    "16": "Switzerland"
+                }
+            },
+            "1C": {
+                "competition": "European Nations League C",
+                "region": 1,
+                "division": 3,
+                "field": 12,
+                "promotions": 3,
+                "promoted countries": [
+                    "Portugal",
+                    "Monaco",
+                    "Poland"
+                ],
+                "relegations": 3,
+                "relegated countries": [
+                    "France",
+                    "Serbia",
+                    "Bosnia & Herzegovina"
+                ],
+                "results": {
+                    "1": "Portugal",
+                    "2": "Monaco",
+                    "3": "Poland",
+                    "4": "Ireland",
+                    "5": "Lithuania",
+                    "6": "Liechtenstein",
+                    "7": "Romania",
+                    "8": "Italy",
+                    "9": "Latvia",
+                    "10": "Bosnia & Herzegovina",
+                    "11": "Serbia",
+                    "12": "France"
+                }
+            },
+            "3C": {
+                "competition": "Asia Pacific Nations League C",
+                "region": 3,
+                "division": 3,
+                "field": 6,
+                "promotions": 4,
+                "promoted countries": [
+                    "Mongolia",
+                    "Afghanistan",
+                    "Kenya",
+                    "Australia"
+                ],
+                "results": {
+                    "1": "Mongolia",
+                    "2": "Afghanistan",
+                    "3": "Kenya",
+                    "4": "Australia",
+                    "5": "Hong Kong",
+                    "6": "India"
+                }
+            },
+            "1D": {
+                "competition": "European Nations League D",
+                "region": 1,
+                "division": 4,
+                "field": 10,
+                "promotions": 2,
+                "promoted countries": [
+                    "Austria",
+                    "Kosovo"
+                ],
+                "results": {
+                    "1": "Austria",
+                    "2": "Kosovo",
+                    "3": "Finland",
+                    "4": "Luxembourg",
+                    "5": "Andorra",
+                    "6": "Czechia",
+                    "7": "Slovenia",
+                    "8": "Iceland",
+                    "9": "Belgium",
+                    "10": "Georgia"
+                }
+            }
+        }
+    },
+    "10": {
+        "year": "10",
+        "competitions": {
+            "1B": {
+                "competition": "European Nations League B",
+                "region": 1,
+                "division": 2,
+                "field": 12,
+                "promotions": 2,
+                "promoted countries": [
+                    "Ukraine",
+                    "Portugal"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Bulgaria",
+                    "Wales",
+                    "Sweden",
+                    "Netherlands"
+                ],
+                "results": {
+                    "1": "Ukraine",
+                    "2": "Portugal",
+                    "3": "Monaco",
+                    "4": "Poland",
+                    "5": "Slovakia",
+                    "6": "Israel",
+                    "7": "Switzerland",
+                    "8": "Croatia",
+                    "9": "Netherlands",
+                    "10": "Sweden",
+                    "11": "Wales",
+                    "12": "Bulgaria"
+                }
+            },
+            "2B": {
+                "competition": "Americas Nations League B",
+                "region": 2,
+                "division": 2,
+                "field": 7,
+                "promotions": 1,
+                "promoted countries": [
+                    "Puerto Rico"
+                ],
+                "results": {
+                    "1": "Puerto Rico",
+                    "2": "Brazil",
+                    "3": "Mexico",
+                    "4": "Dominican Republic",
+                    "5": "US Virgin Islands",
+                    "6": "Guyana",
+                    "7": "USA"
+                }
+            },
+            "3B": {
+                "competition": "Asia Pacific Nations League B",
+                "region": 3,
+                "division": 2,
+                "field": 12,
+                "promotions": 1,
+                "promoted countries": [
+                    "Kazakhstan"
+                ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Australia",
+                    "Turkmenistan",
+                    "New Zealand",
+                    "Thailand"
+                ],
+                "results": {
+                    "1": "Kazakhstan",
+                    "2": "Afghanistan",
+                    "3": "Kuwait",
+                    "4": "Philippines",
+                    "5": "Kenya",
+                    "6": "Japan",
+                    "7": "Mongolia",
+                    "8": "China",
+                    "9": "Thailand",
+                    "10": "New Zealand",
+                    "11": "Turkmenistan",
+                    "12": "Australia"
+                }
+            },
+            "1A": {
+                "competition": "European Nations League A",
+                "region": 1,
+                "division": 1,
+                "field": 10,
+                "winner": "Estonia",
+                "results": {
+                    "1": "Estonia",
+                    "2": "Ukraine",
+                    "3": "Scotland",
+                    "4": "Poland",
+                    "5": "Portugal",
+                    "6": "Monaco",
+                    "7": "Norway",
+                    "8": "Germany",
+                    "9": "England",
+                    "10": "Spain"
+                }
+            },
+            "23A": {
+                "competition": "Pan Continental Nations League A",
+                "region": [
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 8,
+                "winner": "Qatar",
+                "results": {
+                    "1": "Qatar",
+                    "2": "Puerto Rico",
+                    "3": "Korea",
+                    "4": "Bolivia",
+                    "5": "Kazakhstan",
+                    "6": "Saudi Arabia",
+                    "7": "Jamaica",
+                    "8": "Canada"
+                }
+            },
+            "WC": {
+                "competition": "World Championships",
+                "region": [
+                    1,
+                    2,
+                    3
+                ],
+                "division": 1,
+                "field": 16,
+                "winner": "Estonia",
+                "relegations": 4,
+                "relegated countries": [
+                    "Ukraine",
+                    "Qatar",
+                    "Puerto Rico",
+                    "Jamaica"
+                ],
+                "results": {
+                    "1": "Estonia",
+                    "2": "England",
+                    "3": "Spain",
+                    "4": "Norway",
+                    "5": "Germany",
+                    "6": "Canada",
+                    "7": "Portugal",
+                    "8": "Scotland",
+                    "9": "Kazakhstan",
+                    "10": "Korea",
+                    "11": "Bolivia",
+                    "12": "Saudi Arabia",
+                    "13": "Jamaica",
+                    "14": "Puerto Rico",
+                    "15": "Qatar",
+                    "16": "Ukraine"
+                }
+            },
+            "1C": {
+                "competition": "European Nations League C",
+                "region": 1,
+                "division": 3,
+                "field": 12,
+                "promotions": 5,
+                "promoted countries": [
+                    "Denmark",
+                    "Lithuania",
+                    "Kosovo",
+                    "Liechtenstein",
+                    "Romania"
+                ],
+                "relegations": 2,
+                "relegated countries": [
+                    "Latvia",
+                    "Italy"
+                ],
+                "results": {
+                    "1": "Denmark",
+                    "2": "Lithuania",
+                    "3": "Kosovo",
+                    "4": "Liechtenstein",
+                    "5": "Romania",
+                    "6": "Ireland",
+                    "7": "Greece",
+                    "8": "T\u00fcrkiye",
+                    "9": "Hungary",
+                    "10": "Austria",
+                    "11": "Italy",
+                    "12": "Latvia"
+                }
+            },
+            "3C": {
+                "competition": "Asia Pacific Nations League C",
+                "region": 3,
+                "division": 3,
+                "field": 6,
+                "promotions": 4,
+                "promoted countries": [
+                    "Nigeria",
+                    "Chinese Taipei",
+                    "Kyrgystan",
+                    "India"
+                ],
+                "results": {
+                    "1": "Nigeria",
+                    "2": "Chinese Taipei",
+                    "3": "Kyrgystan",
+                    "4": "India",
+                    "5": "Hong Kong",
+                    "6": "Pakistan"
+                }
+            },
+            "1D": {
+                "competition": "European Nations League D",
+                "region": 1,
+                "division": 4,
+                "field": 11,
+                "promotions": 3,
+                "promoted countries": [
+                    "Slovenia",
+                    "Czechia",
+                    "Bosnia & Herzegovina"
+                ],
+                "results": {
+                    "1": "Slovenia",
+                    "2": "Czechia",
+                    "3": "Bosnia & Herzegovina",
+                    "4": "Andorra",
+                    "5": "Georgia",
+                    "6": "Finland",
+                    "7": "Serbia",
+                    "8": "France",
+                    "9": "Luxembourg",
+                    "10": "Belgium",
+                    "11": "Iceland"
+                }
+            }
+        }
+    }
+}
