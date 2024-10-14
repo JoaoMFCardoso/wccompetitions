@@ -9,29 +9,29 @@
                 "field": 12,
                 "promotions": 2,
                 "promoted countries": [
-                    "Wales",
-                    "Latvia"
+                    "Slovakia",
+                    "Hungary"
                 ],
                 "relegations": 4,
                 "relegated countries": [
-                    "Austria",
-                    "Slovakia",
-                    "Finland",
-                    "Belgium"
+                    "Netherlands",
+                    "Spain",
+                    "Estonia",
+                    "Denmark"
                 ],
                 "results": {
-                    "1": "Wales",
-                    "2": "Latvia",
-                    "3": "Netherlands",
-                    "4": "England",
-                    "5": "Spain",
-                    "6": "Hungary",
-                    "7": "Denmark",
-                    "8": "Estonia",
-                    "9": "Belgium",
-                    "10": "Finland",
-                    "11": "Slovakia",
-                    "12": "Austria"
+                    "1": "Slovakia",
+                    "2": "Hungary",
+                    "3": "Austria",
+                    "4": "Finland",
+                    "5": "England",
+                    "6": "Belgium",
+                    "7": "Latvia",
+                    "8": "Wales",
+                    "9": "Denmark",
+                    "10": "Estonia",
+                    "11": "Spain",
+                    "12": "Netherlands"
                 }
             },
             "2B": {
@@ -41,17 +41,17 @@
                 "field": 8,
                 "promotions": 1,
                 "promoted countries": [
-                    "Guyana"
+                    "Bolivia"
                 ],
                 "results": {
-                    "1": "Guyana",
-                    "2": "Jamaica",
-                    "3": "Brazil",
-                    "4": "Bolivia",
-                    "5": "Dominican Republic",
-                    "6": "Mexico",
+                    "1": "Bolivia",
+                    "2": "Guyana",
+                    "3": "US Virgin Islands",
+                    "4": "Dominican Republic",
+                    "5": "Brazil",
+                    "6": "Jamaica",
                     "7": "Puerto Rico",
-                    "8": "US Virgin Islands"
+                    "8": "Mexico"
                 }
             },
             "3B": {
@@ -61,27 +61,27 @@
                 "field": 12,
                 "promotions": 1,
                 "promoted countries": [
-                    "Australia"
+                    "Chinese Taipei"
                 ],
                 "relegations": 3,
                 "relegated countries": [
-                    "Saudi Arabia",
-                    "Nigeria",
-                    "Kyrgystan"
+                    "New Zealand",
+                    "Qatar",
+                    "Australia"
                 ],
                 "results": {
-                    "1": "Australia",
-                    "2": "Hong Kong",
-                    "3": "Chinese Taipei",
-                    "4": "New Zealand",
-                    "5": "China",
-                    "6": "Kazakhstan",
-                    "7": "Philippines",
-                    "8": "Qatar",
+                    "1": "Chinese Taipei",
+                    "2": "Saudi Arabia",
+                    "3": "Hong Kong",
+                    "4": "Philippines",
+                    "5": "Kyrgystan",
+                    "6": "China",
+                    "7": "Kazakhstan",
+                    "8": "Nigeria",
                     "9": "India",
-                    "10": "Kyrgystan",
-                    "11": "Nigeria",
-                    "12": "Saudi Arabia"
+                    "10": "Australia",
+                    "11": "Qatar",
+                    "12": "New Zealand"
                 }
             },
             "1A": {
@@ -89,17 +89,17 @@
                 "region": 1,
                 "division": 1,
                 "field": 10,
-                "winner": "Czechia",
+                "winner": "Norway",
                 "results": {
-                    "1": "Czechia",
-                    "2": "Norway",
-                    "3": "Italy",
-                    "4": "Latvia",
-                    "5": "Wales",
-                    "6": "T\u00fcrkiye",
-                    "7": "Germany",
-                    "8": "Switzerland",
-                    "9": "Sweden",
+                    "1": "Norway",
+                    "2": "Germany",
+                    "3": "Switzerland",
+                    "4": "Slovakia",
+                    "5": "Hungary",
+                    "6": "Sweden",
+                    "7": "Italy",
+                    "8": "T\u00fcrkiye",
+                    "9": "Czechia",
                     "10": "Scotland"
                 }
             },
@@ -111,16 +111,16 @@
                 ],
                 "division": 1,
                 "field": 8,
-                "winner": "Hong Kong",
+                "winner": "Saudi Arabia",
                 "results": {
-                    "1": "Hong Kong",
-                    "2": "USA",
-                    "3": "Japan",
-                    "4": "Korea",
-                    "5": "Guyana",
-                    "6": "Canada",
-                    "7": "Jamaica",
-                    "8": "Australia"
+                    "1": "Saudi Arabia",
+                    "2": "Japan",
+                    "3": "USA",
+                    "4": "Guyana",
+                    "5": "Bolivia",
+                    "6": "Chinese Taipei",
+                    "7": "Korea",
+                    "8": "Canada"
                 }
             },
             "WC": {
@@ -132,31 +132,31 @@
                 ],
                 "division": 1,
                 "field": 16,
-                "winner": "Norway",
+                "winner": "Italy",
                 "relegations": 4,
                 "relegated countries": [
-                    "Switzerland",
-                    "Sweden",
-                    "Italy",
-                    "Guyana"
+                    "T\u00fcrkiye",
+                    "Norway",
+                    "USA",
+                    "Hungary"
                 ],
                 "results": {
-                    "1": "Norway",
-                    "2": "Korea",
-                    "3": "USA",
-                    "4": "Canada",
-                    "5": "T\u00fcrkiye",
-                    "6": "Scotland",
-                    "7": "Czechia",
-                    "8": "Wales",
-                    "9": "Latvia",
-                    "10": "Germany",
-                    "11": "Australia",
-                    "12": "Japan",
-                    "13": "Guyana",
-                    "14": "Italy",
-                    "15": "Sweden",
-                    "16": "Switzerland"
+                    "1": "Italy",
+                    "2": "Canada",
+                    "3": "Chinese Taipei",
+                    "4": "Japan",
+                    "5": "Germany",
+                    "6": "Korea",
+                    "7": "Switzerland",
+                    "8": "Slovakia",
+                    "9": "Bolivia",
+                    "10": "Sweden",
+                    "11": "Scotland",
+                    "12": "Czechia",
+                    "13": "Hungary",
+                    "14": "USA",
+                    "15": "Norway",
+                    "16": "T\u00fcrkiye"
                 }
             },
             "1C": {
@@ -166,29 +166,29 @@
                 "field": 12,
                 "promotions": 3,
                 "promoted countries": [
-                    "Ireland",
-                    "Portugal",
-                    "France"
+                    "Bulgaria",
+                    "Croatia",
+                    "Liechtenstein"
                 ],
                 "relegations": 3,
                 "relegated countries": [
-                    "Andorra",
-                    "Liechtenstein",
-                    "Poland"
+                    "Slovenia",
+                    "Romania",
+                    "Andorra"
                 ],
                 "results": {
-                    "1": "Ireland",
-                    "2": "Portugal",
-                    "3": "France",
-                    "4": "Ukraine",
-                    "5": "Slovenia",
-                    "6": "Lithuania",
-                    "7": "Romania",
-                    "8": "Bulgaria",
-                    "9": "Croatia",
-                    "10": "Poland",
-                    "11": "Liechtenstein",
-                    "12": "Andorra"
+                    "1": "Bulgaria",
+                    "2": "Croatia",
+                    "3": "Liechtenstein",
+                    "4": "Portugal",
+                    "5": "Lithuania",
+                    "6": "Ukraine",
+                    "7": "Poland",
+                    "8": "France",
+                    "9": "Ireland",
+                    "10": "Andorra",
+                    "11": "Romania",
+                    "12": "Slovenia"
                 }
             },
             "3C": {
@@ -198,19 +198,19 @@
                 "field": 7,
                 "promotions": 4,
                 "promoted countries": [
-                    "Turkmenistan",
-                    "Kenya",
+                    "Afghanistan",
                     "Pakistan",
+                    "Mongolia",
                     "Thailand"
                 ],
                 "results": {
-                    "1": "Turkmenistan",
-                    "2": "Kenya",
-                    "3": "Pakistan",
+                    "1": "Afghanistan",
+                    "2": "Pakistan",
+                    "3": "Mongolia",
                     "4": "Thailand",
-                    "5": "Kuwait",
-                    "6": "Afghanistan",
-                    "7": "Mongolia"
+                    "5": "Kenya",
+                    "6": "Turkmenistan",
+                    "7": "Kuwait"
                 }
             },
             "1D": {
@@ -226,13 +226,13 @@
                 "results": {
                     "1": "Israel",
                     "2": "Georgia",
-                    "3": "Iceland",
-                    "4": "Serbia",
-                    "5": "Monaco",
-                    "6": "Kosovo",
-                    "7": "Bosnia & Herzegovina",
+                    "3": "Bosnia & Herzegovina",
+                    "4": "Kosovo",
+                    "5": "Luxembourg",
+                    "6": "Iceland",
+                    "7": "Monaco",
                     "8": "Greece",
-                    "9": "Luxembourg"
+                    "9": "Serbia"
                 }
             }
         }
@@ -247,29 +247,29 @@
                 "field": 12,
                 "promotions": 2,
                 "promoted countries": [
-                    "Netherlands",
+                    "Hungary",
                     "England"
                 ],
                 "relegations": 4,
                 "relegated countries": [
-                    "Hungary",
-                    "Portugal",
-                    "Estonia",
-                    "Spain"
+                    "Finland",
+                    "Liechtenstein",
+                    "Croatia",
+                    "Austria"
                 ],
                 "results": {
-                    "1": "Netherlands",
+                    "1": "Hungary",
                     "2": "England",
-                    "3": "Denmark",
-                    "4": "France",
-                    "5": "Ireland",
-                    "6": "Sweden",
-                    "7": "Italy",
-                    "8": "Switzerland",
-                    "9": "Spain",
-                    "10": "Estonia",
-                    "11": "Portugal",
-                    "12": "Hungary"
+                    "3": "Belgium",
+                    "4": "Latvia",
+                    "5": "Bulgaria",
+                    "6": "Wales",
+                    "7": "Norway",
+                    "8": "T\u00fcrkiye",
+                    "9": "Austria",
+                    "10": "Croatia",
+                    "11": "Liechtenstein",
+                    "12": "Finland"
                 }
             },
             "2B": {
@@ -283,13 +283,13 @@
                 ],
                 "results": {
                     "1": "Dominican Republic",
-                    "2": "Mexico",
-                    "3": "Jamaica",
-                    "4": "US Virgin Islands",
-                    "5": "Puerto Rico",
-                    "6": "Bolivia",
-                    "7": "Guyana",
-                    "8": "Brazil"
+                    "2": "Jamaica",
+                    "3": "Brazil",
+                    "4": "Mexico",
+                    "5": "Guyana",
+                    "6": "USA",
+                    "7": "Puerto Rico",
+                    "8": "US Virgin Islands"
                 }
             },
             "3B": {
@@ -299,28 +299,28 @@
                 "field": 12,
                 "promotions": 1,
                 "promoted countries": [
-                    "Philippines"
+                    "Hong Kong"
                 ],
                 "relegations": 4,
                 "relegated countries": [
+                    "India",
+                    "Afghanistan",
                     "Thailand",
-                    "Kenya",
-                    "Pakistan",
-                    "Turkmenistan"
+                    "China"
                 ],
                 "results": {
-                    "1": "Philippines",
-                    "2": "New Zealand",
-                    "3": "Qatar",
-                    "4": "China",
-                    "5": "Kazakhstan",
-                    "6": "Chinese Taipei",
-                    "7": "India",
-                    "8": "Hong Kong",
-                    "9": "Turkmenistan",
-                    "10": "Pakistan",
-                    "11": "Kenya",
-                    "12": "Thailand"
+                    "1": "Hong Kong",
+                    "2": "Pakistan",
+                    "3": "Nigeria",
+                    "4": "Kazakhstan",
+                    "5": "Mongolia",
+                    "6": "Kyrgystan",
+                    "7": "Saudi Arabia",
+                    "8": "Philippines",
+                    "9": "China",
+                    "10": "Thailand",
+                    "11": "Afghanistan",
+                    "12": "India"
                 }
             },
             "1A": {
@@ -328,18 +328,18 @@
                 "region": 1,
                 "division": 1,
                 "field": 10,
-                "winner": "Wales",
+                "winner": "Scotland",
                 "results": {
-                    "1": "Wales",
-                    "2": "Denmark",
-                    "3": "T\u00fcrkiye",
-                    "4": "England",
-                    "5": "Latvia",
-                    "6": "Norway",
-                    "7": "Germany",
-                    "8": "Netherlands",
-                    "9": "Scotland",
-                    "10": "Czechia"
+                    "1": "Scotland",
+                    "2": "Switzerland",
+                    "3": "Czechia",
+                    "4": "Belgium",
+                    "5": "Slovakia",
+                    "6": "Germany",
+                    "7": "Sweden",
+                    "8": "Italy",
+                    "9": "England",
+                    "10": "Hungary"
                 }
             },
             "23A": {
@@ -350,16 +350,16 @@
                 ],
                 "division": 1,
                 "field": 8,
-                "winner": "Korea",
+                "winner": "Dominican Republic",
                 "results": {
-                    "1": "Korea",
-                    "2": "Australia",
-                    "3": "Dominican Republic",
-                    "4": "Canada",
-                    "5": "Philippines",
-                    "6": "Japan",
-                    "7": "Mexico",
-                    "8": "USA"
+                    "1": "Dominican Republic",
+                    "2": "Japan",
+                    "3": "Bolivia",
+                    "4": "Chinese Taipei",
+                    "5": "Jamaica",
+                    "6": "Hong Kong",
+                    "7": "Canada",
+                    "8": "Korea"
                 }
             },
             "WC": {
@@ -371,31 +371,31 @@
                 ],
                 "division": 1,
                 "field": 16,
-                "winner": "Japan",
+                "winner": "Bolivia",
                 "relegations": 4,
                 "relegated countries": [
-                    "Latvia",
-                    "Australia",
-                    "Philippines",
-                    "Scotland"
+                    "Dominican Republic",
+                    "Switzerland",
+                    "Czechia",
+                    "Canada"
                 ],
                 "results": {
-                    "1": "Japan",
-                    "2": "Netherlands",
-                    "3": "Canada",
-                    "4": "Germany",
-                    "5": "England",
-                    "6": "Korea",
-                    "7": "Dominican Republic",
-                    "8": "Wales",
-                    "9": "Norway",
-                    "10": "Czechia",
-                    "11": "USA",
-                    "12": "T\u00fcrkiye",
-                    "13": "Scotland",
-                    "14": "Philippines",
-                    "15": "Australia",
-                    "16": "Latvia"
+                    "1": "Bolivia",
+                    "2": "Scotland",
+                    "3": "Japan",
+                    "4": "Slovakia",
+                    "5": "Hong Kong",
+                    "6": "Germany",
+                    "7": "Hungary",
+                    "8": "Korea",
+                    "9": "Chinese Taipei",
+                    "10": "England",
+                    "11": "Italy",
+                    "12": "Sweden",
+                    "13": "Canada",
+                    "14": "Czechia",
+                    "15": "Switzerland",
+                    "16": "Dominican Republic"
                 }
             },
             "1C": {
@@ -405,29 +405,29 @@
                 "field": 12,
                 "promotions": 4,
                 "promoted countries": [
-                    "Croatia",
-                    "Finland",
-                    "Belgium",
-                    "Israel"
+                    "Georgia",
+                    "France",
+                    "Estonia",
+                    "Denmark"
                 ],
                 "relegations": 2,
                 "relegated countries": [
-                    "Lithuania",
-                    "Slovenia"
+                    "Ireland",
+                    "Poland"
                 ],
                 "results": {
-                    "1": "Croatia",
-                    "2": "Finland",
-                    "3": "Belgium",
-                    "4": "Israel",
-                    "5": "Slovakia",
-                    "6": "Romania",
-                    "7": "Austria",
-                    "8": "Ukraine",
-                    "9": "Georgia",
-                    "10": "Bulgaria",
-                    "11": "Slovenia",
-                    "12": "Lithuania"
+                    "1": "Georgia",
+                    "2": "France",
+                    "3": "Estonia",
+                    "4": "Denmark",
+                    "5": "Lithuania",
+                    "6": "Spain",
+                    "7": "Portugal",
+                    "8": "Netherlands",
+                    "9": "Israel",
+                    "10": "Ukraine",
+                    "11": "Poland",
+                    "12": "Ireland"
                 }
             },
             "3C": {
@@ -435,19 +435,21 @@
                 "region": 3,
                 "division": 3,
                 "field": 6,
-                "promotions": 3,
+                "promotions": 5,
                 "promoted countries": [
-                    "Kyrgystan",
-                    "Saudi Arabia",
-                    "Mongolia"
+                    "Australia",
+                    "Kuwait",
+                    "New Zealand",
+                    "Turkmenistan",
+                    "Kenya"
                 ],
                 "results": {
-                    "1": "Kyrgystan",
-                    "2": "Saudi Arabia",
-                    "3": "Mongolia",
-                    "4": "Nigeria",
-                    "5": "Kuwait",
-                    "6": "Afghanistan"
+                    "1": "Australia",
+                    "2": "Kuwait",
+                    "3": "New Zealand",
+                    "4": "Turkmenistan",
+                    "5": "Kenya",
+                    "6": "Qatar"
                 }
             },
             "1D": {
@@ -457,20 +459,20 @@
                 "field": 10,
                 "promotions": 2,
                 "promoted countries": [
-                    "Luxembourg",
-                    "Kosovo"
+                    "Monaco",
+                    "Greece"
                 ],
                 "results": {
-                    "1": "Luxembourg",
-                    "2": "Kosovo",
-                    "3": "Greece",
-                    "4": "Monaco",
-                    "5": "Bosnia & Herzegovina",
-                    "6": "Poland",
+                    "1": "Monaco",
+                    "2": "Greece",
+                    "3": "Iceland",
+                    "4": "Bosnia & Herzegovina",
+                    "5": "Andorra",
+                    "6": "Romania",
                     "7": "Serbia",
-                    "8": "Liechtenstein",
-                    "9": "Andorra",
-                    "10": "Iceland"
+                    "8": "Slovenia",
+                    "9": "Kosovo",
+                    "10": "Luxembourg"
                 }
             }
         }
@@ -485,48 +487,50 @@
                 "field": 12,
                 "promotions": 2,
                 "promoted countries": [
-                    "Ireland",
-                    "Sweden"
+                    "France",
+                    "Wales"
                 ],
                 "relegations": 4,
                 "relegated countries": [
-                    "Belgium",
-                    "Switzerland",
+                    "Bulgaria",
                     "Latvia",
-                    "Scotland"
+                    "Belgium",
+                    "Denmark"
                 ],
                 "results": {
-                    "1": "Ireland",
-                    "2": "Sweden",
-                    "3": "Italy",
-                    "4": "France",
-                    "5": "Finland",
-                    "6": "Denmark",
-                    "7": "Croatia",
-                    "8": "Israel",
-                    "9": "Scotland",
-                    "10": "Latvia",
-                    "11": "Switzerland",
-                    "12": "Belgium"
+                    "1": "France",
+                    "2": "Wales",
+                    "3": "T\u00fcrkiye",
+                    "4": "Switzerland",
+                    "5": "Czechia",
+                    "6": "Estonia",
+                    "7": "Norway",
+                    "8": "Georgia",
+                    "9": "Denmark",
+                    "10": "Belgium",
+                    "11": "Latvia",
+                    "12": "Bulgaria"
                 }
             },
             "2B": {
                 "competition": "Americas Nations League B",
                 "region": 2,
                 "division": 2,
-                "field": 7,
+                "field": 9,
                 "promotions": 1,
                 "promoted countries": [
                     "Guyana"
                 ],
                 "results": {
                     "1": "Guyana",
-                    "2": "Puerto Rico",
-                    "3": "Bolivia",
-                    "4": "Mexico",
-                    "5": "Brazil",
-                    "6": "Jamaica",
-                    "7": "US Virgin Islands"
+                    "2": "Canada",
+                    "3": "Brazil",
+                    "4": "Jamaica",
+                    "5": "USA",
+                    "6": "Mexico",
+                    "7": "Dominican Republic",
+                    "8": "US Virgin Islands",
+                    "9": "Puerto Rico"
                 }
             },
             "3B": {
@@ -536,27 +540,28 @@
                 "field": 12,
                 "promotions": 1,
                 "promoted countries": [
-                    "India"
-                ],
-                "relegations": 3,
-                "relegated countries": [
-                    "Mongolia",
-                    "China",
                     "Saudi Arabia"
                 ],
+                "relegations": 4,
+                "relegated countries": [
+                    "Kenya",
+                    "Turkmenistan",
+                    "New Zealand",
+                    "Australia"
+                ],
                 "results": {
-                    "1": "India",
-                    "2": "Kazakhstan",
-                    "3": "Australia",
-                    "4": "Chinese Taipei",
-                    "5": "Philippines",
-                    "6": "Hong Kong",
-                    "7": "Qatar",
-                    "8": "New Zealand",
-                    "9": "Kyrgystan",
-                    "10": "Saudi Arabia",
-                    "11": "China",
-                    "12": "Mongolia"
+                    "1": "Saudi Arabia",
+                    "2": "Kuwait",
+                    "3": "Philippines",
+                    "4": "Mongolia",
+                    "5": "Nigeria",
+                    "6": "Kyrgystan",
+                    "7": "Kazakhstan",
+                    "8": "Pakistan",
+                    "9": "Australia",
+                    "10": "New Zealand",
+                    "11": "Turkmenistan",
+                    "12": "Kenya"
                 }
             },
             "1A": {
@@ -564,18 +569,18 @@
                 "region": 1,
                 "division": 1,
                 "field": 10,
-                "winner": "Italy",
+                "winner": "T\u00fcrkiye",
                 "results": {
-                    "1": "Italy",
-                    "2": "Germany",
-                    "3": "Netherlands",
-                    "4": "Sweden",
-                    "5": "T\u00fcrkiye",
-                    "6": "Wales",
-                    "7": "Norway",
-                    "8": "England",
-                    "9": "Czechia",
-                    "10": "Ireland"
+                    "1": "T\u00fcrkiye",
+                    "2": "Wales",
+                    "3": "Sweden",
+                    "4": "Germany",
+                    "5": "France",
+                    "6": "Italy",
+                    "7": "Hungary",
+                    "8": "Scotland",
+                    "9": "Slovakia",
+                    "10": "England"
                 }
             },
             "23A": {
@@ -586,16 +591,16 @@
                 ],
                 "division": 1,
                 "field": 8,
-                "winner": "Japan",
+                "winner": "Chinese Taipei",
                 "results": {
-                    "1": "Japan",
+                    "1": "Chinese Taipei",
                     "2": "Korea",
-                    "3": "Dominican Republic",
-                    "4": "Puerto Rico",
-                    "5": "Guyana",
-                    "6": "Canada",
-                    "7": "India",
-                    "8": "USA"
+                    "3": "Bolivia",
+                    "4": "Saudi Arabia",
+                    "5": "Hong Kong",
+                    "6": "Japan",
+                    "7": "Guyana",
+                    "8": "Canada"
                 }
             },
             "WC": {
@@ -607,31 +612,31 @@
                 ],
                 "division": 1,
                 "field": 16,
-                "winner": "Norway",
+                "winner": "Hungary",
                 "relegations": 4,
                 "relegated countries": [
-                    "Czechia",
-                    "Canada",
+                    "England",
+                    "Slovakia",
                     "Korea",
-                    "Germany"
+                    "Guyana"
                 ],
                 "results": {
-                    "1": "Norway",
-                    "2": "T\u00fcrkiye",
-                    "3": "Ireland",
-                    "4": "Wales",
-                    "5": "England",
-                    "6": "USA",
-                    "7": "Japan",
+                    "1": "Hungary",
+                    "2": "Saudi Arabia",
+                    "3": "Germany",
+                    "4": "Italy",
+                    "5": "Bolivia",
+                    "6": "Scotland",
+                    "7": "Chinese Taipei",
                     "8": "Sweden",
-                    "9": "Dominican Republic",
-                    "10": "India",
-                    "11": "Guyana",
-                    "12": "Netherlands",
-                    "13": "Germany",
+                    "9": "France",
+                    "10": "Japan",
+                    "11": "Hong Kong",
+                    "12": "Wales",
+                    "13": "Guyana",
                     "14": "Korea",
-                    "15": "Canada",
-                    "16": "Czechia"
+                    "15": "Slovakia",
+                    "16": "England"
                 }
             },
             "1C": {
@@ -641,50 +646,49 @@
                 "field": 12,
                 "promotions": 4,
                 "promoted countries": [
-                    "Romania",
-                    "Slovakia",
-                    "Luxembourg",
-                    "Ukraine"
+                    "Ukraine",
+                    "Monaco",
+                    "Finland",
+                    "Lithuania"
                 ],
                 "relegations": 2,
                 "relegated countries": [
-                    "Georgia",
-                    "Kosovo"
+                    "Croatia",
+                    "Netherlands"
                 ],
                 "results": {
-                    "1": "Romania",
-                    "2": "Slovakia",
-                    "3": "Luxembourg",
-                    "4": "Ukraine",
+                    "1": "Ukraine",
+                    "2": "Monaco",
+                    "3": "Finland",
+                    "4": "Lithuania",
                     "5": "Austria",
-                    "6": "Estonia",
-                    "7": "Portugal",
-                    "8": "Bulgaria",
-                    "9": "Hungary",
-                    "10": "Spain",
-                    "11": "Kosovo",
-                    "12": "Georgia"
+                    "6": "Israel",
+                    "7": "Liechtenstein",
+                    "8": "Greece",
+                    "9": "Spain",
+                    "10": "Portugal",
+                    "11": "Netherlands",
+                    "12": "Croatia"
                 }
             },
             "3C": {
                 "competition": "Asia Pacific Nations League C",
                 "region": 3,
                 "division": 3,
-                "field": 7,
-                "promotions": 3,
+                "field": 5,
+                "promotions": 4,
                 "promoted countries": [
-                    "Nigeria",
+                    "Qatar",
                     "Afghanistan",
-                    "Kuwait"
+                    "India",
+                    "Thailand"
                 ],
                 "results": {
-                    "1": "Nigeria",
+                    "1": "Qatar",
                     "2": "Afghanistan",
-                    "3": "Kuwait",
-                    "4": "Turkmenistan",
-                    "5": "Kenya",
-                    "6": "Thailand",
-                    "7": "Pakistan"
+                    "3": "India",
+                    "4": "Thailand",
+                    "5": "China"
                 }
             },
             "1D": {
@@ -694,20 +698,20 @@
                 "field": 10,
                 "promotions": 2,
                 "promoted countries": [
-                    "Serbia",
-                    "Liechtenstein"
+                    "Kosovo",
+                    "Ireland"
                 ],
                 "results": {
-                    "1": "Serbia",
-                    "2": "Liechtenstein",
-                    "3": "Slovenia",
-                    "4": "Andorra",
-                    "5": "Poland",
-                    "6": "Monaco",
-                    "7": "Lithuania",
-                    "8": "Greece",
-                    "9": "Bosnia & Herzegovina",
-                    "10": "Iceland"
+                    "1": "Kosovo",
+                    "2": "Ireland",
+                    "3": "Andorra",
+                    "4": "Romania",
+                    "5": "Serbia",
+                    "6": "Slovenia",
+                    "7": "Luxembourg",
+                    "8": "Iceland",
+                    "9": "Poland",
+                    "10": "Bosnia & Herzegovina"
                 }
             }
         }
@@ -722,48 +726,50 @@
                 "field": 12,
                 "promotions": 2,
                 "promoted countries": [
-                    "Germany",
-                    "Ukraine"
+                    "Switzerland",
+                    "Georgia"
                 ],
                 "relegations": 4,
                 "relegated countries": [
-                    "Croatia",
-                    "Denmark",
-                    "Czechia",
-                    "Luxembourg"
+                    "England",
+                    "Slovakia",
+                    "Monaco",
+                    "Ukraine"
                 ],
                 "results": {
-                    "1": "Germany",
-                    "2": "Ukraine",
-                    "3": "Finland",
-                    "4": "Italy",
-                    "5": "Slovakia",
-                    "6": "Romania",
-                    "7": "Israel",
-                    "8": "France",
-                    "9": "Luxembourg",
-                    "10": "Czechia",
-                    "11": "Denmark",
-                    "12": "Croatia"
+                    "1": "Switzerland",
+                    "2": "Georgia",
+                    "3": "T\u00fcrkiye",
+                    "4": "Norway",
+                    "5": "Finland",
+                    "6": "Czechia",
+                    "7": "Estonia",
+                    "8": "Lithuania",
+                    "9": "Ukraine",
+                    "10": "Monaco",
+                    "11": "Slovakia",
+                    "12": "England"
                 }
             },
             "2B": {
                 "competition": "Americas Nations League B",
                 "region": 2,
                 "division": 2,
-                "field": 7,
+                "field": 9,
                 "promotions": 1,
                 "promoted countries": [
-                    "Puerto Rico"
+                    "USA"
                 ],
                 "results": {
-                    "1": "Puerto Rico",
-                    "2": "Mexico",
+                    "1": "USA",
+                    "2": "Guyana",
                     "3": "Jamaica",
                     "4": "Canada",
-                    "5": "Bolivia",
-                    "6": "Brazil",
-                    "7": "US Virgin Islands"
+                    "5": "US Virgin Islands",
+                    "6": "Mexico",
+                    "7": "Brazil",
+                    "8": "Dominican Republic",
+                    "9": "Puerto Rico"
                 }
             },
             "3B": {
@@ -773,27 +779,28 @@
                 "field": 12,
                 "promotions": 1,
                 "promoted countries": [
-                    "Kuwait"
+                    "Afghanistan"
                 ],
-                "relegations": 3,
+                "relegations": 4,
                 "relegated countries": [
-                    "Hong Kong",
-                    "Australia",
-                    "Chinese Taipei"
+                    "Mongolia",
+                    "Thailand",
+                    "Qatar",
+                    "Philippines"
                 ],
                 "results": {
-                    "1": "Kuwait",
+                    "1": "Afghanistan",
                     "2": "Kyrgystan",
-                    "3": "Philippines",
-                    "4": "New Zealand",
-                    "5": "Qatar",
-                    "6": "Afghanistan",
-                    "7": "Kazakhstan",
-                    "8": "Nigeria",
-                    "9": "Korea",
-                    "10": "Chinese Taipei",
-                    "11": "Australia",
-                    "12": "Hong Kong"
+                    "3": "Pakistan",
+                    "4": "Kazakhstan",
+                    "5": "India",
+                    "6": "Nigeria",
+                    "7": "Korea",
+                    "8": "Kuwait",
+                    "9": "Philippines",
+                    "10": "Qatar",
+                    "11": "Thailand",
+                    "12": "Mongolia"
                 }
             },
             "1A": {
@@ -801,18 +808,18 @@
                 "region": 1,
                 "division": 1,
                 "field": 10,
-                "winner": "Wales",
+                "winner": "Italy",
                 "results": {
-                    "1": "Wales",
-                    "2": "Norway",
-                    "3": "Ukraine",
-                    "4": "T\u00fcrkiye",
-                    "5": "Finland",
-                    "6": "Sweden",
-                    "7": "Netherlands",
-                    "8": "England",
-                    "9": "Ireland",
-                    "10": "Germany"
+                    "1": "Italy",
+                    "2": "Hungary",
+                    "3": "Sweden",
+                    "4": "Switzerland",
+                    "5": "Scotland",
+                    "6": "Germany",
+                    "7": "Wales",
+                    "8": "T\u00fcrkiye",
+                    "9": "France",
+                    "10": "Georgia"
                 }
             },
             "23A": {
@@ -823,16 +830,16 @@
                 ],
                 "division": 1,
                 "field": 8,
-                "winner": "Guyana",
+                "winner": "Afghanistan",
                 "results": {
-                    "1": "Guyana",
+                    "1": "Afghanistan",
                     "2": "USA",
-                    "3": "Mexico",
+                    "3": "Guyana",
                     "4": "Japan",
-                    "5": "India",
-                    "6": "Puerto Rico",
-                    "7": "Dominican Republic",
-                    "8": "Kuwait"
+                    "5": "Bolivia",
+                    "6": "Hong Kong",
+                    "7": "Saudi Arabia",
+                    "8": "Chinese Taipei"
                 }
             },
             "WC": {
@@ -844,31 +851,31 @@
                 ],
                 "division": 1,
                 "field": 16,
-                "winner": "Kuwait",
+                "winner": "Bolivia",
                 "relegations": 4,
                 "relegated countries": [
-                    "Dominican Republic",
-                    "Sweden",
-                    "USA",
-                    "T\u00fcrkiye"
+                    "Hong Kong",
+                    "Switzerland",
+                    "Georgia",
+                    "Italy"
                 ],
                 "results": {
-                    "1": "Kuwait",
-                    "2": "Ukraine",
-                    "3": "Guyana",
-                    "4": "Japan",
-                    "5": "Norway",
-                    "6": "England",
-                    "7": "Ireland",
+                    "1": "Bolivia",
+                    "2": "Sweden",
+                    "3": "Saudi Arabia",
+                    "4": "Germany",
+                    "5": "Japan",
+                    "6": "Scotland",
+                    "7": "Hungary",
                     "8": "Wales",
-                    "9": "Germany",
-                    "10": "India",
-                    "11": "Puerto Rico",
-                    "12": "Netherlands",
-                    "13": "T\u00fcrkiye",
-                    "14": "USA",
-                    "15": "Sweden",
-                    "16": "Dominican Republic"
+                    "9": "France",
+                    "10": "USA",
+                    "11": "Chinese Taipei",
+                    "12": "Afghanistan",
+                    "13": "Italy",
+                    "14": "Georgia",
+                    "15": "Switzerland",
+                    "16": "Hong Kong"
                 }
             },
             "1C": {
@@ -876,53 +883,51 @@
                 "region": 1,
                 "division": 3,
                 "field": 12,
-                "promotions": 4,
+                "promotions": 3,
                 "promoted countries": [
-                    "Hungary",
-                    "Bulgaria",
-                    "Scotland",
+                    "Greece",
+                    "Kosovo",
                     "Spain"
                 ],
-                "relegations": 2,
+                "relegations": 3,
                 "relegated countries": [
-                    "Austria",
-                    "Portugal"
+                    "Belgium",
+                    "Ireland",
+                    "Denmark"
                 ],
                 "results": {
-                    "1": "Hungary",
-                    "2": "Bulgaria",
-                    "3": "Scotland",
-                    "4": "Spain",
-                    "5": "Estonia",
-                    "6": "Liechtenstein",
-                    "7": "Switzerland",
+                    "1": "Greece",
+                    "2": "Kosovo",
+                    "3": "Spain",
+                    "4": "Portugal",
+                    "5": "Israel",
+                    "6": "Austria",
+                    "7": "Liechtenstein",
                     "8": "Latvia",
-                    "9": "Belgium",
-                    "10": "Serbia",
-                    "11": "Portugal",
-                    "12": "Austria"
+                    "9": "Bulgaria",
+                    "10": "Denmark",
+                    "11": "Ireland",
+                    "12": "Belgium"
                 }
             },
             "3C": {
                 "competition": "Asia Pacific Nations League C",
                 "region": 3,
                 "division": 3,
-                "field": 7,
+                "field": 5,
                 "promotions": 4,
                 "promoted countries": [
-                    "Turkmenistan",
                     "Kenya",
-                    "Thailand",
-                    "Mongolia"
+                    "China",
+                    "Turkmenistan",
+                    "New Zealand"
                 ],
                 "results": {
-                    "1": "Turkmenistan",
-                    "2": "Kenya",
-                    "3": "Thailand",
-                    "4": "Mongolia",
-                    "5": "Pakistan",
-                    "6": "Saudi Arabia",
-                    "7": "China"
+                    "1": "Kenya",
+                    "2": "China",
+                    "3": "Turkmenistan",
+                    "4": "New Zealand",
+                    "5": "Australia"
                 }
             },
             "1D": {
@@ -932,20 +937,20 @@
                 "field": 10,
                 "promotions": 2,
                 "promoted countries": [
-                    "Greece",
-                    "Bosnia & Herzegovina"
+                    "Luxembourg",
+                    "Romania"
                 ],
                 "results": {
-                    "1": "Greece",
-                    "2": "Bosnia & Herzegovina",
+                    "1": "Luxembourg",
+                    "2": "Romania",
                     "3": "Andorra",
-                    "4": "Georgia",
-                    "5": "Lithuania",
-                    "6": "Slovenia",
-                    "7": "Poland",
-                    "8": "Monaco",
-                    "9": "Kosovo",
-                    "10": "Iceland"
+                    "4": "Slovenia",
+                    "5": "Bosnia & Herzegovina",
+                    "6": "Poland",
+                    "7": "Serbia",
+                    "8": "Netherlands",
+                    "9": "Iceland",
+                    "10": "Croatia"
                 }
             }
         }
@@ -960,29 +965,29 @@
                 "field": 12,
                 "promotions": 2,
                 "promoted countries": [
-                    "Slovakia",
-                    "Scotland"
+                    "T\u00fcrkiye",
+                    "Estonia"
                 ],
                 "relegations": 4,
                 "relegated countries": [
-                    "Hungary",
-                    "Romania",
-                    "Bulgaria",
-                    "Italy"
+                    "Georgia",
+                    "Lithuania",
+                    "Switzerland",
+                    "Finland"
                 ],
                 "results": {
-                    "1": "Slovakia",
-                    "2": "Scotland",
-                    "3": "T\u00fcrkiye",
-                    "4": "Sweden",
-                    "5": "France",
-                    "6": "Spain",
-                    "7": "Finland",
-                    "8": "Israel",
-                    "9": "Italy",
-                    "10": "Bulgaria",
-                    "11": "Romania",
-                    "12": "Hungary"
+                    "1": "T\u00fcrkiye",
+                    "2": "Estonia",
+                    "3": "Greece",
+                    "4": "Spain",
+                    "5": "Czechia",
+                    "6": "Norway",
+                    "7": "Kosovo",
+                    "8": "Italy",
+                    "9": "Finland",
+                    "10": "Switzerland",
+                    "11": "Lithuania",
+                    "12": "Georgia"
                 }
             },
             "2B": {
@@ -992,16 +997,16 @@
                 "field": 8,
                 "promotions": 1,
                 "promoted countries": [
-                    "US Virgin Islands"
+                    "Mexico"
                 ],
                 "results": {
-                    "1": "US Virgin Islands",
-                    "2": "Bolivia",
+                    "1": "Mexico",
+                    "2": "Puerto Rico",
                     "3": "Canada",
-                    "4": "Mexico",
+                    "4": "Jamaica",
                     "5": "Dominican Republic",
-                    "6": "USA",
-                    "7": "Jamaica",
+                    "6": "Guyana",
+                    "7": "US Virgin Islands",
                     "8": "Brazil"
                 }
             },
@@ -1012,28 +1017,28 @@
                 "field": 12,
                 "promotions": 1,
                 "promoted countries": [
-                    "New Zealand"
+                    "Korea"
                 ],
                 "relegations": 4,
                 "relegated countries": [
-                    "Thailand",
-                    "Mongolia",
-                    "Philippines",
+                    "Pakistan",
+                    "Kuwait",
+                    "Kazakhstan",
                     "Kyrgystan"
                 ],
                 "results": {
-                    "1": "New Zealand",
-                    "2": "Kenya",
-                    "3": "Qatar",
-                    "4": "Turkmenistan",
-                    "5": "Kazakhstan",
-                    "6": "Nigeria",
-                    "7": "Korea",
-                    "8": "Afghanistan",
+                    "1": "Korea",
+                    "2": "Turkmenistan",
+                    "3": "New Zealand",
+                    "4": "Nigeria",
+                    "5": "Kenya",
+                    "6": "India",
+                    "7": "China",
+                    "8": "Hong Kong",
                     "9": "Kyrgystan",
-                    "10": "Philippines",
-                    "11": "Mongolia",
-                    "12": "Thailand"
+                    "10": "Kazakhstan",
+                    "11": "Kuwait",
+                    "12": "Pakistan"
                 }
             },
             "1A": {
@@ -1041,18 +1046,18 @@
                 "region": 1,
                 "division": 1,
                 "field": 10,
-                "winner": "Slovakia",
+                "winner": "Estonia",
                 "results": {
-                    "1": "Slovakia",
-                    "2": "T\u00fcrkiye",
-                    "3": "Wales",
-                    "4": "Netherlands",
-                    "5": "England",
-                    "6": "Scotland",
-                    "7": "Norway",
-                    "8": "Ireland",
-                    "9": "Germany",
-                    "10": "Ukraine"
+                    "1": "Estonia",
+                    "2": "France",
+                    "3": "T\u00fcrkiye",
+                    "4": "Sweden",
+                    "5": "Germany",
+                    "6": "Spain",
+                    "7": "Scotland",
+                    "8": "Hungary",
+                    "9": "Wales",
+                    "10": "Greece"
                 }
             },
             "23A": {
@@ -1063,16 +1068,16 @@
                 ],
                 "division": 1,
                 "field": 8,
-                "winner": "Kuwait",
+                "winner": "Mexico",
                 "results": {
-                    "1": "Kuwait",
-                    "2": "Japan",
+                    "1": "Mexico",
+                    "2": "Afghanistan",
                     "3": "Bolivia",
-                    "4": "India",
-                    "5": "Puerto Rico",
-                    "6": "New Zealand",
-                    "7": "US Virgin Islands",
-                    "8": "Guyana"
+                    "4": "USA",
+                    "5": "Chinese Taipei",
+                    "6": "Saudi Arabia",
+                    "7": "Korea",
+                    "8": "Japan"
                 }
             },
             "WC": {
@@ -1084,31 +1089,31 @@
                 ],
                 "division": 1,
                 "field": 16,
-                "winner": "Kuwait",
+                "winner": "Scotland",
                 "relegations": 4,
                 "relegated countries": [
-                    "US Virgin Islands",
-                    "Ireland",
-                    "Slovakia",
-                    "India"
+                    "Afghanistan",
+                    "Chinese Taipei",
+                    "Japan",
+                    "Germany"
                 ],
                 "results": {
-                    "1": "Kuwait",
-                    "2": "Germany",
-                    "3": "Japan",
-                    "4": "Guyana",
-                    "5": "Wales",
-                    "6": "Netherlands",
-                    "7": "New Zealand",
-                    "8": "Puerto Rico",
-                    "9": "Ukraine",
-                    "10": "Norway",
-                    "11": "Scotland",
-                    "12": "England",
-                    "13": "India",
-                    "14": "Slovakia",
-                    "15": "Ireland",
-                    "16": "US Virgin Islands"
+                    "1": "Scotland",
+                    "2": "Mexico",
+                    "3": "Saudi Arabia",
+                    "4": "Sweden",
+                    "5": "France",
+                    "6": "T\u00fcrkiye",
+                    "7": "Bolivia",
+                    "8": "USA",
+                    "9": "Wales",
+                    "10": "Hungary",
+                    "11": "Korea",
+                    "12": "Estonia",
+                    "13": "Germany",
+                    "14": "Japan",
+                    "15": "Chinese Taipei",
+                    "16": "Afghanistan"
                 }
             },
             "1C": {
@@ -1116,30 +1121,31 @@
                 "region": 1,
                 "division": 3,
                 "field": 12,
-                "promotions": 4,
+                "promotions": 5,
                 "promoted countries": [
-                    "Estonia",
-                    "Serbia",
-                    "Belgium",
-                    "Greece"
+                    "Ukraine",
+                    "Austria",
+                    "Portugal",
+                    "Romania",
+                    "England"
                 ],
                 "relegations": 2,
                 "relegated countries": [
                     "Luxembourg",
-                    "Bosnia & Herzegovina"
+                    "Liechtenstein"
                 ],
                 "results": {
-                    "1": "Estonia",
-                    "2": "Serbia",
-                    "3": "Belgium",
-                    "4": "Greece",
-                    "5": "Switzerland",
-                    "6": "Croatia",
-                    "7": "Denmark",
-                    "8": "Czechia",
-                    "9": "Latvia",
-                    "10": "Liechtenstein",
-                    "11": "Bosnia & Herzegovina",
+                    "1": "Ukraine",
+                    "2": "Austria",
+                    "3": "Portugal",
+                    "4": "Romania",
+                    "5": "England",
+                    "6": "Monaco",
+                    "7": "Latvia",
+                    "8": "Slovakia",
+                    "9": "Bulgaria",
+                    "10": "Israel",
+                    "11": "Liechtenstein",
                     "12": "Luxembourg"
                 }
             },
@@ -1147,44 +1153,43 @@
                 "competition": "Asia Pacific Nations League C",
                 "region": 3,
                 "division": 3,
-                "field": 6,
-                "promotions": 4,
+                "field": 5,
+                "promotions": 2,
                 "promoted countries": [
-                    "Chinese Taipei",
-                    "Hong Kong",
-                    "China",
-                    "Pakistan"
+                    "Qatar",
+                    "Mongolia"
                 ],
                 "results": {
-                    "1": "Chinese Taipei",
-                    "2": "Hong Kong",
-                    "3": "China",
-                    "4": "Pakistan",
-                    "5": "Saudi Arabia",
-                    "6": "Australia"
+                    "1": "Qatar",
+                    "2": "Mongolia",
+                    "3": "Australia",
+                    "4": "Philippines",
+                    "5": "Thailand"
                 }
             },
             "1D": {
                 "competition": "European Nations League D",
                 "region": 1,
                 "division": 4,
-                "field": 10,
-                "promotions": 2,
+                "field": 11,
+                "promotions": 3,
                 "promoted countries": [
-                    "Poland",
-                    "Georgia"
+                    "Serbia",
+                    "Denmark",
+                    "Iceland"
                 ],
                 "results": {
-                    "1": "Poland",
-                    "2": "Georgia",
+                    "1": "Serbia",
+                    "2": "Denmark",
                     "3": "Iceland",
-                    "4": "Portugal",
-                    "5": "Andorra",
-                    "6": "Lithuania",
-                    "7": "Austria",
-                    "8": "Slovenia",
-                    "9": "Monaco",
-                    "10": "Kosovo"
+                    "4": "Belgium",
+                    "5": "Ireland",
+                    "6": "Slovenia",
+                    "7": "Bosnia & Herzegovina",
+                    "8": "Andorra",
+                    "9": "Netherlands",
+                    "10": "Croatia",
+                    "11": "Poland"
                 }
             }
         }
@@ -1199,49 +1204,48 @@
                 "field": 12,
                 "promotions": 2,
                 "promoted countries": [
-                    "Greece",
-                    "Estonia"
+                    "Spain",
+                    "Romania"
                 ],
                 "relegations": 4,
                 "relegated countries": [
-                    "Spain",
-                    "Serbia",
-                    "Finland",
-                    "France"
+                    "Italy",
+                    "Czechia",
+                    "Norway",
+                    "Kosovo"
                 ],
                 "results": {
-                    "1": "Greece",
-                    "2": "Estonia",
-                    "3": "Israel",
-                    "4": "Slovakia",
-                    "5": "Ireland",
-                    "6": "T\u00fcrkiye",
-                    "7": "Sweden",
-                    "8": "Belgium",
-                    "9": "France",
-                    "10": "Finland",
-                    "11": "Serbia",
-                    "12": "Spain"
+                    "1": "Spain",
+                    "2": "Romania",
+                    "3": "Greece",
+                    "4": "Austria",
+                    "5": "Portugal",
+                    "6": "England",
+                    "7": "Germany",
+                    "8": "Ukraine",
+                    "9": "Kosovo",
+                    "10": "Norway",
+                    "11": "Czechia",
+                    "12": "Italy"
                 }
             },
             "2B": {
                 "competition": "Americas Nations League B",
                 "region": 2,
                 "division": 2,
-                "field": 8,
+                "field": 7,
                 "promotions": 1,
                 "promoted countries": [
-                    "Canada"
+                    "Brazil"
                 ],
                 "results": {
-                    "1": "Canada",
-                    "2": "USA",
-                    "3": "Jamaica",
-                    "4": "Dominican Republic",
-                    "5": "Brazil",
-                    "6": "Bolivia",
-                    "7": "Mexico",
-                    "8": "US Virgin Islands"
+                    "1": "Brazil",
+                    "2": "Jamaica",
+                    "3": "Guyana",
+                    "4": "Canada",
+                    "5": "Dominican Republic",
+                    "6": "Puerto Rico",
+                    "7": "US Virgin Islands"
                 }
             },
             "3B": {
@@ -1251,28 +1255,27 @@
                 "field": 12,
                 "promotions": 1,
                 "promoted countries": [
-                    "Qatar"
+                    "India"
                 ],
-                "relegations": 4,
+                "relegations": 3,
                 "relegated countries": [
-                    "India",
-                    "Kazakhstan",
-                    "Afghanistan",
-                    "Chinese Taipei"
+                    "Kenya",
+                    "Mongolia",
+                    "Japan"
                 ],
                 "results": {
-                    "1": "Qatar",
-                    "2": "Pakistan",
-                    "3": "China",
-                    "4": "Hong Kong",
-                    "5": "Kenya",
-                    "6": "Turkmenistan",
-                    "7": "Nigeria",
-                    "8": "Korea",
-                    "9": "Chinese Taipei",
-                    "10": "Afghanistan",
-                    "11": "Kazakhstan",
-                    "12": "India"
+                    "1": "India",
+                    "2": "Turkmenistan",
+                    "3": "Chinese Taipei",
+                    "4": "Afghanistan",
+                    "5": "New Zealand",
+                    "6": "Qatar",
+                    "7": "China",
+                    "8": "Hong Kong",
+                    "9": "Nigeria",
+                    "10": "Japan",
+                    "11": "Mongolia",
+                    "12": "Kenya"
                 }
             },
             "1A": {
@@ -1280,18 +1283,18 @@
                 "region": 1,
                 "division": 1,
                 "field": 10,
-                "winner": "Ukraine",
+                "winner": "Estonia",
                 "results": {
-                    "1": "Ukraine",
-                    "2": "Scotland",
-                    "3": "Netherlands",
-                    "4": "Israel",
-                    "5": "Greece",
-                    "6": "Estonia",
-                    "7": "Norway",
-                    "8": "Wales",
-                    "9": "England",
-                    "10": "Germany"
+                    "1": "Estonia",
+                    "2": "Romania",
+                    "3": "Greece",
+                    "4": "Sweden",
+                    "5": "Spain",
+                    "6": "Hungary",
+                    "7": "France",
+                    "8": "T\u00fcrkiye",
+                    "9": "Scotland",
+                    "10": "Wales"
                 }
             },
             "23A": {
@@ -1302,15 +1305,15 @@
                 ],
                 "division": 1,
                 "field": 8,
-                "winner": "Guyana",
+                "winner": "Brazil",
                 "results": {
-                    "1": "Guyana",
-                    "2": "New Zealand",
-                    "3": "Canada",
-                    "4": "Qatar",
-                    "5": "Kuwait",
-                    "6": "Puerto Rico",
-                    "7": "Japan",
+                    "1": "Brazil",
+                    "2": "Korea",
+                    "3": "Bolivia",
+                    "4": "India",
+                    "5": "Saudi Arabia",
+                    "6": "Jamaica",
+                    "7": "Mexico",
                     "8": "USA"
                 }
             },
@@ -1323,31 +1326,31 @@
                 ],
                 "division": 1,
                 "field": 16,
-                "winner": "Netherlands",
+                "winner": "Sweden",
                 "relegations": 4,
                 "relegated countries": [
-                    "Guyana",
-                    "Greece",
-                    "Kuwait",
-                    "Scotland"
+                    "Romania",
+                    "T\u00fcrkiye",
+                    "Korea",
+                    "Saudi Arabia"
                 ],
                 "results": {
-                    "1": "Netherlands",
-                    "2": "Wales",
-                    "3": "Qatar",
-                    "4": "Canada",
-                    "5": "New Zealand",
-                    "6": "Norway",
-                    "7": "Japan",
-                    "8": "Puerto Rico",
-                    "9": "Germany",
-                    "10": "Ukraine",
-                    "11": "England",
-                    "12": "Estonia",
-                    "13": "Scotland",
-                    "14": "Kuwait",
-                    "15": "Greece",
-                    "16": "Guyana"
+                    "1": "Sweden",
+                    "2": "Brazil",
+                    "3": "Scotland",
+                    "4": "India",
+                    "5": "France",
+                    "6": "USA",
+                    "7": "Hungary",
+                    "8": "Spain",
+                    "9": "Estonia",
+                    "10": "Wales",
+                    "11": "Mexico",
+                    "12": "Bolivia",
+                    "13": "Saudi Arabia",
+                    "14": "Korea",
+                    "15": "T\u00fcrkiye",
+                    "16": "Romania"
                 }
             },
             "1C": {
@@ -1357,50 +1360,49 @@
                 "field": 12,
                 "promotions": 4,
                 "promoted countries": [
-                    "Switzerland",
-                    "Poland",
-                    "Croatia",
-                    "Liechtenstein"
+                    "Serbia",
+                    "Monaco",
+                    "Iceland",
+                    "Slovakia"
                 ],
                 "relegations": 2,
                 "relegated countries": [
-                    "Georgia",
-                    "Czechia"
+                    "Bulgaria",
+                    "Denmark"
                 ],
                 "results": {
-                    "1": "Switzerland",
-                    "2": "Poland",
-                    "3": "Croatia",
-                    "4": "Liechtenstein",
-                    "5": "Latvia",
-                    "6": "Denmark",
-                    "7": "Bulgaria",
-                    "8": "Romania",
-                    "9": "Hungary",
-                    "10": "Italy",
-                    "11": "Czechia",
-                    "12": "Georgia"
+                    "1": "Serbia",
+                    "2": "Monaco",
+                    "3": "Iceland",
+                    "4": "Slovakia",
+                    "5": "Switzerland",
+                    "6": "Israel",
+                    "7": "Finland",
+                    "8": "Lithuania",
+                    "9": "Latvia",
+                    "10": "Georgia",
+                    "11": "Denmark",
+                    "12": "Bulgaria"
                 }
             },
             "3C": {
                 "competition": "Asia Pacific Nations League C",
                 "region": 3,
                 "division": 3,
-                "field": 6,
-                "promotions": 4,
+                "field": 7,
+                "promotions": 2,
                 "promoted countries": [
                     "Thailand",
-                    "Saudi Arabia",
-                    "Kyrgystan",
-                    "Mongolia"
+                    "Kyrgystan"
                 ],
                 "results": {
                     "1": "Thailand",
-                    "2": "Saudi Arabia",
-                    "3": "Kyrgystan",
-                    "4": "Mongolia",
-                    "5": "Philippines",
-                    "6": "Australia"
+                    "2": "Kyrgystan",
+                    "3": "Philippines",
+                    "4": "Kazakhstan",
+                    "5": "Kuwait",
+                    "6": "Australia",
+                    "7": "Pakistan"
                 }
             },
             "1D": {
@@ -1410,20 +1412,20 @@
                 "field": 10,
                 "promotions": 2,
                 "promoted countries": [
-                    "Portugal",
-                    "Lithuania"
+                    "Liechtenstein",
+                    "Luxembourg"
                 ],
                 "results": {
-                    "1": "Portugal",
-                    "2": "Lithuania",
-                    "3": "Bosnia & Herzegovina",
-                    "4": "Monaco",
-                    "5": "Iceland",
-                    "6": "Slovenia",
-                    "7": "Austria",
-                    "8": "Luxembourg",
-                    "9": "Kosovo",
-                    "10": "Andorra"
+                    "1": "Liechtenstein",
+                    "2": "Luxembourg",
+                    "3": "Andorra",
+                    "4": "Slovenia",
+                    "5": "Netherlands",
+                    "6": "Croatia",
+                    "7": "Ireland",
+                    "8": "Poland",
+                    "9": "Belgium",
+                    "10": "Bosnia & Herzegovina"
                 }
             }
         }
@@ -1438,49 +1440,47 @@
                 "field": 12,
                 "promotions": 2,
                 "promoted countries": [
-                    "Switzerland",
-                    "Slovakia"
+                    "Portugal",
+                    "Germany"
                 ],
                 "relegations": 4,
                 "relegated countries": [
-                    "Croatia",
-                    "Sweden",
-                    "Belgium",
-                    "Liechtenstein"
+                    "T\u00fcrkiye",
+                    "Serbia",
+                    "Greece",
+                    "Slovakia"
                 ],
                 "results": {
-                    "1": "Switzerland",
-                    "2": "Slovakia",
-                    "3": "Israel",
-                    "4": "T\u00fcrkiye",
-                    "5": "Poland",
-                    "6": "Greece",
-                    "7": "Scotland",
-                    "8": "Ireland",
-                    "9": "Liechtenstein",
-                    "10": "Belgium",
-                    "11": "Sweden",
-                    "12": "Croatia"
+                    "1": "Portugal",
+                    "2": "Germany",
+                    "3": "England",
+                    "4": "Ukraine",
+                    "5": "Iceland",
+                    "6": "Monaco",
+                    "7": "Austria",
+                    "8": "Romania",
+                    "9": "Slovakia",
+                    "10": "Greece",
+                    "11": "Serbia",
+                    "12": "T\u00fcrkiye"
                 }
             },
             "2B": {
                 "competition": "Americas Nations League B",
                 "region": 2,
                 "division": 2,
-                "field": 8,
+                "field": 6,
                 "promotions": 1,
                 "promoted countries": [
-                    "Jamaica"
+                    "US Virgin Islands"
                 ],
                 "results": {
-                    "1": "Jamaica",
-                    "2": "US Virgin Islands",
-                    "3": "Dominican Republic",
-                    "4": "USA",
-                    "5": "Guyana",
-                    "6": "Brazil",
-                    "7": "Mexico",
-                    "8": "Bolivia"
+                    "1": "US Virgin Islands",
+                    "2": "Puerto Rico",
+                    "3": "Jamaica",
+                    "4": "Dominican Republic",
+                    "5": "Canada",
+                    "6": "Guyana"
                 }
             },
             "3B": {
@@ -1490,28 +1490,26 @@
                 "field": 12,
                 "promotions": 1,
                 "promoted countries": [
-                    "Saudi Arabia"
+                    "Kyrgystan"
                 ],
-                "relegations": 4,
+                "relegations": 2,
                 "relegated countries": [
-                    "Pakistan",
-                    "Nigeria",
-                    "Hong Kong",
-                    "Thailand"
+                    "Qatar",
+                    "Hong Kong"
                 ],
                 "results": {
-                    "1": "Saudi Arabia",
-                    "2": "Turkmenistan",
-                    "3": "Kenya",
-                    "4": "China",
-                    "5": "Kuwait",
-                    "6": "Mongolia",
-                    "7": "Korea",
-                    "8": "Kyrgystan",
-                    "9": "Thailand",
-                    "10": "Hong Kong",
-                    "11": "Nigeria",
-                    "12": "Pakistan"
+                    "1": "Kyrgystan",
+                    "2": "Chinese Taipei",
+                    "3": "Turkmenistan",
+                    "4": "Afghanistan",
+                    "5": "Nigeria",
+                    "6": "Korea",
+                    "7": "Thailand",
+                    "8": "Saudi Arabia",
+                    "9": "New Zealand",
+                    "10": "China",
+                    "11": "Hong Kong",
+                    "12": "Qatar"
                 }
             },
             "1A": {
@@ -1519,18 +1517,18 @@
                 "region": 1,
                 "division": 1,
                 "field": 10,
-                "winner": "Estonia",
+                "winner": "Wales",
                 "results": {
-                    "1": "Estonia",
-                    "2": "Wales",
-                    "3": "Slovakia",
-                    "4": "Switzerland",
-                    "5": "England",
-                    "6": "Netherlands",
-                    "7": "Norway",
-                    "8": "Ukraine",
+                    "1": "Wales",
+                    "2": "Portugal",
+                    "3": "Spain",
+                    "4": "Sweden",
+                    "5": "Hungary",
+                    "6": "Estonia",
+                    "7": "Scotland",
+                    "8": "France",
                     "9": "Germany",
-                    "10": "Israel"
+                    "10": "England"
                 }
             },
             "23A": {
@@ -1541,16 +1539,16 @@
                 ],
                 "division": 1,
                 "field": 8,
-                "winner": "Qatar",
+                "winner": "Puerto Rico",
                 "results": {
-                    "1": "Qatar",
-                    "2": "Japan",
-                    "3": "Jamaica",
+                    "1": "Puerto Rico",
+                    "2": "India",
+                    "3": "USA",
                     "4": "US Virgin Islands",
-                    "5": "Canada",
-                    "6": "New Zealand",
-                    "7": "Saudi Arabia",
-                    "8": "Puerto Rico"
+                    "5": "Brazil",
+                    "6": "Bolivia",
+                    "7": "Mexico",
+                    "8": "Kyrgystan"
                 }
             },
             "WC": {
@@ -1562,31 +1560,31 @@
                 ],
                 "division": 1,
                 "field": 16,
-                "winner": "Qatar",
+                "winner": "India",
                 "relegations": 4,
                 "relegated countries": [
-                    "Wales",
-                    "New Zealand",
-                    "Puerto Rico",
-                    "Ukraine"
+                    "Hungary",
+                    "Bolivia",
+                    "Estonia",
+                    "Wales"
                 ],
                 "results": {
-                    "1": "Qatar",
-                    "2": "Canada",
-                    "3": "Saudi Arabia",
-                    "4": "Jamaica",
-                    "5": "Estonia",
-                    "6": "England",
-                    "7": "Germany",
-                    "8": "Switzerland",
-                    "9": "Norway",
-                    "10": "Slovakia",
-                    "11": "Netherlands",
-                    "12": "Japan",
-                    "13": "Ukraine",
-                    "14": "Puerto Rico",
-                    "15": "New Zealand",
-                    "16": "Wales"
+                    "1": "India",
+                    "2": "Spain",
+                    "3": "Germany",
+                    "4": "USA",
+                    "5": "Portugal",
+                    "6": "Sweden",
+                    "7": "Mexico",
+                    "8": "France",
+                    "9": "Kyrgystan",
+                    "10": "Brazil",
+                    "11": "US Virgin Islands",
+                    "12": "Scotland",
+                    "13": "Wales",
+                    "14": "Estonia",
+                    "15": "Bolivia",
+                    "16": "Hungary"
                 }
             },
             "1C": {
@@ -1594,52 +1592,53 @@
                 "region": 1,
                 "division": 3,
                 "field": 12,
-                "promotions": 4,
+                "promotions": 3,
                 "promoted countries": [
-                    "Spain",
-                    "Romania",
-                    "Portugal",
-                    "Bulgaria"
+                    "Kosovo",
+                    "Italy",
+                    "Finland"
                 ],
-                "relegations": 2,
+                "relegations": 3,
                 "relegated countries": [
-                    "Finland",
-                    "Lithuania"
+                    "Switzerland",
+                    "Norway",
+                    "Liechtenstein"
                 ],
                 "results": {
-                    "1": "Spain",
-                    "2": "Romania",
-                    "3": "Portugal",
-                    "4": "Bulgaria",
-                    "5": "Denmark",
-                    "6": "Serbia",
-                    "7": "Latvia",
-                    "8": "Hungary",
-                    "9": "France",
-                    "10": "Italy",
-                    "11": "Lithuania",
-                    "12": "Finland"
+                    "1": "Kosovo",
+                    "2": "Italy",
+                    "3": "Finland",
+                    "4": "Latvia",
+                    "5": "Lithuania",
+                    "6": "Czechia",
+                    "7": "Israel",
+                    "8": "Luxembourg",
+                    "9": "Georgia",
+                    "10": "Liechtenstein",
+                    "11": "Norway",
+                    "12": "Switzerland"
                 }
             },
             "3C": {
                 "competition": "Asia Pacific Nations League C",
                 "region": 3,
                 "division": 3,
-                "field": 6,
-                "promotions": 4,
+                "field": 8,
+                "promotions": 3,
                 "promoted countries": [
-                    "Australia",
-                    "Afghanistan",
-                    "Chinese Taipei",
-                    "Kazakhstan"
+                    "Mongolia",
+                    "Kazakhstan",
+                    "Australia"
                 ],
                 "results": {
-                    "1": "Australia",
-                    "2": "Afghanistan",
-                    "3": "Chinese Taipei",
-                    "4": "Kazakhstan",
-                    "5": "Philippines",
-                    "6": "India"
+                    "1": "Mongolia",
+                    "2": "Kazakhstan",
+                    "3": "Australia",
+                    "4": "Pakistan",
+                    "5": "Kuwait",
+                    "6": "Japan",
+                    "7": "Kenya",
+                    "8": "Philippines"
                 }
             },
             "1D": {
@@ -1649,20 +1648,20 @@
                 "field": 10,
                 "promotions": 2,
                 "promoted countries": [
-                    "Iceland",
-                    "Bosnia & Herzegovina"
+                    "Slovenia",
+                    "Netherlands"
                 ],
                 "results": {
-                    "1": "Iceland",
-                    "2": "Bosnia & Herzegovina",
-                    "3": "Kosovo",
-                    "4": "Andorra",
-                    "5": "Luxembourg",
-                    "6": "Austria",
-                    "7": "Slovenia",
-                    "8": "Monaco",
-                    "9": "Georgia",
-                    "10": "Czechia"
+                    "1": "Slovenia",
+                    "2": "Netherlands",
+                    "3": "Belgium",
+                    "4": "Poland",
+                    "5": "Croatia",
+                    "6": "Ireland",
+                    "7": "Denmark",
+                    "8": "Bosnia & Herzegovina",
+                    "9": "Andorra",
+                    "10": "Bulgaria"
                 }
             }
         }
@@ -1677,49 +1676,47 @@
                 "field": 12,
                 "promotions": 2,
                 "promoted countries": [
-                    "T\u00fcrkiye",
-                    "Scotland"
+                    "Ukraine",
+                    "Estonia"
                 ],
                 "relegations": 4,
                 "relegated countries": [
-                    "Ireland",
+                    "Finland",
+                    "Hungary",
                     "Romania",
-                    "Poland",
-                    "Portugal"
+                    "Monaco"
                 ],
                 "results": {
-                    "1": "T\u00fcrkiye",
-                    "2": "Scotland",
-                    "3": "Greece",
-                    "4": "Ukraine",
-                    "5": "Bulgaria",
-                    "6": "Wales",
-                    "7": "Israel",
-                    "8": "Spain",
-                    "9": "Portugal",
-                    "10": "Poland",
-                    "11": "Romania",
-                    "12": "Ireland"
+                    "1": "Ukraine",
+                    "2": "Estonia",
+                    "3": "Italy",
+                    "4": "England",
+                    "5": "Austria",
+                    "6": "Kosovo",
+                    "7": "Iceland",
+                    "8": "Wales",
+                    "9": "Monaco",
+                    "10": "Romania",
+                    "11": "Hungary",
+                    "12": "Finland"
                 }
             },
             "2B": {
                 "competition": "Americas Nations League B",
                 "region": 2,
                 "division": 2,
-                "field": 8,
+                "field": 6,
                 "promotions": 1,
                 "promoted countries": [
-                    "US Virgin Islands"
+                    "Puerto Rico"
                 ],
                 "results": {
-                    "1": "US Virgin Islands",
-                    "2": "Bolivia",
-                    "3": "Brazil",
-                    "4": "USA",
-                    "5": "Mexico",
-                    "6": "Dominican Republic",
-                    "7": "Puerto Rico",
-                    "8": "Guyana"
+                    "1": "Puerto Rico",
+                    "2": "Guyana",
+                    "3": "Dominican Republic",
+                    "4": "Canada",
+                    "5": "Jamaica",
+                    "6": "Bolivia"
                 }
             },
             "3B": {
@@ -1729,28 +1726,27 @@
                 "field": 12,
                 "promotions": 1,
                 "promoted countries": [
-                    "Korea"
-                ],
-                "relegations": 4,
-                "relegated countries": [
-                    "Mongolia",
-                    "Kenya",
-                    "Australia",
                     "Afghanistan"
                 ],
+                "relegations": 3,
+                "relegated countries": [
+                    "Chinese Taipei",
+                    "Australia",
+                    "China"
+                ],
                 "results": {
-                    "1": "Korea",
-                    "2": "Kuwait",
-                    "3": "Kazakhstan",
-                    "4": "New Zealand",
-                    "5": "Kyrgystan",
-                    "6": "Turkmenistan",
-                    "7": "Chinese Taipei",
-                    "8": "China",
-                    "9": "Afghanistan",
-                    "10": "Australia",
-                    "11": "Kenya",
-                    "12": "Mongolia"
+                    "1": "Afghanistan",
+                    "2": "Thailand",
+                    "3": "Korea",
+                    "4": "Saudi Arabia",
+                    "5": "Turkmenistan",
+                    "6": "Kazakhstan",
+                    "7": "New Zealand",
+                    "8": "Nigeria",
+                    "9": "Mongolia",
+                    "10": "China",
+                    "11": "Australia",
+                    "12": "Chinese Taipei"
                 }
             },
             "1A": {
@@ -1758,18 +1754,18 @@
                 "region": 1,
                 "division": 1,
                 "field": 10,
-                "winner": "England",
+                "winner": "Italy",
                 "results": {
-                    "1": "England",
-                    "2": "T\u00fcrkiye",
-                    "3": "Netherlands",
-                    "4": "Norway",
-                    "5": "Slovakia",
-                    "6": "Germany",
-                    "7": "Switzerland",
-                    "8": "Greece",
+                    "1": "Italy",
+                    "2": "England",
+                    "3": "Spain",
+                    "4": "Scotland",
+                    "5": "Portugal",
+                    "6": "Ukraine",
+                    "7": "Germany",
+                    "8": "Sweden",
                     "9": "Estonia",
-                    "10": "Scotland"
+                    "10": "France"
                 }
             },
             "23A": {
@@ -1780,16 +1776,16 @@
                 ],
                 "division": 1,
                 "field": 8,
-                "winner": "Qatar",
+                "winner": "Afghanistan",
                 "results": {
-                    "1": "Qatar",
-                    "2": "Jamaica",
-                    "3": "US Virgin Islands",
-                    "4": "Korea",
-                    "5": "Bolivia",
-                    "6": "Canada",
-                    "7": "Japan",
-                    "8": "Saudi Arabia"
+                    "1": "Afghanistan",
+                    "2": "US Virgin Islands",
+                    "3": "Kyrgystan",
+                    "4": "USA",
+                    "5": "Brazil",
+                    "6": "Puerto Rico",
+                    "7": "India",
+                    "8": "Mexico"
                 }
             },
             "WC": {
@@ -1801,31 +1797,31 @@
                 ],
                 "division": 1,
                 "field": 16,
-                "winner": "Canada",
+                "winner": "US Virgin Islands",
                 "relegations": 4,
                 "relegated countries": [
-                    "Japan",
-                    "US Virgin Islands",
-                    "Slovakia",
-                    "T\u00fcrkiye"
+                    "Sweden",
+                    "Spain",
+                    "Portugal",
+                    "France"
                 ],
                 "results": {
-                    "1": "Canada",
-                    "2": "Germany",
-                    "3": "Jamaica",
-                    "4": "England",
-                    "5": "Switzerland",
-                    "6": "Qatar",
-                    "7": "Estonia",
-                    "8": "Saudi Arabia",
-                    "9": "Norway",
-                    "10": "Korea",
-                    "11": "Netherlands",
-                    "12": "Scotland",
-                    "13": "T\u00fcrkiye",
-                    "14": "Slovakia",
-                    "15": "US Virgin Islands",
-                    "16": "Japan"
+                    "1": "US Virgin Islands",
+                    "2": "Brazil",
+                    "3": "Ukraine",
+                    "4": "Estonia",
+                    "5": "India",
+                    "6": "Mexico",
+                    "7": "Scotland",
+                    "8": "Afghanistan",
+                    "9": "Germany",
+                    "10": "Kyrgystan",
+                    "11": "Puerto Rico",
+                    "12": "USA",
+                    "13": "France",
+                    "14": "Portugal",
+                    "15": "Spain",
+                    "16": "Sweden"
                 }
             },
             "1C": {
@@ -1833,75 +1829,77 @@
                 "region": 1,
                 "division": 3,
                 "field": 12,
-                "promotions": 4,
+                "promotions": 2,
                 "promoted countries": [
-                    "Hungary",
-                    "Denmark",
-                    "Croatia",
-                    "Sweden"
+                    "Czechia",
+                    "Israel"
                 ],
-                "relegations": 2,
+                "relegations": 4,
                 "relegated countries": [
-                    "Belgium",
-                    "Iceland"
+                    "Serbia",
+                    "Netherlands",
+                    "T\u00fcrkiye",
+                    "Georgia"
                 ],
                 "results": {
-                    "1": "Hungary",
-                    "2": "Denmark",
-                    "3": "Croatia",
-                    "4": "Sweden",
-                    "5": "Liechtenstein",
-                    "6": "Italy",
-                    "7": "Bosnia & Herzegovina",
-                    "8": "Serbia",
-                    "9": "France",
-                    "10": "Latvia",
-                    "11": "Iceland",
-                    "12": "Belgium"
+                    "1": "Czechia",
+                    "2": "Israel",
+                    "3": "Luxembourg",
+                    "4": "Latvia",
+                    "5": "Greece",
+                    "6": "Lithuania",
+                    "7": "Slovakia",
+                    "8": "Slovenia",
+                    "9": "Georgia",
+                    "10": "T\u00fcrkiye",
+                    "11": "Netherlands",
+                    "12": "Serbia"
                 }
             },
             "3C": {
                 "competition": "Asia Pacific Nations League C",
                 "region": 3,
                 "division": 3,
-                "field": 6,
+                "field": 7,
                 "promotions": 4,
                 "promoted countries": [
-                    "Thailand",
-                    "Nigeria",
                     "Philippines",
-                    "Pakistan"
+                    "Pakistan",
+                    "Kuwait",
+                    "Kenya"
                 ],
                 "results": {
-                    "1": "Thailand",
-                    "2": "Nigeria",
-                    "3": "Philippines",
-                    "4": "Pakistan",
-                    "5": "India",
-                    "6": "Hong Kong"
+                    "1": "Philippines",
+                    "2": "Pakistan",
+                    "3": "Kuwait",
+                    "4": "Kenya",
+                    "5": "Japan",
+                    "6": "Hong Kong",
+                    "7": "Qatar"
                 }
             },
             "1D": {
                 "competition": "European Nations League D",
                 "region": 1,
                 "division": 4,
-                "field": 10,
+                "field": 11,
                 "promotions": 2,
                 "promoted countries": [
-                    "Lithuania",
-                    "Monaco"
+                    "Norway",
+                    "Belgium"
                 ],
                 "results": {
-                    "1": "Lithuania",
-                    "2": "Monaco",
-                    "3": "Slovenia",
-                    "4": "Luxembourg",
-                    "5": "Kosovo",
-                    "6": "Georgia",
-                    "7": "Finland",
-                    "8": "Czechia",
-                    "9": "Andorra",
-                    "10": "Austria"
+                    "1": "Norway",
+                    "2": "Belgium",
+                    "3": "Ireland",
+                    "4": "Denmark",
+                    "5": "Bulgaria",
+                    "6": "Andorra",
+                    "7": "Switzerland",
+                    "8": "Poland",
+                    "9": "Liechtenstein",
+                    "10": "Bosnia & Herzegovina",
+                    "11": "Croatia"
                 }
             }
         }
@@ -1916,49 +1914,46 @@
                 "field": 12,
                 "promotions": 2,
                 "promoted countries": [
-                    "Sweden",
-                    "Spain"
+                    "Austria",
+                    "France"
                 ],
                 "relegations": 4,
                 "relegated countries": [
-                    "T\u00fcrkiye",
-                    "Greece",
-                    "Denmark",
-                    "Hungary"
+                    "Czechia",
+                    "Italy",
+                    "Iceland",
+                    "Portugal"
                 ],
                 "results": {
-                    "1": "Sweden",
-                    "2": "Spain",
-                    "3": "Ukraine",
-                    "4": "Israel",
-                    "5": "Wales",
-                    "6": "Slovakia",
-                    "7": "Bulgaria",
-                    "8": "Croatia",
-                    "9": "Hungary",
-                    "10": "Denmark",
-                    "11": "Greece",
-                    "12": "T\u00fcrkiye"
+                    "1": "Austria",
+                    "2": "France",
+                    "3": "Spain",
+                    "4": "Sweden",
+                    "5": "Kosovo",
+                    "6": "Wales",
+                    "7": "Israel",
+                    "8": "England",
+                    "9": "Portugal",
+                    "10": "Iceland",
+                    "11": "Italy",
+                    "12": "Czechia"
                 }
             },
             "2B": {
                 "competition": "Americas Nations League B",
                 "region": 2,
                 "division": 2,
-                "field": 8,
+                "field": 5,
                 "promotions": 1,
                 "promoted countries": [
-                    "Bolivia"
+                    "Jamaica"
                 ],
                 "results": {
-                    "1": "Bolivia",
-                    "2": "US Virgin Islands",
-                    "3": "Brazil",
-                    "4": "Dominican Republic",
-                    "5": "Guyana",
-                    "6": "USA",
-                    "7": "Mexico",
-                    "8": "Puerto Rico"
+                    "1": "Jamaica",
+                    "2": "Dominican Republic",
+                    "3": "Bolivia",
+                    "4": "Canada",
+                    "5": "Guyana"
                 }
             },
             "3B": {
@@ -1968,28 +1963,28 @@
                 "field": 12,
                 "promotions": 1,
                 "promoted countries": [
-                    "Kuwait"
+                    "Thailand"
                 ],
                 "relegations": 4,
                 "relegated countries": [
-                    "Kyrgystan",
-                    "Nigeria",
-                    "Chinese Taipei",
-                    "Pakistan"
+                    "Saudi Arabia",
+                    "Kuwait",
+                    "New Zealand",
+                    "Kenya"
                 ],
                 "results": {
-                    "1": "Kuwait",
-                    "2": "China",
-                    "3": "Thailand",
-                    "4": "Turkmenistan",
-                    "5": "New Zealand",
-                    "6": "Philippines",
-                    "7": "Kazakhstan",
-                    "8": "Japan",
-                    "9": "Pakistan",
-                    "10": "Chinese Taipei",
-                    "11": "Nigeria",
-                    "12": "Kyrgystan"
+                    "1": "Thailand",
+                    "2": "Philippines",
+                    "3": "Korea",
+                    "4": "Kazakhstan",
+                    "5": "Pakistan",
+                    "6": "Nigeria",
+                    "7": "Mongolia",
+                    "8": "Turkmenistan",
+                    "9": "Kenya",
+                    "10": "New Zealand",
+                    "11": "Kuwait",
+                    "12": "Saudi Arabia"
                 }
             },
             "1A": {
@@ -1997,18 +1992,18 @@
                 "region": 1,
                 "division": 1,
                 "field": 10,
-                "winner": "Norway",
+                "winner": "France",
                 "results": {
-                    "1": "Norway",
-                    "2": "Germany",
-                    "3": "Sweden",
-                    "4": "Spain",
-                    "5": "England",
-                    "6": "Scotland",
-                    "7": "Estonia",
-                    "8": "Ukraine",
-                    "9": "Switzerland",
-                    "10": "Netherlands"
+                    "1": "France",
+                    "2": "Scotland",
+                    "3": "Germany",
+                    "4": "Austria",
+                    "5": "Estonia",
+                    "6": "Ukraine",
+                    "7": "Kosovo",
+                    "8": "Sweden",
+                    "9": "Wales",
+                    "10": "Spain"
                 }
             },
             "23A": {
@@ -2019,16 +2014,16 @@
                 ],
                 "division": 1,
                 "field": 8,
-                "winner": "Kuwait",
+                "winner": "USA",
                 "results": {
-                    "1": "Kuwait",
-                    "2": "Bolivia",
-                    "3": "US Virgin Islands",
-                    "4": "Jamaica",
-                    "5": "Saudi Arabia",
-                    "6": "Korea",
-                    "7": "Canada",
-                    "8": "Qatar"
+                    "1": "USA",
+                    "2": "Kyrgystan",
+                    "3": "Mexico",
+                    "4": "Puerto Rico",
+                    "5": "US Virgin Islands",
+                    "6": "Afghanistan",
+                    "7": "Brazil",
+                    "8": "India"
                 }
             },
             "WC": {
@@ -2040,31 +2035,31 @@
                 ],
                 "division": 1,
                 "field": 16,
-                "winner": "Korea",
+                "winner": "USA",
                 "relegations": 4,
                 "relegated countries": [
-                    "Switzerland",
-                    "Kuwait",
-                    "Sweden",
-                    "Netherlands"
+                    "Jamaica",
+                    "Scotland",
+                    "Kyrgystan",
+                    "Austria"
                 ],
                 "results": {
-                    "1": "Korea",
-                    "2": "Germany",
-                    "3": "Jamaica",
-                    "4": "Norway",
-                    "5": "England",
-                    "6": "Saudi Arabia",
-                    "7": "Spain",
-                    "8": "Qatar",
-                    "9": "Canada",
-                    "10": "Estonia",
-                    "11": "Bolivia",
-                    "12": "Scotland",
-                    "13": "Netherlands",
-                    "14": "Sweden",
-                    "15": "Kuwait",
-                    "16": "Switzerland"
+                    "1": "USA",
+                    "2": "Brazil",
+                    "3": "US Virgin Islands",
+                    "4": "Ukraine",
+                    "5": "France",
+                    "6": "Germany",
+                    "7": "Estonia",
+                    "8": "Thailand",
+                    "9": "Afghanistan",
+                    "10": "Mexico",
+                    "11": "India",
+                    "12": "Puerto Rico",
+                    "13": "Austria",
+                    "14": "Kyrgystan",
+                    "15": "Scotland",
+                    "16": "Jamaica"
                 }
             },
             "1C": {
@@ -2072,31 +2067,31 @@
                 "region": 1,
                 "division": 3,
                 "field": 12,
-                "promotions": 3,
+                "promotions": 4,
                 "promoted countries": [
-                    "Portugal",
-                    "Monaco",
-                    "Poland"
+                    "Hungary",
+                    "Romania",
+                    "Belgium",
+                    "Monaco"
                 ],
-                "relegations": 3,
+                "relegations": 2,
                 "relegated countries": [
-                    "France",
-                    "Serbia",
-                    "Bosnia & Herzegovina"
+                    "Greece",
+                    "Latvia"
                 ],
                 "results": {
-                    "1": "Portugal",
-                    "2": "Monaco",
-                    "3": "Poland",
-                    "4": "Ireland",
-                    "5": "Lithuania",
-                    "6": "Liechtenstein",
-                    "7": "Romania",
-                    "8": "Italy",
-                    "9": "Latvia",
-                    "10": "Bosnia & Herzegovina",
-                    "11": "Serbia",
-                    "12": "France"
+                    "1": "Hungary",
+                    "2": "Romania",
+                    "3": "Belgium",
+                    "4": "Monaco",
+                    "5": "Finland",
+                    "6": "Slovenia",
+                    "7": "Lithuania",
+                    "8": "Slovakia",
+                    "9": "Norway",
+                    "10": "Luxembourg",
+                    "11": "Latvia",
+                    "12": "Greece"
                 }
             },
             "3C": {
@@ -2106,41 +2101,44 @@
                 "field": 6,
                 "promotions": 4,
                 "promoted countries": [
-                    "Mongolia",
-                    "Afghanistan",
-                    "Kenya",
+                    "Hong Kong",
+                    "Japan",
+                    "Chinese Taipei",
                     "Australia"
                 ],
                 "results": {
-                    "1": "Mongolia",
-                    "2": "Afghanistan",
-                    "3": "Kenya",
+                    "1": "Hong Kong",
+                    "2": "Japan",
+                    "3": "Chinese Taipei",
                     "4": "Australia",
-                    "5": "Hong Kong",
-                    "6": "India"
+                    "5": "Qatar",
+                    "6": "China"
                 }
             },
             "1D": {
                 "competition": "European Nations League D",
                 "region": 1,
                 "division": 4,
-                "field": 10,
+                "field": 13,
                 "promotions": 2,
                 "promoted countries": [
-                    "Austria",
-                    "Kosovo"
+                    "Switzerland",
+                    "Bosnia & Herzegovina"
                 ],
                 "results": {
-                    "1": "Austria",
-                    "2": "Kosovo",
-                    "3": "Finland",
-                    "4": "Luxembourg",
-                    "5": "Andorra",
-                    "6": "Czechia",
-                    "7": "Slovenia",
-                    "8": "Iceland",
-                    "9": "Belgium",
-                    "10": "Georgia"
+                    "1": "Switzerland",
+                    "2": "Bosnia & Herzegovina",
+                    "3": "Bulgaria",
+                    "4": "Croatia",
+                    "5": "Serbia",
+                    "6": "T\u00fcrkiye",
+                    "7": "Ireland",
+                    "8": "Poland",
+                    "9": "Liechtenstein",
+                    "10": "Netherlands",
+                    "11": "Georgia",
+                    "12": "Andorra",
+                    "13": "Denmark"
                 }
             }
         }
@@ -2155,48 +2153,46 @@
                 "field": 12,
                 "promotions": 2,
                 "promoted countries": [
-                    "Ukraine",
-                    "Portugal"
+                    "Scotland",
+                    "Sweden"
                 ],
                 "relegations": 4,
                 "relegated countries": [
-                    "Bulgaria",
-                    "Wales",
-                    "Sweden",
-                    "Netherlands"
+                    "Austria",
+                    "Hungary",
+                    "England",
+                    "Romania"
                 ],
                 "results": {
-                    "1": "Ukraine",
-                    "2": "Portugal",
-                    "3": "Monaco",
-                    "4": "Poland",
-                    "5": "Slovakia",
-                    "6": "Israel",
-                    "7": "Switzerland",
-                    "8": "Croatia",
-                    "9": "Netherlands",
-                    "10": "Sweden",
-                    "11": "Wales",
-                    "12": "Bulgaria"
+                    "1": "Scotland",
+                    "2": "Sweden",
+                    "3": "Wales",
+                    "4": "Belgium",
+                    "5": "Spain",
+                    "6": "Kosovo",
+                    "7": "Monaco",
+                    "8": "Israel",
+                    "9": "Romania",
+                    "10": "England",
+                    "11": "Hungary",
+                    "12": "Austria"
                 }
             },
             "2B": {
                 "competition": "Americas Nations League B",
                 "region": 2,
                 "division": 2,
-                "field": 7,
+                "field": 5,
                 "promotions": 1,
                 "promoted countries": [
-                    "Puerto Rico"
+                    "Bolivia"
                 ],
                 "results": {
-                    "1": "Puerto Rico",
-                    "2": "Brazil",
-                    "3": "Mexico",
-                    "4": "Dominican Republic",
-                    "5": "US Virgin Islands",
-                    "6": "Guyana",
-                    "7": "USA"
+                    "1": "Bolivia",
+                    "2": "Dominican Republic",
+                    "3": "Guyana",
+                    "4": "Jamaica",
+                    "5": "Canada"
                 }
             },
             "3B": {
@@ -2206,28 +2202,28 @@
                 "field": 12,
                 "promotions": 1,
                 "promoted countries": [
-                    "Kazakhstan"
+                    "Kyrgystan"
                 ],
                 "relegations": 4,
                 "relegated countries": [
+                    "Korea",
                     "Australia",
-                    "Turkmenistan",
-                    "New Zealand",
-                    "Thailand"
+                    "Pakistan",
+                    "Nigeria"
                 ],
                 "results": {
-                    "1": "Kazakhstan",
-                    "2": "Afghanistan",
-                    "3": "Kuwait",
-                    "4": "Philippines",
-                    "5": "Kenya",
-                    "6": "Japan",
-                    "7": "Mongolia",
-                    "8": "China",
-                    "9": "Thailand",
-                    "10": "New Zealand",
-                    "11": "Turkmenistan",
-                    "12": "Australia"
+                    "1": "Kyrgystan",
+                    "2": "Mongolia",
+                    "3": "Philippines",
+                    "4": "Kazakhstan",
+                    "5": "Japan",
+                    "6": "Chinese Taipei",
+                    "7": "Hong Kong",
+                    "8": "Turkmenistan",
+                    "9": "Nigeria",
+                    "10": "Pakistan",
+                    "11": "Australia",
+                    "12": "Korea"
                 }
             },
             "1A": {
@@ -2235,18 +2231,18 @@
                 "region": 1,
                 "division": 1,
                 "field": 10,
-                "winner": "Estonia",
+                "winner": "Spain",
                 "results": {
-                    "1": "Estonia",
-                    "2": "Ukraine",
-                    "3": "Scotland",
-                    "4": "Poland",
-                    "5": "Portugal",
-                    "6": "Monaco",
-                    "7": "Norway",
-                    "8": "Germany",
-                    "9": "England",
-                    "10": "Spain"
+                    "1": "Spain",
+                    "2": "Kosovo",
+                    "3": "Sweden",
+                    "4": "Wales",
+                    "5": "Ukraine",
+                    "6": "Scotland",
+                    "7": "Belgium",
+                    "8": "Estonia",
+                    "9": "France",
+                    "10": "Germany"
                 }
             },
             "23A": {
@@ -2257,16 +2253,16 @@
                 ],
                 "division": 1,
                 "field": 8,
-                "winner": "Qatar",
+                "winner": "Mexico",
                 "results": {
-                    "1": "Qatar",
-                    "2": "Puerto Rico",
-                    "3": "Korea",
-                    "4": "Bolivia",
-                    "5": "Kazakhstan",
-                    "6": "Saudi Arabia",
-                    "7": "Jamaica",
-                    "8": "Canada"
+                    "1": "Mexico",
+                    "2": "Thailand",
+                    "3": "Brazil",
+                    "4": "US Virgin Islands",
+                    "5": "Afghanistan",
+                    "6": "Puerto Rico",
+                    "7": "USA",
+                    "8": "India"
                 }
             },
             "WC": {
@@ -2278,31 +2274,31 @@
                 ],
                 "division": 1,
                 "field": 16,
-                "winner": "Estonia",
+                "winner": "Bolivia",
                 "relegations": 4,
                 "relegated countries": [
-                    "Ukraine",
-                    "Qatar",
-                    "Puerto Rico",
-                    "Jamaica"
+                    "Sweden",
+                    "Scotland",
+                    "Mexico",
+                    "France"
                 ],
                 "results": {
-                    "1": "Estonia",
-                    "2": "England",
-                    "3": "Spain",
-                    "4": "Norway",
-                    "5": "Germany",
-                    "6": "Canada",
-                    "7": "Portugal",
-                    "8": "Scotland",
-                    "9": "Kazakhstan",
-                    "10": "Korea",
-                    "11": "Bolivia",
-                    "12": "Saudi Arabia",
-                    "13": "Jamaica",
-                    "14": "Puerto Rico",
-                    "15": "Qatar",
-                    "16": "Ukraine"
+                    "1": "Bolivia",
+                    "2": "Puerto Rico",
+                    "3": "Germany",
+                    "4": "Estonia",
+                    "5": "USA",
+                    "6": "Kyrgystan",
+                    "7": "Thailand",
+                    "8": "India",
+                    "9": "Ukraine",
+                    "10": "Brazil",
+                    "11": "US Virgin Islands",
+                    "12": "Afghanistan",
+                    "13": "France",
+                    "14": "Mexico",
+                    "15": "Scotland",
+                    "16": "Sweden"
                 }
             },
             "1C": {
@@ -2310,32 +2306,31 @@
                 "region": 1,
                 "division": 3,
                 "field": 12,
-                "promotions": 5,
+                "promotions": 3,
                 "promoted countries": [
-                    "Denmark",
-                    "Lithuania",
-                    "Kosovo",
-                    "Liechtenstein",
-                    "Romania"
+                    "Finland",
+                    "Iceland",
+                    "Portugal"
                 ],
-                "relegations": 2,
+                "relegations": 3,
                 "relegated countries": [
-                    "Latvia",
-                    "Italy"
+                    "Switzerland",
+                    "Lithuania",
+                    "Slovenia"
                 ],
                 "results": {
-                    "1": "Denmark",
-                    "2": "Lithuania",
-                    "3": "Kosovo",
-                    "4": "Liechtenstein",
-                    "5": "Romania",
-                    "6": "Ireland",
-                    "7": "Greece",
-                    "8": "T\u00fcrkiye",
-                    "9": "Hungary",
-                    "10": "Austria",
-                    "11": "Italy",
-                    "12": "Latvia"
+                    "1": "Finland",
+                    "2": "Iceland",
+                    "3": "Portugal",
+                    "4": "Czechia",
+                    "5": "Luxembourg",
+                    "6": "Bosnia & Herzegovina",
+                    "7": "Norway",
+                    "8": "Slovakia",
+                    "9": "Italy",
+                    "10": "Slovenia",
+                    "11": "Lithuania",
+                    "12": "Switzerland"
                 }
             },
             "3C": {
@@ -2343,45 +2338,47 @@
                 "region": 3,
                 "division": 3,
                 "field": 6,
-                "promotions": 4,
+                "promotions": 5,
                 "promoted countries": [
-                    "Nigeria",
-                    "Chinese Taipei",
-                    "Kyrgystan",
-                    "India"
+                    "Kuwait",
+                    "Saudi Arabia",
+                    "China",
+                    "New Zealand",
+                    "Qatar"
                 ],
                 "results": {
-                    "1": "Nigeria",
-                    "2": "Chinese Taipei",
-                    "3": "Kyrgystan",
-                    "4": "India",
-                    "5": "Hong Kong",
-                    "6": "Pakistan"
+                    "1": "Kuwait",
+                    "2": "Saudi Arabia",
+                    "3": "China",
+                    "4": "New Zealand",
+                    "5": "Qatar",
+                    "6": "Kenya"
                 }
             },
             "1D": {
                 "competition": "European Nations League D",
                 "region": 1,
                 "division": 4,
-                "field": 11,
-                "promotions": 3,
+                "field": 13,
+                "promotions": 2,
                 "promoted countries": [
-                    "Slovenia",
-                    "Czechia",
-                    "Bosnia & Herzegovina"
+                    "Latvia",
+                    "Denmark"
                 ],
                 "results": {
-                    "1": "Slovenia",
-                    "2": "Czechia",
-                    "3": "Bosnia & Herzegovina",
-                    "4": "Andorra",
-                    "5": "Georgia",
-                    "6": "Finland",
-                    "7": "Serbia",
-                    "8": "France",
-                    "9": "Luxembourg",
-                    "10": "Belgium",
-                    "11": "Iceland"
+                    "1": "Latvia",
+                    "2": "Denmark",
+                    "3": "Serbia",
+                    "4": "T\u00fcrkiye",
+                    "5": "Croatia",
+                    "6": "Greece",
+                    "7": "Netherlands",
+                    "8": "Liechtenstein",
+                    "9": "Poland",
+                    "10": "Bulgaria",
+                    "11": "Andorra",
+                    "12": "Georgia",
+                    "13": "Ireland"
                 }
             }
         }

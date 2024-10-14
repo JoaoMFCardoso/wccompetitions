@@ -19,55 +19,55 @@ C division nations: 7
 European Nations League B
   Participating Nations: 12
    Promoted:
-      Wales
-      Latvia
-   Relegated:
-      Austria
       Slovakia
-      Finland
-      Belgium
+      Hungary
+   Relegated:
+      Netherlands
+      Spain
+      Estonia
+      Denmark
 
 Americas Nations League B
 Participating Nations: 8
    Promoted:
-      Guyana
+      Bolivia
 
 Asia Pacific Nations League B
   Participating Nations: 12
    Promoted:
-      Australia
+      Chinese Taipei
    Relegated:
-      Saudi Arabia
-      Nigeria
-      Kyrgystan
+      New Zealand
+      Qatar
+      Australia
 
 European Nations League A
   Participating Nations: 10
-  Winner: Czechia
+  Winner: Norway
 
 Pan Continental Nations League A
   Participating Nations: 8
-  Winner: Hong Kong
+  Winner: Saudi Arabia
 
 World Championships Results *****
   Participating Nations: 16
-  Winner: Norway
+  Winner: Italy
    Relegated:
-      Switzerland
-      Sweden
-      Italy
-      Guyana
+      Türkiye
+      Norway
+      USA
+      Hungary
 
 European Nations League C
   Participating Nations: 12
    Promoted:
-      Ireland
-      Portugal
-      France
-   Relegated:
-      Andorra
+      Bulgaria
+      Croatia
       Liechtenstein
-      Poland
+   Relegated:
+      Slovenia
+      Romania
+      Andorra
 
 European Nations League D
   Participating Nations: 9
@@ -78,9 +78,9 @@ European Nations League D
 Asia Pacific Nations League C
   Participating Nations: 7
    Promoted:
-      Turkmenistan
-      Kenya
+      Afghanistan
       Pakistan
+      Mongolia
       Thailand
 
 
@@ -104,13 +104,13 @@ C division nations: 6
 European Nations League B
   Participating Nations: 12
    Promoted:
-      Netherlands
+      Hungary
       England
    Relegated:
-      Hungary
-      Portugal
-      Estonia
-      Spain
+      Finland
+      Liechtenstein
+      Croatia
+      Austria
 
 Americas Nations League B
 Participating Nations: 8
@@ -120,53 +120,55 @@ Participating Nations: 8
 Asia Pacific Nations League B
   Participating Nations: 12
    Promoted:
-      Philippines
+      Hong Kong
    Relegated:
+      India
+      Afghanistan
       Thailand
-      Kenya
-      Pakistan
-      Turkmenistan
+      China
 
 European Nations League A
   Participating Nations: 10
-  Winner: Wales
+  Winner: Scotland
 
 Pan Continental Nations League A
   Participating Nations: 8
-  Winner: Korea
+  Winner: Dominican Republic
 
 World Championships Results *****
   Participating Nations: 16
-  Winner: Japan
+  Winner: Bolivia
    Relegated:
-      Latvia
-      Australia
-      Philippines
-      Scotland
+      Dominican Republic
+      Switzerland
+      Czechia
+      Canada
 
 European Nations League C
   Participating Nations: 12
    Promoted:
-      Croatia
-      Finland
-      Belgium
-      Israel
+      Georgia
+      France
+      Estonia
+      Denmark
    Relegated:
-      Lithuania
-      Slovenia
+      Ireland
+      Poland
 
 European Nations League D
   Participating Nations: 10
    Promoted:
-      Luxembourg
-      Kosovo
+      Monaco
+      Greece
 
 Asia Pacific Nations League C
   Participating Nations: 6
    Promoted:
-      Kyrgystan
-      Saudi Arabia
-      Mongolia
+      Australia
+      Kuwait
+      New Zealand
+      Turkmenistan
+      Kenya
 
 
  Year 3 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -178,79 +180,81 @@ C division nations: 12
 D division nations: 10
 
 Americas Nations League
-A division nations: 3
-B division nations: 7
+A division nations: 1
+B division nations: 9
 
 Asia Pacific Nations League
-A division nations: 2
+A division nations: 4
 B division nations: 12
-C division nations: 7
+C division nations: 5
 
 European Nations League B
   Participating Nations: 12
    Promoted:
-      Ireland
-      Sweden
+      France
+      Wales
    Relegated:
-      Belgium
-      Switzerland
+      Bulgaria
       Latvia
-      Scotland
+      Belgium
+      Denmark
 
 Americas Nations League B
-Participating Nations: 7
+Participating Nations: 9
    Promoted:
       Guyana
 
 Asia Pacific Nations League B
   Participating Nations: 12
    Promoted:
-      India
-   Relegated:
-      Mongolia
-      China
       Saudi Arabia
+   Relegated:
+      Kenya
+      Turkmenistan
+      New Zealand
+      Australia
 
 European Nations League A
   Participating Nations: 10
-  Winner: Italy
+  Winner: Türkiye
 
 Pan Continental Nations League A
   Participating Nations: 8
-  Winner: Japan
+  Winner: Chinese Taipei
 
 World Championships Results *****
   Participating Nations: 16
-  Winner: Norway
+  Winner: Hungary
    Relegated:
-      Czechia
-      Canada
+      England
+      Slovakia
       Korea
-      Germany
+      Guyana
 
 European Nations League C
   Participating Nations: 12
    Promoted:
-      Romania
-      Slovakia
-      Luxembourg
       Ukraine
+      Monaco
+      Finland
+      Lithuania
    Relegated:
-      Georgia
-      Kosovo
+      Croatia
+      Netherlands
 
 European Nations League D
   Participating Nations: 10
    Promoted:
-      Serbia
-      Liechtenstein
+      Kosovo
+      Ireland
 
 Asia Pacific Nations League C
-  Participating Nations: 7
+  Participating Nations: 5
    Promoted:
-      Nigeria
+      Qatar
       Afghanistan
-      Kuwait
+      India
+      Thailand
 
 
  Year 4 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -262,166 +266,167 @@ C division nations: 12
 D division nations: 10
 
 Americas Nations League
-A division nations: 3
-B division nations: 7
+A division nations: 1
+B division nations: 9
 
 Asia Pacific Nations League
-A division nations: 2
+A division nations: 4
 B division nations: 12
-C division nations: 7
+C division nations: 5
 
 European Nations League B
   Participating Nations: 12
    Promoted:
-      Germany
-      Ukraine
+      Switzerland
+      Georgia
    Relegated:
-      Croatia
-      Denmark
-      Czechia
-      Luxembourg
+      England
+      Slovakia
+      Monaco
+      Ukraine
 
 Americas Nations League B
-Participating Nations: 7
+Participating Nations: 9
    Promoted:
-      Puerto Rico
+      USA
 
 Asia Pacific Nations League B
   Participating Nations: 12
    Promoted:
-      Kuwait
+      Afghanistan
    Relegated:
-      Hong Kong
-      Australia
-      Chinese Taipei
+      Mongolia
+      Thailand
+      Qatar
+      Philippines
 
 European Nations League A
   Participating Nations: 10
-  Winner: Wales
+  Winner: Italy
 
 Pan Continental Nations League A
   Participating Nations: 8
-  Winner: Guyana
+  Winner: Afghanistan
 
 World Championships Results *****
   Participating Nations: 16
-  Winner: Kuwait
+  Winner: Bolivia
    Relegated:
-      Dominican Republic
-      Sweden
-      USA
-      Türkiye
+      Hong Kong
+      Switzerland
+      Georgia
+      Italy
 
 European Nations League C
   Participating Nations: 12
    Promoted:
-      Hungary
-      Bulgaria
-      Scotland
+      Greece
+      Kosovo
       Spain
    Relegated:
-      Austria
-      Portugal
+      Belgium
+      Ireland
+      Denmark
 
 European Nations League D
   Participating Nations: 10
    Promoted:
-      Greece
-      Bosnia & Herzegovina
+      Luxembourg
+      Romania
 
 Asia Pacific Nations League C
-  Participating Nations: 7
+  Participating Nations: 5
    Promoted:
-      Turkmenistan
       Kenya
-      Thailand
-      Mongolia
+      China
+      Turkmenistan
+      New Zealand
 
 
  Year 5 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 European Nations League
-A division nations: 7
+A division nations: 6
 B division nations: 12
 C division nations: 12
-D division nations: 10
+D division nations: 11
 
 Americas Nations League
 A division nations: 2
 B division nations: 8
 
 Asia Pacific Nations League
-A division nations: 3
+A division nations: 4
 B division nations: 12
-C division nations: 6
+C division nations: 5
 
 European Nations League B
   Participating Nations: 12
    Promoted:
-      Slovakia
-      Scotland
+      Türkiye
+      Estonia
    Relegated:
-      Hungary
-      Romania
-      Bulgaria
-      Italy
+      Georgia
+      Lithuania
+      Switzerland
+      Finland
 
 Americas Nations League B
 Participating Nations: 8
    Promoted:
-      US Virgin Islands
+      Mexico
 
 Asia Pacific Nations League B
   Participating Nations: 12
    Promoted:
-      New Zealand
+      Korea
    Relegated:
-      Thailand
-      Mongolia
-      Philippines
+      Pakistan
+      Kuwait
+      Kazakhstan
       Kyrgystan
 
 European Nations League A
   Participating Nations: 10
-  Winner: Slovakia
+  Winner: Estonia
 
 Pan Continental Nations League A
   Participating Nations: 8
-  Winner: Kuwait
+  Winner: Mexico
 
 World Championships Results *****
   Participating Nations: 16
-  Winner: Kuwait
+  Winner: Scotland
    Relegated:
-      US Virgin Islands
-      Ireland
-      Slovakia
-      India
+      Afghanistan
+      Chinese Taipei
+      Japan
+      Germany
 
 European Nations League C
   Participating Nations: 12
    Promoted:
-      Estonia
-      Serbia
-      Belgium
-      Greece
+      Ukraine
+      Austria
+      Portugal
+      Romania
+      England
    Relegated:
       Luxembourg
-      Bosnia & Herzegovina
+      Liechtenstein
 
 European Nations League D
-  Participating Nations: 10
+  Participating Nations: 11
    Promoted:
-      Poland
-      Georgia
+      Serbia
+      Denmark
+      Iceland
 
 Asia Pacific Nations League C
-  Participating Nations: 6
+  Participating Nations: 5
    Promoted:
-      Chinese Taipei
-      Hong Kong
-      China
-      Pakistan
+      Qatar
+      Mongolia
 
 
  Year 6 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -433,81 +438,78 @@ C division nations: 12
 D division nations: 10
 
 Americas Nations League
-A division nations: 2
-B division nations: 8
+A division nations: 3
+B division nations: 7
 
 Asia Pacific Nations League
-A division nations: 3
+A division nations: 2
 B division nations: 12
-C division nations: 6
+C division nations: 7
 
 European Nations League B
   Participating Nations: 12
    Promoted:
-      Greece
-      Estonia
-   Relegated:
       Spain
-      Serbia
-      Finland
-      France
+      Romania
+   Relegated:
+      Italy
+      Czechia
+      Norway
+      Kosovo
 
 Americas Nations League B
-Participating Nations: 8
+Participating Nations: 7
    Promoted:
-      Canada
+      Brazil
 
 Asia Pacific Nations League B
   Participating Nations: 12
    Promoted:
-      Qatar
-   Relegated:
       India
-      Kazakhstan
-      Afghanistan
-      Chinese Taipei
+   Relegated:
+      Kenya
+      Mongolia
+      Japan
 
 European Nations League A
   Participating Nations: 10
-  Winner: Ukraine
+  Winner: Estonia
 
 Pan Continental Nations League A
   Participating Nations: 8
-  Winner: Guyana
+  Winner: Brazil
 
 World Championships Results *****
   Participating Nations: 16
-  Winner: Netherlands
+  Winner: Sweden
    Relegated:
-      Guyana
-      Greece
-      Kuwait
-      Scotland
+      Romania
+      Türkiye
+      Korea
+      Saudi Arabia
 
 European Nations League C
   Participating Nations: 12
    Promoted:
-      Switzerland
-      Poland
-      Croatia
-      Liechtenstein
+      Serbia
+      Monaco
+      Iceland
+      Slovakia
    Relegated:
-      Georgia
-      Czechia
+      Bulgaria
+      Denmark
 
 European Nations League D
   Participating Nations: 10
    Promoted:
-      Portugal
-      Lithuania
+      Liechtenstein
+      Luxembourg
 
 Asia Pacific Nations League C
-  Participating Nations: 6
+  Participating Nations: 7
    Promoted:
       Thailand
-      Saudi Arabia
       Kyrgystan
-      Mongolia
 
 
  Year 7 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -519,256 +521,81 @@ C division nations: 12
 D division nations: 10
 
 Americas Nations League
-A division nations: 2
-B division nations: 8
+A division nations: 4
+B division nations: 6
 
 Asia Pacific Nations League
-A division nations: 3
+A division nations: 1
 B division nations: 12
-C division nations: 6
+C division nations: 8
 
 European Nations League B
   Participating Nations: 12
    Promoted:
-      Switzerland
-      Slovakia
+      Portugal
+      Germany
    Relegated:
-      Croatia
-      Sweden
-      Belgium
-      Liechtenstein
+      Türkiye
+      Serbia
+      Greece
+      Slovakia
 
 Americas Nations League B
-Participating Nations: 8
+Participating Nations: 6
    Promoted:
-      Jamaica
+      US Virgin Islands
 
 Asia Pacific Nations League B
   Participating Nations: 12
    Promoted:
-      Saudi Arabia
+      Kyrgystan
    Relegated:
-      Pakistan
-      Nigeria
+      Qatar
       Hong Kong
-      Thailand
 
 European Nations League A
   Participating Nations: 10
-  Winner: Estonia
+  Winner: Wales
 
 Pan Continental Nations League A
   Participating Nations: 8
-  Winner: Qatar
+  Winner: Puerto Rico
 
 World Championships Results *****
   Participating Nations: 16
-  Winner: Qatar
+  Winner: India
    Relegated:
+      Hungary
+      Bolivia
+      Estonia
       Wales
-      New Zealand
-      Puerto Rico
-      Ukraine
 
 European Nations League C
   Participating Nations: 12
    Promoted:
-      Spain
-      Romania
-      Portugal
-      Bulgaria
-   Relegated:
+      Kosovo
+      Italy
       Finland
-      Lithuania
+   Relegated:
+      Switzerland
+      Norway
+      Liechtenstein
 
 European Nations League D
   Participating Nations: 10
    Promoted:
-      Iceland
-      Bosnia & Herzegovina
+      Slovenia
+      Netherlands
 
 Asia Pacific Nations League C
-  Participating Nations: 6
+  Participating Nations: 8
    Promoted:
-      Australia
-      Afghanistan
-      Chinese Taipei
+      Mongolia
       Kazakhstan
+      Australia
 
 
  Year 8 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-European Nations League
-A division nations: 7
-B division nations: 12
-C division nations: 12
-D division nations: 10
-
-Americas Nations League
-A division nations: 2
-B division nations: 8
-
-Asia Pacific Nations League
-A division nations: 3
-B division nations: 12
-C division nations: 6
-
-European Nations League B
-  Participating Nations: 12
-   Promoted:
-      Türkiye
-      Scotland
-   Relegated:
-      Ireland
-      Romania
-      Poland
-      Portugal
-
-Americas Nations League B
-Participating Nations: 8
-   Promoted:
-      US Virgin Islands
-
-Asia Pacific Nations League B
-  Participating Nations: 12
-   Promoted:
-      Korea
-   Relegated:
-      Mongolia
-      Kenya
-      Australia
-      Afghanistan
-
-European Nations League A
-  Participating Nations: 10
-  Winner: England
-
-Pan Continental Nations League A
-  Participating Nations: 8
-  Winner: Qatar
-
-World Championships Results *****
-  Participating Nations: 16
-  Winner: Canada
-   Relegated:
-      Japan
-      US Virgin Islands
-      Slovakia
-      Türkiye
-
-European Nations League C
-  Participating Nations: 12
-   Promoted:
-      Hungary
-      Denmark
-      Croatia
-      Sweden
-   Relegated:
-      Belgium
-      Iceland
-
-European Nations League D
-  Participating Nations: 10
-   Promoted:
-      Lithuania
-      Monaco
-
-Asia Pacific Nations League C
-  Participating Nations: 6
-   Promoted:
-      Thailand
-      Nigeria
-      Philippines
-      Pakistan
-
-
- Year 9 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-European Nations League
-A division nations: 7
-B division nations: 12
-C division nations: 12
-D division nations: 10
-
-Americas Nations League
-A division nations: 2
-B division nations: 8
-
-Asia Pacific Nations League
-A division nations: 3
-B division nations: 12
-C division nations: 6
-
-European Nations League B
-  Participating Nations: 12
-   Promoted:
-      Sweden
-      Spain
-   Relegated:
-      Türkiye
-      Greece
-      Denmark
-      Hungary
-
-Americas Nations League B
-Participating Nations: 8
-   Promoted:
-      Bolivia
-
-Asia Pacific Nations League B
-  Participating Nations: 12
-   Promoted:
-      Kuwait
-   Relegated:
-      Kyrgystan
-      Nigeria
-      Chinese Taipei
-      Pakistan
-
-European Nations League A
-  Participating Nations: 10
-  Winner: Norway
-
-Pan Continental Nations League A
-  Participating Nations: 8
-  Winner: Kuwait
-
-World Championships Results *****
-  Participating Nations: 16
-  Winner: Korea
-   Relegated:
-      Switzerland
-      Kuwait
-      Sweden
-      Netherlands
-
-European Nations League C
-  Participating Nations: 12
-   Promoted:
-      Portugal
-      Monaco
-      Poland
-   Relegated:
-      France
-      Serbia
-      Bosnia & Herzegovina
-
-European Nations League D
-  Participating Nations: 10
-   Promoted:
-      Austria
-      Kosovo
-
-Asia Pacific Nations League C
-  Participating Nations: 6
-   Promoted:
-      Mongolia
-      Afghanistan
-      Kenya
-      Australia
-
-
- Year 10 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 European Nations League
 A division nations: 6
@@ -777,8 +604,93 @@ C division nations: 12
 D division nations: 11
 
 Americas Nations League
-A division nations: 3
-B division nations: 7
+A division nations: 4
+B division nations: 6
+
+Asia Pacific Nations League
+A division nations: 2
+B division nations: 12
+C division nations: 7
+
+European Nations League B
+  Participating Nations: 12
+   Promoted:
+      Ukraine
+      Estonia
+   Relegated:
+      Finland
+      Hungary
+      Romania
+      Monaco
+
+Americas Nations League B
+Participating Nations: 6
+   Promoted:
+      Puerto Rico
+
+Asia Pacific Nations League B
+  Participating Nations: 12
+   Promoted:
+      Afghanistan
+   Relegated:
+      Chinese Taipei
+      Australia
+      China
+
+European Nations League A
+  Participating Nations: 10
+  Winner: Italy
+
+Pan Continental Nations League A
+  Participating Nations: 8
+  Winner: Afghanistan
+
+World Championships Results *****
+  Participating Nations: 16
+  Winner: US Virgin Islands
+   Relegated:
+      Sweden
+      Spain
+      Portugal
+      France
+
+European Nations League C
+  Participating Nations: 12
+   Promoted:
+      Czechia
+      Israel
+   Relegated:
+      Serbia
+      Netherlands
+      Türkiye
+      Georgia
+
+European Nations League D
+  Participating Nations: 11
+   Promoted:
+      Norway
+      Belgium
+
+Asia Pacific Nations League C
+  Participating Nations: 7
+   Promoted:
+      Philippines
+      Pakistan
+      Kuwait
+      Kenya
+
+
+ Year 9 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+European Nations League
+A division nations: 4
+B division nations: 12
+C division nations: 12
+D division nations: 13
+
+Americas Nations League
+A division nations: 5
+B division nations: 5
 
 Asia Pacific Nations League
 A division nations: 3
@@ -788,70 +700,155 @@ C division nations: 6
 European Nations League B
   Participating Nations: 12
    Promoted:
-      Ukraine
-      Portugal
+      Austria
+      France
    Relegated:
-      Bulgaria
-      Wales
-      Sweden
-      Netherlands
+      Czechia
+      Italy
+      Iceland
+      Portugal
 
 Americas Nations League B
-Participating Nations: 7
+Participating Nations: 5
    Promoted:
-      Puerto Rico
+      Jamaica
 
 Asia Pacific Nations League B
   Participating Nations: 12
    Promoted:
-      Kazakhstan
-   Relegated:
-      Australia
-      Turkmenistan
-      New Zealand
       Thailand
+   Relegated:
+      Saudi Arabia
+      Kuwait
+      New Zealand
+      Kenya
 
 European Nations League A
   Participating Nations: 10
-  Winner: Estonia
+  Winner: France
 
 Pan Continental Nations League A
   Participating Nations: 8
-  Winner: Qatar
+  Winner: USA
 
 World Championships Results *****
   Participating Nations: 16
-  Winner: Estonia
+  Winner: USA
    Relegated:
-      Ukraine
-      Qatar
-      Puerto Rico
       Jamaica
+      Scotland
+      Kyrgystan
+      Austria
 
 European Nations League C
   Participating Nations: 12
    Promoted:
-      Denmark
-      Lithuania
-      Kosovo
-      Liechtenstein
+      Hungary
       Romania
+      Belgium
+      Monaco
    Relegated:
+      Greece
       Latvia
-      Italy
 
 European Nations League D
-  Participating Nations: 11
+  Participating Nations: 13
    Promoted:
-      Slovenia
-      Czechia
+      Switzerland
       Bosnia & Herzegovina
 
 Asia Pacific Nations League C
   Participating Nations: 6
    Promoted:
-      Nigeria
+      Hong Kong
+      Japan
       Chinese Taipei
+      Australia
+
+
+ Year 10 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+European Nations League
+A division nations: 4
+B division nations: 12
+C division nations: 12
+D division nations: 13
+
+Americas Nations League
+A division nations: 5
+B division nations: 5
+
+Asia Pacific Nations League
+A division nations: 3
+B division nations: 12
+C division nations: 6
+
+European Nations League B
+  Participating Nations: 12
+   Promoted:
+      Scotland
+      Sweden
+   Relegated:
+      Austria
+      Hungary
+      England
+      Romania
+
+Americas Nations League B
+Participating Nations: 5
+   Promoted:
+      Bolivia
+
+Asia Pacific Nations League B
+  Participating Nations: 12
+   Promoted:
       Kyrgystan
-      India
+   Relegated:
+      Korea
+      Australia
+      Pakistan
+      Nigeria
+
+European Nations League A
+  Participating Nations: 10
+  Winner: Spain
+
+Pan Continental Nations League A
+  Participating Nations: 8
+  Winner: Mexico
+
+World Championships Results *****
+  Participating Nations: 16
+  Winner: Bolivia
+   Relegated:
+      Sweden
+      Scotland
+      Mexico
+      France
+
+European Nations League C
+  Participating Nations: 12
+   Promoted:
+      Finland
+      Iceland
+      Portugal
+   Relegated:
+      Switzerland
+      Lithuania
+      Slovenia
+
+European Nations League D
+  Participating Nations: 13
+   Promoted:
+      Latvia
+      Denmark
+
+Asia Pacific Nations League C
+  Participating Nations: 6
+   Promoted:
+      Kuwait
+      Saudi Arabia
+      China
+      New Zealand
+      Qatar
 

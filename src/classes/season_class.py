@@ -1,4 +1,5 @@
-from src.competition_classes import Competition, printResults, promoteCountry, relegateCountry, countCountriesInDivisionRegion, countriesPerRegion
+from src.classes.competition_class import Competition 
+from src.utilities import printResults, promoteCountry, relegateCountry, countCountriesInDivisionRegion, countriesPerRegion
 
 class Season:
     def __init__(self, year, regions_list, start_countries, enl_a_eligible_countries, pcnl_a_eligible_countries):

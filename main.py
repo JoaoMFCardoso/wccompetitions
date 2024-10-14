@@ -1,5 +1,6 @@
-from src.competition_classes import Region, Country
-from src.season_classes import Season
+from src.classes.country_class import Country
+from src.classes.region_class import Region
+from src.classes.season_class import Season
 from src.results_creator import createShortResultsFile, createLongResultsFile, createJSONFile
 
 
@@ -88,7 +89,7 @@ data = [
 # Convert country data into Country objects
 countries = []
 for item in data:
-    country = Country(item[0], item[1], item[2])
+    country = Country(item[0], item[1], item[2], 0, 0)
     countries.append(country)
 
 # Run season simulation
