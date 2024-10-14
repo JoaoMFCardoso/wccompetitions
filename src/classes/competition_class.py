@@ -1,3 +1,4 @@
+from src.data import competition_points
 import random
         
 class Competition:
@@ -6,6 +7,8 @@ class Competition:
                   region,
                   division,
                   field_size,
+                  points_per_position,
+                  points_multiplier,
                   min_number_of_promotions,
                   number_of_promotions,
                   min_number_of_relegations,
@@ -15,6 +18,8 @@ class Competition:
         self.region = region
         self.division = division
         self.field_size = field_size
+        self.points_per_position = competition_points
+        self.points_multiplier = points_multiplier
         self.final_rankings = []
         self.min_number_of_promotions = min_number_of_promotions
         self.number_of_promotions = number_of_promotions
@@ -71,4 +76,3 @@ class Competition:
         self.promoted_countries = sorted(self.final_rankings, key=self.final_rankings.get)[:self.number_of_promotions]
         self.relegated_countries = sorted(self.final_rankings, key=self.final_rankings.get, reverse=True)[:self.number_of_relegations]
         self.eligible_countries = sorted(self.final_rankings, key=self.final_rankings.get)[:self.number_of_eligible]
-

@@ -59,15 +59,15 @@ class Season:
 
         # Create all competitions
         # With some placeholders '0' for relegations and promotions
-        enl_b = Competition("European Nations League B", 1, 2, 12, 2, 2, 2, 0, 10)
-        anl_b = Competition("Americas Nations League B", 2, 2, 8, 1, 1, 0, 0, 4)
-        apnl_b = Competition("Asia Pacific Nations League B", 3, 2, 8, 1, 1, 1, 0, 4)
-        enl_a = Competition("European Nations League A", 1, 1, 10, 1, 1, 0, 0, 0)
-        pcnl_a = Competition("Pan Continental Nations League A", 2, 1, 8, 1, 1, 0, 0, 0)
-        world_championships = Competition("World Championships", 0, 1, 16, 1, 1, 4, 4, 0)
-        enl_c = Competition("European Nations League C", 1, 3, 12, 2, 0, 2, 0, 0)
-        enl_d = Competition("European Nations League D", 1, 4, 12, 2, 0, 0, 0, 0)
-        apnl_c = Competition("Asia Pacific Nations League C", 3, 3, 8, 1, 0, 0, 0, 0)
+        enl_b = Competition("European Nations League B", 1, 2, 12, 3, 2, 2, 2, 0, 10)
+        anl_b = Competition("Americas Nations League B", 2, 2, 8, 3, 1, 1, 0, 0, 4)
+        apnl_b = Competition("Asia Pacific Nations League B", 3, 2, 8, 3, 1, 1, 1, 0, 4)
+        enl_a = Competition("European Nations League A", 1, 1, 10, 5, 1, 1, 0, 0, 0)
+        pcnl_a = Competition("Pan Continental Nations League A", 2, 1, 8, 5, 1, 1, 0, 0, 0)
+        world_championships = Competition("World Championships", 0, 1, 16, 7, 1, 1, 4, 4, 0)
+        enl_c = Competition("European Nations League C", 1, 3, 12, 2, 2, 0, 2, 0, 0)
+        enl_d = Competition("European Nations League D", 1, 4, 12, 1, 2, 0, 0, 0, 0)
+        apnl_c = Competition("Asia Pacific Nations League C", 3, 3, 8, 2, 1, 0, 0, 0, 0)
 
         # Running competitions to gather promoted countries for World Championships
         # B divisions >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

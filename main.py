@@ -1,6 +1,7 @@
 from src.classes.country_class import Country
 from src.classes.region_class import Region
 from src.classes.season_class import Season
+from src.data.input_data import mens_ranking
 from src.results_creator import createShortResultsFile, createLongResultsFile, createJSONFile
 
 
@@ -86,10 +87,10 @@ data = [
     ["Luxembourg", 1, 4]
 ]
 
-# Convert country data into Country objects
+# Get countries from input data
 countries = []
-for item in data:
-    country = Country(item[0], item[1], item[2], 0, 0)
+for country in mens_ranking:
+    country = Country(country["name"], country["region"], country["division"], country["rank"], country["points"])
     countries.append(country)
 
 # Run season simulation

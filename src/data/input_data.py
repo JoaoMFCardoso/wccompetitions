@@ -1,3 +1,22 @@
+competition_points = {
+        1: 240,
+        2: 200,
+        3: 180,
+        4: 150,
+        5: 120,
+        6: 110,
+        7: 100,
+        8: 90,
+        9: 80,
+        10: 70,
+        11: 60,
+        12: 50,
+        13: 40,
+        14: 30,
+        15: 20,
+        16: 10
+}
+
 mens_ranking = [
     {
         "name": "Sweden",
@@ -135,7 +154,7 @@ mens_ranking = [
     {
         "name": "Chinese Taipei",
         "region": 3,
-        "division": 1,
+        "division": 2,
         "rank": 19,
         "points": 8.141
     },
@@ -163,7 +182,7 @@ mens_ranking = [
     {
         "name": "Australia",
         "region": 3,
-        "division": 1,
+        "division": 2,
         "rank": 24,
         "points": 5.555
     },
@@ -233,7 +252,7 @@ mens_ranking = [
     {
         "name": "Guyana",
         "region": 2,
-        "division": 3,
+        "division": 2,
         "rank": 34,
         "points": 3.099
     },
@@ -373,7 +392,7 @@ mens_ranking = [
     {
         "name": "Greece",
         "region": 1,
-        "division": 4,
+        "division": 3,
         "rank": 54,
         "points": 0.946
     },
@@ -401,7 +420,7 @@ mens_ranking = [
     {
         "name": "Israel",
         "region": 1,
-        "division": 4,
+        "division": 3,
         "rank": 58,
         "points": 0.383
     },
