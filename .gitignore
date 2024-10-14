@@ -1,2 +1,6 @@
 long_simulation_results.txt
 short_simulation_results.txt
+src/__pycache__/competition_classes.cpython-313.pyc
+src/__pycache__/exel_results_creator.cpython-313.pyc
+src/__pycache__/results_creator.cpython-313.pyc
+src/__pycache__/season_classes.cpython-313.pyc

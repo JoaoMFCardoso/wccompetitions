@@ -61,12 +61,13 @@ class Season:
 
         # Dynamic Relegations
         # Calculate the number of relegations per B (and C) division by the number of nations in the worlds
-        # The formula is B (and C) relegation = min((<region division A nations> +  <region promotion spots for worlds>), <number of relegations at the worlds>)
-        relegations_enl_b_c = min((self.europe_a_countries + self.regions_list[0].promotion_spots), len(self.wc_relegations))
+        # The formula is:
+        # min(<region nations in worlds> , <worlds relegations>)
+        relegations_enl_b = min((self.europe_a_countries + self.regions_list[0].promotion_spots), len(self.wc_relegations))
         relegations_apnl_b = min((self.asia_pacific_a_countries + self.regions_list[2].promotion_spots), len(self.wc_relegations))
 
         # European Nations League Division B
-        enl_b = Competition("European Nations League B", 1, 2, 2, relegations_enl_b_c, 10)
+        enl_b = Competition("European Nations League B", 1, 2, 2, relegations_enl_b, 10)
         enl_b.runCompetition(self.start_countries, [])
         self.enl_b_results = enl_b.final_rankings
         self.enl_b_promotions = enl_b.promoted_countries
@@ -118,21 +119,35 @@ class Season:
         # C and D divisions >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
         # Dynamic Promotions and Relegations
-        # Calculate the number of promotions for the C divisions by the number of countries in relegated in the worlds
-        # The formula is C promotions = <maximum number of relegations> - number of relegated countries from the region in the world championships + region promotion spots
+        # Calculate the number of promotions for the C divisions
+        # The formula is:
+        # <promotions per region> + <number of relegated countries from B> - <number of relegated countries of the region from worlds>
         wc_relegations_per_region = countriesPerRegion(world_championships.relegated_countries)
-        promotions_enl_c = min(len(self.wc_relegations), self.europe_a_countries + self.regions_list[0].promotion_spots)
-        promotions_apnl_c = min(len(self.wc_relegations), self.asia_pacific_a_countries + self.regions_list[2].promotion_spots)
+        promotions_enl_c = self.regions_list[0].promotion_spots + len(enl_b.relegated_countries) - wc_relegations_per_region[1]
+        promotions_apnl_c = self.regions_list[2].promotion_spots + len(apnl_b.relegated_countries) - wc_relegations_per_region[3]
+
+        # Calculate the number of relegations for the C divisions
+        # The formula is:
+        # max(<region nations relegated from worlds>, <number of promotion spots in D division>)
+        relegations_enl_c = max(wc_relegations_per_region[1], 2)
+
+        # Calculate the number of promotions for the D division
+        # The formula is:
+        # <starting number of countries in C> - <number of relegated countries in B> + <teams remaining in C after promotion/relegation>
+        # <teams remaining in C after promotion/relegation> = 12 - <promotion from C to B> - <relegation from C to D>
+        enl_c_remaining_teams_after_prorel = 12 - promotions_enl_c - relegations_enl_c
+        enl_c_number_of_starting_countries = countCountriesInDivisionRegion(new_countries, 3, 1)
+        promotions_enl_d = enl_c_number_of_starting_countries - relegations_enl_b + enl_c_remaining_teams_after_prorel
 
         # European Nations League Division C
-        enl_c = Competition("European Nations League C", 1, 3, promotions_enl_c, relegations_enl_b_c, 0)
+        enl_c = Competition("European Nations League C", 1, 3, promotions_enl_c, relegations_enl_c, 0)
         enl_c.runCompetition(self.start_countries, [])
         self.enl_c_results = enl_c.final_rankings
         self.enl_c_promotions = enl_c.promoted_countries
         self.enl_c_relegations = enl_c.relegated_countries
 
         # European Nations League Division D
-        enl_d = Competition("European Nations League D", 1, 4, 2, 0, 0)
+        enl_d = Competition("European Nations League D", 1, 4, promotions_enl_d, 0, 0)
         enl_d.runCompetition(self.start_countries, [])
         self.enl_d_results = enl_d.final_rankings
         self.enl_d_promotions = enl_d.promoted_countries
