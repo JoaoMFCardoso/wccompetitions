@@ -21,13 +21,16 @@ class Country:
         return f"{self.name}, Region {self.region}, Division {self.division}"
         
 class Competition:
-    def __init__(self, name, region, division, number_of_promotions, number_of_relegations, number_of_eligible):
+    def __init__(self, name, region, division, field_size, min_number_of_promotions, number_of_promotions, min_number_of_relegations, number_of_relegations, number_of_eligible):
         self.name = name
         self.region = region
         self.division = division
+        self.field_size = field_size
         self.final_rankings = []
+        self.min_number_of_promotions = min_number_of_promotions
         self.number_of_promotions = number_of_promotions
         self.promoted_countries = []
+        self.min_number_of_relegations = min_number_of_relegations
         self.number_of_relegations = number_of_relegations
         self.relegated_countries = []
         self.number_of_eligible = number_of_eligible
