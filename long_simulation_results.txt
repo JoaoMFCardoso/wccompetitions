@@ -1,0 +1,1889 @@
+
+Year 1
+
+European Nations League
+A division nations: 8
+B division nations: 12
+C division nations: 12
+D division nations: 9
+
+Americas Nations League
+A division nations: 2
+B division nations: 8
+
+Asia Pacific Nations League
+A division nations: 2
+B division nations: 12
+C division nations: 7
+
+European Nations League B
+Participating Nations: 12
+Promoted:
+Netherlands
+Spain
+Relegated:
+Austria
+Wales
+Finland
+England
+Results:
+1-Netherlands
+2-Spain
+3-Latvia
+4-Hungary
+5-Estonia
+6-Belgium
+7-Slovakia
+8-Denmark
+9-England
+10-Finland
+11-Wales
+12-Austria
+
+Americas Nations League B
+Participating Nations: 8
+Promoted:
+Bolivia
+Results:
+1-Bolivia
+2-Jamaica
+3-Mexico
+4-Guyana
+5-Dominican Republic
+6-Brazil
+7-US Virgin Islands
+8-Puerto Rico
+
+Asia Pacific Nations League B
+Participating Nations: 12
+Promoted:
+Kyrgystan
+Relegated:
+Saudi Arabia
+Qatar
+Philippines
+Results:
+1-Kyrgystan
+2-Hong Kong
+3-Australia
+4-India
+5-Chinese Taipei
+6-China
+7-Nigeria
+8-New Zealand
+9-Kazakhstan
+10-Philippines
+11-Qatar
+12-Saudi Arabia
+
+European Nations League A
+Participating Nations: 10
+Winner: Switzerland
+Results:
+1-Switzerland
+2-Netherlands
+3-Scotland
+4-Norway
+5-Sweden
+6-Spain
+7-Türkiye
+8-Italy
+9-Germany
+10-Czechia
+
+Pan Continental Nations League A
+Participating Nations: 8
+Winner: Japan
+Results:
+1-Japan
+2-Jamaica
+3-Korea
+4-Hong Kong
+5-Kyrgystan
+6-Bolivia
+7-USA
+8-Canada
+
+World Championships Results
+Participating Nations: 16
+Winner: Spain
+Relegated:
+Scotland
+Italy
+Czechia
+USA
+Results:
+1-Spain
+2-Netherlands
+3-Canada
+4-Sweden
+5-Germany
+6-Korea
+7-Japan
+8-Bolivia
+9-Türkiye
+10-Norway
+11-Kyrgystan
+12-Switzerland
+13-USA
+14-Czechia
+15-Italy
+16-Scotland
+
+European Nations League C
+Participating Nations: 12
+Promoted:
+Liechtenstein
+Andorra
+Ukraine
+Relegated:
+Lithuania
+Bulgaria
+Poland
+Results:
+1-Liechtenstein
+2-Andorra
+3-Ukraine
+4-Slovenia
+5-Portugal
+6-Ireland
+7-Croatia
+8-France
+9-Romania
+10-Poland
+11-Bulgaria
+12-Lithuania
+
+European Nations League D
+Participating Nations: 9
+Promoted:
+Iceland
+Greece
+Results:
+1-Iceland
+2-Greece
+3-Serbia
+4-Kosovo
+5-Israel
+6-Georgia
+7-Bosnia & Herzegovina
+8-Monaco
+9-Luxembourg
+
+Asia Pacific Nations League C
+Participating Nations: 7
+Promoted:
+Afghanistan
+Mongolia
+Kuwait
+Pakistan
+Results:
+1-Afghanistan
+2-Mongolia
+3-Kuwait
+4-Pakistan
+5-Turkmenistan
+6-Kenya
+7-Thailand
+
+
+Year 2
+
+European Nations League
+A division nations: 7
+B division nations: 12
+C division nations: 12
+D division nations: 10
+
+Americas Nations League
+A division nations: 2
+B division nations: 8
+
+Asia Pacific Nations League
+A division nations: 3
+B division nations: 12
+C division nations: 6
+
+European Nations League B
+Participating Nations: 12
+Promoted:
+Ukraine
+Hungary
+Relegated:
+Czechia
+Scotland
+Latvia
+Denmark
+Results:
+1-Ukraine
+2-Hungary
+3-Belgium
+4-Liechtenstein
+5-Andorra
+6-Slovakia
+7-Estonia
+8-Italy
+9-Denmark
+10-Latvia
+11-Scotland
+12-Czechia
+
+Americas Nations League B
+Participating Nations: 8
+Promoted:
+US Virgin Islands
+Results:
+1-US Virgin Islands
+2-Puerto Rico
+3-USA
+4-Dominican Republic
+5-Guyana
+6-Jamaica
+7-Mexico
+8-Brazil
+
+Asia Pacific Nations League B
+Participating Nations: 12
+Promoted:
+Hong Kong
+Relegated:
+Kazakhstan
+India
+Afghanistan
+Pakistan
+Results:
+1-Hong Kong
+2-Chinese Taipei
+3-Nigeria
+4-Kuwait
+5-China
+6-New Zealand
+7-Mongolia
+8-Australia
+9-Pakistan
+10-Afghanistan
+11-India
+12-Kazakhstan
+
+European Nations League A
+Participating Nations: 10
+Winner: Netherlands
+Results:
+1-Netherlands
+2-Spain
+3-Türkiye
+4-Norway
+5-Hungary
+6-Switzerland
+7-Germany
+8-Belgium
+9-Sweden
+10-Ukraine
+
+Pan Continental Nations League A
+Participating Nations: 8
+Winner: Kyrgystan
+Results:
+1-Kyrgystan
+2-Puerto Rico
+3-Korea
+4-Hong Kong
+5-Japan
+6-US Virgin Islands
+7-Canada
+8-Bolivia
+
+World Championships Results
+Participating Nations: 16
+Winner: Japan
+Relegated:
+Netherlands
+Kyrgystan
+Switzerland
+Hungary
+Results:
+1-Japan
+2-Hong Kong
+3-Spain
+4-Norway
+5-US Virgin Islands
+6-Türkiye
+7-Korea
+8-Germany
+9-Ukraine
+10-Sweden
+11-Canada
+12-Bolivia
+13-Hungary
+14-Switzerland
+15-Kyrgystan
+16-Netherlands
+
+European Nations League C
+Participating Nations: 12
+Promoted:
+Finland
+Slovenia
+Iceland
+Relegated:
+France
+Portugal
+England
+Results:
+1-Finland
+2-Slovenia
+3-Iceland
+4-Romania
+5-Austria
+6-Wales
+7-Ireland
+8-Greece
+9-Croatia
+10-England
+11-Portugal
+12-France
+
+European Nations League D
+Participating Nations: 10
+Promoted:
+Lithuania
+Monaco
+Results:
+1-Lithuania
+2-Monaco
+3-Luxembourg
+4-Poland
+5-Israel
+6-Bulgaria
+7-Bosnia & Herzegovina
+8-Georgia
+9-Serbia
+10-Kosovo
+
+Asia Pacific Nations League C
+Participating Nations: 6
+Promoted:
+Philippines
+Saudi Arabia
+Turkmenistan
+Kenya
+Results:
+1-Philippines
+2-Saudi Arabia
+3-Turkmenistan
+4-Kenya
+5-Thailand
+6-Qatar
+
+
+Year 3
+
+European Nations League
+A division nations: 6
+B division nations: 12
+C division nations: 12
+D division nations: 11
+
+Americas Nations League
+A division nations: 3
+B division nations: 7
+
+Asia Pacific Nations League
+A division nations: 3
+B division nations: 12
+C division nations: 6
+
+European Nations League B
+Participating Nations: 12
+Promoted:
+Hungary
+Finland
+Relegated:
+Italy
+Andorra
+Slovakia
+Estonia
+Results:
+1-Hungary
+2-Finland
+3-Belgium
+4-Switzerland
+5-Iceland
+6-Netherlands
+7-Slovenia
+8-Liechtenstein
+9-Estonia
+10-Slovakia
+11-Andorra
+12-Italy
+
+Americas Nations League B
+Participating Nations: 7
+Promoted:
+Puerto Rico
+Results:
+1-Puerto Rico
+2-USA
+3-Guyana
+4-Mexico
+5-Brazil
+6-Jamaica
+7-Dominican Republic
+
+Asia Pacific Nations League B
+Participating Nations: 12
+Promoted:
+New Zealand
+Relegated:
+Turkmenistan
+Kyrgystan
+Chinese Taipei
+Australia
+Results:
+1-New Zealand
+2-Kuwait
+3-Kenya
+4-China
+5-Nigeria
+6-Mongolia
+7-Philippines
+8-Saudi Arabia
+9-Australia
+10-Chinese Taipei
+11-Kyrgystan
+12-Turkmenistan
+
+European Nations League A
+Participating Nations: 10
+Winner: Sweden
+Results:
+1-Sweden
+2-Switzerland
+3-Spain
+4-Hungary
+5-Ukraine
+6-Finland
+7-Germany
+8-Belgium
+9-Norway
+10-Türkiye
+
+Pan Continental Nations League A
+Participating Nations: 8
+Winner: Japan
+Results:
+1-Japan
+2-New Zealand
+3-Hong Kong
+4-Bolivia
+5-Canada
+6-Puerto Rico
+7-US Virgin Islands
+8-Korea
+
+World Championships Results
+Participating Nations: 16
+Winner: Türkiye
+Relegated:
+Bolivia
+US Virgin Islands
+Hungary
+Finland
+Results:
+1-Türkiye
+2-Spain
+3-Sweden
+4-Ukraine
+5-Korea
+6-Canada
+7-Puerto Rico
+8-Japan
+9-Hong Kong
+10-New Zealand
+11-Germany
+12-Norway
+13-Finland
+14-Hungary
+15-US Virgin Islands
+16-Bolivia
+
+European Nations League C
+Participating Nations: 12
+Promoted:
+Czechia
+Croatia
+Romania
+Ireland
+Relegated:
+Greece
+Austria
+Results:
+1-Czechia
+2-Croatia
+3-Romania
+4-Ireland
+5-Denmark
+6-Scotland
+7-Wales
+8-Monaco
+9-Latvia
+10-Lithuania
+11-Austria
+12-Greece
+
+European Nations League D
+Participating Nations: 11
+Promoted:
+Luxembourg
+France
+Results:
+1-Luxembourg
+2-France
+3-Kosovo
+4-Poland
+5-England
+6-Israel
+7-Georgia
+8-Serbia
+9-Bosnia & Herzegovina
+10-Bulgaria
+11-Portugal
+
+Asia Pacific Nations League C
+Participating Nations: 6
+Promoted:
+India
+Afghanistan
+Qatar
+Thailand
+Kazakhstan
+Results:
+1-India
+2-Afghanistan
+3-Qatar
+4-Thailand
+5-Kazakhstan
+6-Pakistan
+
+
+Year 4
+
+European Nations League
+A division nations: 6
+B division nations: 12
+C division nations: 12
+D division nations: 11
+
+Americas Nations League
+A division nations: 2
+B division nations: 8
+
+Asia Pacific Nations League
+A division nations: 4
+B division nations: 12
+C division nations: 5
+
+European Nations League B
+Participating Nations: 12
+Promoted:
+Romania
+Iceland
+Relegated:
+Czechia
+Netherlands
+Ireland
+Liechtenstein
+Results:
+1-Romania
+2-Iceland
+3-Switzerland
+4-Finland
+5-Hungary
+6-Slovenia
+7-Belgium
+8-Croatia
+9-Liechtenstein
+10-Ireland
+11-Netherlands
+12-Czechia
+
+Americas Nations League B
+Participating Nations: 8
+Promoted:
+Jamaica
+Results:
+1-Jamaica
+2-USA
+3-Mexico
+4-Bolivia
+5-Guyana
+6-Brazil
+7-Dominican Republic
+8-US Virgin Islands
+
+Asia Pacific Nations League B
+Participating Nations: 12
+Promoted:
+Kenya
+Relegated:
+China
+Nigeria
+Thailand
+Afghanistan
+Results:
+1-Kenya
+2-Philippines
+3-Saudi Arabia
+4-Kuwait
+5-Mongolia
+6-Kazakhstan
+7-Qatar
+8-India
+9-Afghanistan
+10-Thailand
+11-Nigeria
+12-China
+
+European Nations League A
+Participating Nations: 10
+Winner: Switzerland
+Results:
+1-Switzerland
+2-Iceland
+3-Spain
+4-Sweden
+5-Norway
+6-Ukraine
+7-Finland
+8-Romania
+9-Türkiye
+10-Germany
+
+Pan Continental Nations League A
+Participating Nations: 8
+Winner: Japan
+Results:
+1-Japan
+2-New Zealand
+3-Hong Kong
+4-Puerto Rico
+5-Canada
+6-Kenya
+7-Korea
+8-Jamaica
+
+World Championships Results
+Participating Nations: 16
+Winner: Iceland
+Relegated:
+Jamaica
+Ukraine
+Japan
+Türkiye
+Results:
+1-Iceland
+2-Korea
+3-Puerto Rico
+4-Kenya
+5-New Zealand
+6-Germany
+7-Hong Kong
+8-Norway
+9-Canada
+10-Sweden
+11-Romania
+12-Spain
+13-Türkiye
+14-Japan
+15-Ukraine
+16-Jamaica
+
+European Nations League C
+Participating Nations: 12
+Promoted:
+Italy
+France
+Scotland
+Monaco
+Relegated:
+Denmark
+Slovakia
+Results:
+1-Italy
+2-France
+3-Scotland
+4-Monaco
+5-Andorra
+6-Estonia
+7-Wales
+8-Lithuania
+9-Luxembourg
+10-Latvia
+11-Slovakia
+12-Denmark
+
+European Nations League D
+Participating Nations: 11
+Promoted:
+Greece
+Bosnia & Herzegovina
+Results:
+1-Greece
+2-Bosnia & Herzegovina
+3-Bulgaria
+4-Austria
+5-England
+6-Georgia
+7-Israel
+8-Poland
+9-Serbia
+10-Kosovo
+11-Portugal
+
+Asia Pacific Nations League C
+Participating Nations: 5
+Promoted:
+Australia
+Kyrgystan
+Pakistan
+Turkmenistan
+Results:
+1-Australia
+2-Kyrgystan
+3-Pakistan
+4-Turkmenistan
+5-Chinese Taipei
+
+
+Year 5
+
+European Nations League
+A division nations: 6
+B division nations: 12
+C division nations: 12
+D division nations: 11
+
+Americas Nations League
+A division nations: 2
+B division nations: 8
+
+Asia Pacific Nations League
+A division nations: 4
+B division nations: 12
+C division nations: 5
+
+European Nations League B
+Participating Nations: 12
+Promoted:
+Belgium
+France
+Relegated:
+Scotland
+Ukraine
+Finland
+Croatia
+Results:
+1-Belgium
+2-France
+3-Monaco
+4-Hungary
+5-Türkiye
+6-Switzerland
+7-Slovenia
+8-Italy
+9-Croatia
+10-Finland
+11-Ukraine
+12-Scotland
+
+Americas Nations League B
+Participating Nations: 8
+Promoted:
+Mexico
+Results:
+1-Mexico
+2-Guyana
+3-Jamaica
+4-USA
+5-Bolivia
+6-Brazil
+7-US Virgin Islands
+8-Dominican Republic
+
+Asia Pacific Nations League B
+Participating Nations: 12
+Promoted:
+Kuwait
+Relegated:
+Japan
+India
+Mongolia
+Kyrgystan
+Results:
+1-Kuwait
+2-Turkmenistan
+3-Australia
+4-Kazakhstan
+5-Pakistan
+6-Qatar
+7-Philippines
+8-Saudi Arabia
+9-Kyrgystan
+10-Mongolia
+11-India
+12-Japan
+
+European Nations League A
+Participating Nations: 10
+Winner: Germany
+Results:
+1-Germany
+2-Monaco
+3-Spain
+4-Iceland
+5-Hungary
+6-Sweden
+7-France
+8-Belgium
+9-Romania
+10-Norway
+
+Pan Continental Nations League A
+Participating Nations: 8
+Winner: Canada
+Results:
+1-Canada
+2-Hong Kong
+3-New Zealand
+4-Puerto Rico
+5-Korea
+6-Kenya
+7-Mexico
+8-Kuwait
+
+World Championships Results
+Participating Nations: 16
+Winner: Korea
+Relegated:
+Kuwait
+Spain
+New Zealand
+Germany
+Results:
+1-Korea
+2-Canada
+3-Iceland
+4-Puerto Rico
+5-Norway
+6-Romania
+7-Kenya
+8-Hong Kong
+9-Belgium
+10-France
+11-Sweden
+12-Mexico
+13-Germany
+14-New Zealand
+15-Spain
+16-Kuwait
+
+European Nations League C
+Participating Nations: 12
+Promoted:
+Estonia
+Netherlands
+Wales
+Latvia
+Relegated:
+Ireland
+Liechtenstein
+Results:
+1-Estonia
+2-Netherlands
+3-Wales
+4-Latvia
+5-Greece
+6-Bosnia & Herzegovina
+7-Lithuania
+8-Czechia
+9-Andorra
+10-Luxembourg
+11-Liechtenstein
+12-Ireland
+
+European Nations League D
+Participating Nations: 11
+Promoted:
+Slovakia
+Denmark
+Results:
+1-Slovakia
+2-Denmark
+3-Israel
+4-Austria
+5-Portugal
+6-Poland
+7-Bulgaria
+8-Kosovo
+9-England
+10-Serbia
+11-Georgia
+
+Asia Pacific Nations League C
+Participating Nations: 5
+Promoted:
+Nigeria
+Afghanistan
+Chinese Taipei
+Results:
+1-Nigeria
+2-Afghanistan
+3-Chinese Taipei
+4-China
+5-Thailand
+
+
+Year 6
+
+European Nations League
+A division nations: 6
+B division nations: 12
+C division nations: 12
+D division nations: 11
+
+Americas Nations League
+A division nations: 3
+B division nations: 7
+
+Asia Pacific Nations League
+A division nations: 3
+B division nations: 12
+C division nations: 6
+
+European Nations League B
+Participating Nations: 12
+Promoted:
+Switzerland
+Spain
+Relegated:
+Italy
+Estonia
+Monaco
+Slovenia
+Results:
+1-Switzerland
+2-Spain
+3-Türkiye
+4-Germany
+5-Latvia
+6-Netherlands
+7-Wales
+8-Hungary
+9-Slovenia
+10-Monaco
+11-Estonia
+12-Italy
+
+Americas Nations League B
+Participating Nations: 7
+Promoted:
+Guyana
+Results:
+1-Guyana
+2-Brazil
+3-Bolivia
+4-Jamaica
+5-Dominican Republic
+6-USA
+7-US Virgin Islands
+
+Asia Pacific Nations League B
+Participating Nations: 12
+Promoted:
+Kuwait
+Relegated:
+Saudi Arabia
+Kazakhstan
+Qatar
+New Zealand
+Results:
+1-Kuwait
+2-Chinese Taipei
+3-Turkmenistan
+4-Afghanistan
+5-Australia
+6-Philippines
+7-Nigeria
+8-Pakistan
+9-New Zealand
+10-Qatar
+11-Kazakhstan
+12-Saudi Arabia
+
+European Nations League A
+Participating Nations: 10
+Winner: Romania
+Results:
+1-Romania
+2-France
+3-Türkiye
+4-Sweden
+5-Germany
+6-Norway
+7-Iceland
+8-Belgium
+9-Spain
+10-Switzerland
+
+Pan Continental Nations League A
+Participating Nations: 8
+Winner: Puerto Rico
+Results:
+1-Puerto Rico
+2-Kuwait
+3-Canada
+4-Kenya
+5-Korea
+6-Hong Kong
+7-Guyana
+8-Mexico
+
+World Championships Results
+Participating Nations: 16
+Winner: Switzerland
+Relegated:
+Korea
+Iceland
+Guyana
+France
+Results:
+1-Switzerland
+2-Spain
+3-Romania
+4-Sweden
+5-Canada
+6-Kenya
+7-Hong Kong
+8-Norway
+9-Kuwait
+10-Mexico
+11-Belgium
+12-Puerto Rico
+13-France
+14-Guyana
+15-Iceland
+16-Korea
+
+European Nations League C
+Participating Nations: 12
+Promoted:
+Finland
+Czechia
+Denmark
+Croatia
+Relegated:
+Ukraine
+Greece
+Results:
+1-Finland
+2-Czechia
+3-Denmark
+4-Croatia
+5-Bosnia & Herzegovina
+6-Andorra
+7-Luxembourg
+8-Lithuania
+9-Slovakia
+10-Scotland
+11-Greece
+12-Ukraine
+
+European Nations League D
+Participating Nations: 11
+Promoted:
+Georgia
+Ireland
+Results:
+1-Georgia
+2-Ireland
+3-Poland
+4-Bulgaria
+5-Portugal
+6-Kosovo
+7-Austria
+8-Serbia
+9-England
+10-Liechtenstein
+11-Israel
+
+Asia Pacific Nations League C
+Participating Nations: 6
+Promoted:
+Mongolia
+Thailand
+Japan
+Kyrgystan
+Results:
+1-Mongolia
+2-Thailand
+3-Japan
+4-Kyrgystan
+5-China
+6-India
+
+
+Year 7
+
+European Nations League
+A division nations: 6
+B division nations: 12
+C division nations: 12
+D division nations: 11
+
+Americas Nations League
+A division nations: 3
+B division nations: 7
+
+Asia Pacific Nations League
+A division nations: 3
+B division nations: 12
+C division nations: 6
+
+European Nations League B
+Participating Nations: 12
+Promoted:
+France
+Denmark
+Relegated:
+Iceland
+Finland
+Germany
+Türkiye
+Results:
+1-France
+2-Denmark
+3-Czechia
+4-Croatia
+5-Hungary
+6-Wales
+7-Netherlands
+8-Latvia
+9-Türkiye
+10-Germany
+11-Finland
+12-Iceland
+
+Americas Nations League B
+Participating Nations: 7
+Promoted:
+Jamaica
+Results:
+1-Jamaica
+2-US Virgin Islands
+3-Brazil
+4-Guyana
+5-Bolivia
+6-Dominican Republic
+7-USA
+
+Asia Pacific Nations League B
+Participating Nations: 12
+Promoted:
+Afghanistan
+Relegated:
+Korea
+Japan
+Mongolia
+Pakistan
+Results:
+1-Afghanistan
+2-Chinese Taipei
+3-Thailand
+4-Kyrgystan
+5-Nigeria
+6-Australia
+7-Turkmenistan
+8-Philippines
+9-Pakistan
+10-Mongolia
+11-Japan
+12-Korea
+
+European Nations League A
+Participating Nations: 10
+Winner: Belgium
+Results:
+1-Belgium
+2-Denmark
+3-Norway
+4-Spain
+5-France
+6-Czechia
+7-Romania
+8-Sweden
+9-Switzerland
+10-Croatia
+
+Pan Continental Nations League A
+Participating Nations: 8
+Winner: Jamaica
+Results:
+1-Jamaica
+2-Puerto Rico
+3-Mexico
+4-Canada
+5-Hong Kong
+6-Kenya
+7-Afghanistan
+8-Kuwait
+
+World Championships Results
+Participating Nations: 16
+Winner: Spain
+Relegated:
+Kuwait
+Jamaica
+Canada
+France
+Results:
+1-Spain
+2-Sweden
+3-Hong Kong
+4-Switzerland
+5-Mexico
+6-Romania
+7-Norway
+8-Belgium
+9-Denmark
+10-Kenya
+11-Puerto Rico
+12-Afghanistan
+13-France
+14-Canada
+15-Jamaica
+16-Kuwait
+
+European Nations League C
+Participating Nations: 12
+Promoted:
+Estonia
+Andorra
+Slovakia
+Georgia
+Luxembourg
+Relegated:
+Slovenia
+Bosnia & Herzegovina
+Results:
+1-Estonia
+2-Andorra
+3-Slovakia
+4-Georgia
+5-Luxembourg
+6-Lithuania
+7-Ireland
+8-Monaco
+9-Scotland
+10-Italy
+11-Bosnia & Herzegovina
+12-Slovenia
+
+European Nations League D
+Participating Nations: 11
+Promoted:
+Liechtenstein
+Serbia
+England
+Results:
+1-Liechtenstein
+2-Serbia
+3-England
+4-Greece
+5-Portugal
+6-Bulgaria
+7-Poland
+8-Israel
+9-Austria
+10-Ukraine
+11-Kosovo
+
+Asia Pacific Nations League C
+Participating Nations: 6
+Promoted:
+China
+Qatar
+New Zealand
+Saudi Arabia
+Results:
+1-China
+2-Qatar
+3-New Zealand
+4-Saudi Arabia
+5-India
+6-Kazakhstan
+
+
+Year 8
+
+European Nations League
+A division nations: 7
+B division nations: 12
+C division nations: 12
+D division nations: 10
+
+Americas Nations League
+A division nations: 2
+B division nations: 8
+
+Asia Pacific Nations League
+A division nations: 3
+B division nations: 12
+C division nations: 6
+
+European Nations League B
+Participating Nations: 12
+Promoted:
+Slovakia
+Estonia
+Relegated:
+Czechia
+Latvia
+Luxembourg
+Croatia
+Results:
+1-Slovakia
+2-Estonia
+3-Andorra
+4-Wales
+5-France
+6-Hungary
+7-Netherlands
+8-Georgia
+9-Croatia
+10-Luxembourg
+11-Latvia
+12-Czechia
+
+Americas Nations League B
+Participating Nations: 8
+Promoted:
+Canada
+Results:
+1-Canada
+2-Brazil
+3-Guyana
+4-Jamaica
+5-US Virgin Islands
+6-USA
+7-Bolivia
+8-Dominican Republic
+
+Asia Pacific Nations League B
+Participating Nations: 12
+Promoted:
+Philippines
+Relegated:
+Thailand
+Kuwait
+China
+Nigeria
+Results:
+1-Philippines
+2-Saudi Arabia
+3-New Zealand
+4-Qatar
+5-Turkmenistan
+6-Kyrgystan
+7-Chinese Taipei
+8-Australia
+9-Nigeria
+10-China
+11-Kuwait
+12-Thailand
+
+European Nations League A
+Participating Nations: 10
+Winner: Estonia
+Results:
+1-Estonia
+2-Slovakia
+3-Andorra
+4-Sweden
+5-Switzerland
+6-Romania
+7-Spain
+8-Norway
+9-Denmark
+10-Belgium
+
+Pan Continental Nations League A
+Participating Nations: 8
+Winner: Philippines
+Results:
+1-Philippines
+2-Kenya
+3-Puerto Rico
+4-Hong Kong
+5-Afghanistan
+6-Brazil
+7-Mexico
+8-Canada
+
+World Championships Results
+Participating Nations: 16
+Winner: Slovakia
+Relegated:
+Afghanistan
+Hong Kong
+Norway
+Canada
+Results:
+1-Slovakia
+2-Kenya
+3-Puerto Rico
+4-Mexico
+5-Switzerland
+6-Belgium
+7-Denmark
+8-Sweden
+9-Estonia
+10-Philippines
+11-Romania
+12-Spain
+13-Canada
+14-Norway
+15-Hong Kong
+16-Afghanistan
+
+European Nations League C
+Participating Nations: 12
+Promoted:
+Lithuania
+Türkiye
+Serbia
+Iceland
+Ireland
+Relegated:
+Monaco
+Finland
+Results:
+1-Lithuania
+2-Türkiye
+3-Serbia
+4-Iceland
+5-Ireland
+6-Liechtenstein
+7-Italy
+8-Germany
+9-England
+10-Scotland
+11-Finland
+12-Monaco
+
+European Nations League D
+Participating Nations: 10
+Promoted:
+Kosovo
+Ukraine
+Bulgaria
+Results:
+1-Kosovo
+2-Ukraine
+3-Bulgaria
+4-Israel
+5-Portugal
+6-Austria
+7-Slovenia
+8-Bosnia & Herzegovina
+9-Greece
+10-Poland
+
+Asia Pacific Nations League C
+Participating Nations: 6
+Promoted:
+Pakistan
+Mongolia
+Korea
+Results:
+1-Pakistan
+2-Mongolia
+3-Korea
+4-Japan
+5-Kazakhstan
+6-India
+
+
+Year 9
+
+European Nations League
+A division nations: 8
+B division nations: 12
+C division nations: 12
+D division nations: 9
+
+Americas Nations League
+A division nations: 2
+B division nations: 8
+
+Asia Pacific Nations League
+A division nations: 2
+B division nations: 12
+C division nations: 7
+
+European Nations League B
+Participating Nations: 12
+Promoted:
+Hungary
+Andorra
+Relegated:
+Georgia
+Iceland
+Wales
+Ireland
+Results:
+1-Hungary
+2-Andorra
+3-Lithuania
+4-Norway
+5-Netherlands
+6-Türkiye
+7-France
+8-Serbia
+9-Ireland
+10-Wales
+11-Iceland
+12-Georgia
+
+Americas Nations League B
+Participating Nations: 8
+Promoted:
+Canada
+Results:
+1-Canada
+2-Dominican Republic
+3-US Virgin Islands
+4-Jamaica
+5-Bolivia
+6-Brazil
+7-USA
+8-Guyana
+
+Asia Pacific Nations League B
+Participating Nations: 12
+Promoted:
+Afghanistan
+Relegated:
+Chinese Taipei
+New Zealand
+Saudi Arabia
+Results:
+1-Afghanistan
+2-Australia
+3-Kyrgystan
+4-Hong Kong
+5-Mongolia
+6-Pakistan
+7-Qatar
+8-Korea
+9-Turkmenistan
+10-Saudi Arabia
+11-New Zealand
+12-Chinese Taipei
+
+European Nations League A
+Participating Nations: 10
+Winner: Denmark
+Results:
+1-Denmark
+2-Belgium
+3-Switzerland
+4-Sweden
+5-Andorra
+6-Spain
+7-Romania
+8-Slovakia
+9-Hungary
+10-Estonia
+
+Pan Continental Nations League A
+Participating Nations: 8
+Winner: Kenya
+Results:
+1-Kenya
+2-Canada
+3-Mexico
+4-Philippines
+5-Puerto Rico
+6-Dominican Republic
+7-Australia
+8-Afghanistan
+
+World Championships Results
+Participating Nations: 16
+Winner: Puerto Rico
+Relegated:
+Afghanistan
+Sweden
+Estonia
+Spain
+Results:
+1-Puerto Rico
+2-Denmark
+3-Switzerland
+4-Kenya
+5-Slovakia
+6-Canada
+7-Andorra
+8-Hungary
+9-Mexico
+10-Romania
+11-Philippines
+12-Belgium
+13-Spain
+14-Estonia
+15-Sweden
+16-Afghanistan
+
+European Nations League C
+Participating Nations: 12
+Promoted:
+Bulgaria
+England
+Ukraine
+Relegated:
+Kosovo
+Italy
+Liechtenstein
+Results:
+1-Bulgaria
+2-England
+3-Ukraine
+4-Luxembourg
+5-Scotland
+6-Latvia
+7-Czechia
+8-Germany
+9-Croatia
+10-Liechtenstein
+11-Italy
+12-Kosovo
+
+European Nations League D
+Participating Nations: 9
+Promoted:
+Bosnia & Herzegovina
+Portugal
+Results:
+1-Bosnia & Herzegovina
+2-Portugal
+3-Austria
+4-Poland
+5-Finland
+6-Monaco
+7-Greece
+8-Israel
+9-Slovenia
+
+Asia Pacific Nations League C
+Participating Nations: 7
+Promoted:
+Kuwait
+Japan
+China
+Results:
+1-Kuwait
+2-Japan
+3-China
+4-Thailand
+5-India
+6-Nigeria
+7-Kazakhstan
+
+
+Year 10
+
+European Nations League
+A division nations: 7
+B division nations: 12
+C division nations: 12
+D division nations: 10
+
+Americas Nations League
+A division nations: 3
+B division nations: 7
+
+Asia Pacific Nations League
+A division nations: 2
+B division nations: 12
+C division nations: 7
+
+European Nations League B
+Participating Nations: 12
+Promoted:
+Serbia
+Ukraine
+Relegated:
+England
+Netherlands
+Estonia
+Lithuania
+Results:
+1-Serbia
+2-Ukraine
+3-Spain
+4-Bulgaria
+5-Türkiye
+6-Sweden
+7-France
+8-Norway
+9-Lithuania
+10-Estonia
+11-Netherlands
+12-England
+
+Americas Nations League B
+Participating Nations: 7
+Promoted:
+US Virgin Islands
+Results:
+1-US Virgin Islands
+2-Bolivia
+3-USA
+4-Dominican Republic
+5-Jamaica
+6-Brazil
+7-Guyana
+
+Asia Pacific Nations League B
+Participating Nations: 12
+Promoted:
+China
+Relegated:
+Afghanistan
+Mongolia
+Pakistan
+Results:
+1-China
+2-Turkmenistan
+3-Kuwait
+4-Hong Kong
+5-Qatar
+6-Australia
+7-Kyrgystan
+8-Korea
+9-Japan
+10-Pakistan
+11-Mongolia
+12-Afghanistan
+
+European Nations League A
+Participating Nations: 10
+Winner: Slovakia
+Results:
+1-Slovakia
+2-Romania
+3-Spain
+4-Denmark
+5-Belgium
+6-Ukraine
+7-Switzerland
+8-Andorra
+9-Serbia
+10-Hungary
+
+Pan Continental Nations League A
+Participating Nations: 8
+Winner: Canada
+Results:
+1-Canada
+2-Bolivia
+3-US Virgin Islands
+4-Mexico
+5-Kenya
+6-Philippines
+7-China
+8-Puerto Rico
+
+World Championships Results
+Participating Nations: 16
+Winner: Belgium
+Relegated:
+Switzerland
+Mexico
+US Virgin Islands
+Romania
+Results:
+1-Belgium
+2-Kenya
+3-Canada
+4-Slovakia
+5-China
+6-Ukraine
+7-Hungary
+8-Serbia
+9-Puerto Rico
+10-Denmark
+11-Andorra
+12-Philippines
+13-Romania
+14-US Virgin Islands
+15-Mexico
+16-Switzerland
+
+European Nations League C
+Participating Nations: 12
+Promoted:
+Wales
+Germany
+Ireland
+Scotland
+Relegated:
+Georgia
+Iceland
+Results:
+1-Wales
+2-Germany
+3-Ireland
+4-Scotland
+5-Latvia
+6-Croatia
+7-Bosnia & Herzegovina
+8-Portugal
+9-Luxembourg
+10-Czechia
+11-Iceland
+12-Georgia
+
+European Nations League D
+Participating Nations: 10
+Promoted:
+Austria
+Israel
+Results:
+1-Austria
+2-Israel
+3-Italy
+4-Liechtenstein
+5-Finland
+6-Slovenia
+7-Greece
+8-Monaco
+9-Poland
+10-Kosovo
+
+Asia Pacific Nations League C
+Participating Nations: 7
+Promoted:
+Kazakhstan
+Chinese Taipei
+India
+New Zealand
+Results:
+1-Kazakhstan
+2-Chinese Taipei
+3-India
+4-New Zealand
+5-Saudi Arabia
+6-Thailand
+7-Nigeria
+
