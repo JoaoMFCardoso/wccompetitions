@@ -41,3 +41,16 @@ def countriesPerRegion(countries):
                 countries_per_region[3] = countries_per_region[3] + 1
                 continue
     return countries_per_region
+
+def getTotalCountryPoints(points_list):
+    total_points = 0.0
+    for points_year in points_list:
+        total_points = total_points + points_year
+    return total_points
+
+
+def getIndexByCountryName(countries, country_name):
+    for index, country in enumerate(countries):
+        if country.name == country_name:
+            return index
+    return -1

@@ -1,5 +1,5 @@
-from src.data import competition_points
-import random
+from src.data.input_data import competition_points
+from src.ranking_calculator import randomRankingCalculator, weightedRankingCalculator
         
 class Competition:
     def __init__(self,
@@ -7,8 +7,6 @@ class Competition:
                   region,
                   division,
                   field_size,
-                  points_per_position,
-                  points_multiplier,
                   min_number_of_promotions,
                   number_of_promotions,
                   min_number_of_relegations,
@@ -19,7 +17,6 @@ class Competition:
         self.division = division
         self.field_size = field_size
         self.points_per_position = competition_points
-        self.points_multiplier = points_multiplier
         self.final_rankings = []
         self.min_number_of_promotions = min_number_of_promotions
         self.number_of_promotions = number_of_promotions
@@ -71,8 +68,10 @@ class Competition:
                         continue
         
         # randomly rank countries
-        random.shuffle(qualified_countries)
-        self.final_rankings = {country: rank + 1 for rank, country in enumerate(qualified_countries)}
+        #self.final_rankings = randomRankingCalculator(qualified_countries)
+        self.final_rankings = weightedRankingCalculator(qualified_countries)
+        
+        #List promoted (or winners), relegated and eligible for wildcards (if relevant in the context of the competition)
         self.promoted_countries = sorted(self.final_rankings, key=self.final_rankings.get)[:self.number_of_promotions]
         self.relegated_countries = sorted(self.final_rankings, key=self.final_rankings.get, reverse=True)[:self.number_of_relegations]
         self.eligible_countries = sorted(self.final_rankings, key=self.final_rankings.get)[:self.number_of_eligible]

@@ -1,4 +1,5 @@
 from src.classes.competition_class import Competition 
+from src.ranking_calculator import preparePointsForCalculation, calculatePointsForCompetition, calculateRanking
 from src.utilities import printResults, promoteCountry, relegateCountry, countCountriesInDivisionRegion, countriesPerRegion
 
 class Season:
@@ -59,15 +60,25 @@ class Season:
 
         # Create all competitions
         # With some placeholders '0' for relegations and promotions
-        enl_b = Competition("European Nations League B", 1, 2, 12, 3, 2, 2, 2, 0, 10)
-        anl_b = Competition("Americas Nations League B", 2, 2, 8, 3, 1, 1, 0, 0, 4)
-        apnl_b = Competition("Asia Pacific Nations League B", 3, 2, 8, 3, 1, 1, 1, 0, 4)
-        enl_a = Competition("European Nations League A", 1, 1, 10, 5, 1, 1, 0, 0, 0)
-        pcnl_a = Competition("Pan Continental Nations League A", 2, 1, 8, 5, 1, 1, 0, 0, 0)
-        world_championships = Competition("World Championships", 0, 1, 16, 7, 1, 1, 4, 4, 0)
-        enl_c = Competition("European Nations League C", 1, 3, 12, 2, 2, 0, 2, 0, 0)
-        enl_d = Competition("European Nations League D", 1, 4, 12, 1, 2, 0, 0, 0, 0)
-        apnl_c = Competition("Asia Pacific Nations League C", 3, 3, 8, 2, 1, 0, 0, 0, 0)
+        # Reminder of the input arguments:
+        # competition name
+        # competition region
+        # competition division
+        # competition field size
+        # competition minimum number of promotions
+        # competition number of promotions
+        # competition minimum number of relegations
+        # competition number of relegations
+        # competition number of eligible for invites to be created from this competition
+        enl_b = Competition("European Nations League B", 1, 2, 12, 2, 2, 2, 0, 10)
+        anl_b = Competition("Americas Nations League B", 2, 2, 8, 1, 1, 0, 0, 4)
+        apnl_b = Competition("Asia Pacific Nations League B", 3, 2, 8, 1, 1, 1, 0, 4)
+        enl_a = Competition("European Nations League A", 1, 1, 10, 1, 1, 0, 0, 0)
+        pcnl_a = Competition("Pan Continental Nations League A", 2, 1, 8, 1, 1, 0, 0, 0)
+        world_championships = Competition("World Championships", 0, 1, 16, 1, 1, 4, 4, 0)
+        enl_c = Competition("European Nations League C", 1, 3, 12, 2, 0, 2, 0, 0)
+        enl_d = Competition("European Nations League D", 1, 4, 12, 2, 0, 0, 0, 0)
+        apnl_c = Competition("Asia Pacific Nations League C", 3, 3, 8, 1, 0, 0, 0, 0)
 
         # Running competitions to gather promoted countries for World Championships
         # B divisions >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -174,4 +185,19 @@ class Season:
         promoteCountry(enl_d.promoted_countries, new_countries)
         promoteCountry(apnl_c.promoted_countries, new_countries)
         
+        # Calculate points per competition
+        preparePointsForCalculation(new_countries)
+        calculatePointsForCompetition(new_countries,"World Championships", world_championships.final_rankings)
+        calculatePointsForCompetition(new_countries,"European Nations League A", enl_a.final_rankings)
+        calculatePointsForCompetition(new_countries,"European Nations League B", enl_b.final_rankings)
+        calculatePointsForCompetition(new_countries,"European Nations League C", enl_c.final_rankings)
+        calculatePointsForCompetition(new_countries,"European Nations League D", enl_d.final_rankings)
+        calculatePointsForCompetition(new_countries,"Pan Continental Nations League A", pcnl_a.final_rankings)
+        calculatePointsForCompetition(new_countries,"Americas Nations League B", anl_b.final_rankings)
+        calculatePointsForCompetition(new_countries,"Asia Pacific Nations League B", apnl_b.final_rankings)
+        calculatePointsForCompetition(new_countries,"Asia Pacific Nations League C", apnl_c.final_rankings)
+
+        # Calculate country ranking
+        new_countries = calculateRanking(new_countries)
+
         self.end_countries = new_countries
