@@ -33,4 +33,4 @@ for year in range(10):
 # Create results file
 createShortResultsFile(seasons)
 createLongResultsFile(seasons)
-#createJSONFile(seasons)
+createJSONFile(seasons)
