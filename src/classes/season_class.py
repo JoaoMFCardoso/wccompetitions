@@ -1,9 +1,10 @@
+import copy
 from src.classes.competition_class import Competition 
 from src.ranking_calculator import preparePointsForCalculation, calculatePointsForCompetition, calculateRanking
 from src.utilities import printResults, promoteCountry, relegateCountry, countCountriesInDivisionRegion, countriesPerRegion
 
 class Season:
-    def __init__(self, year, regions_list, start_countries, enl_a_eligible_countries, pcnl_a_eligible_countries):
+    def __init__(self, year, regions_list, start_countries, enl_a_wildcard_eligible_countries, pcnl_a_wildcard_eligible_countries):
         self.year = year
         self.regions_list = regions_list
         self.start_countries = start_countries
@@ -22,7 +23,7 @@ class Season:
         self.wc_relegations = [0,0,0,0]
         self.enl_a_results = []
         self.enl_a_winner = []
-        self.enl_a_eligible_countries = enl_a_eligible_countries
+        self.enl_a_wildcard_eligible_countries = enl_a_wildcard_eligible_countries
         self.enl_b_results = []
         self.enl_b_promotions = []
         self.enl_b_relegations = []
@@ -33,7 +34,7 @@ class Season:
         self.enl_d_promotions = []
         self.pcnl_a_results = []
         self.pcnl_a_winner = []
-        self.pcnl_a_eligible_countries = pcnl_a_eligible_countries
+        self.pcnl_a_wildcard_eligible_countries = pcnl_a_wildcard_eligible_countries
         self.anl_b_results = []
         self.anl_b_promotions = []
         self.apnl_b_results = []
@@ -44,19 +45,17 @@ class Season:
 
 
     def runSeason(self):
+        new_countries = copy.deepcopy(self.start_countries)
         
-        season_name = self.year
-        new_countries = self.start_countries
-        
-        self.europe_a_countries = countCountriesInDivisionRegion(self.start_countries, 1, 1)
-        self.europe_b_countries = countCountriesInDivisionRegion(self.start_countries, 2, 1)
-        self.europe_c_countries = countCountriesInDivisionRegion(self.start_countries, 3, 1)
-        self.europe_d_countries = countCountriesInDivisionRegion(self.start_countries, 4, 1)
-        self.americas_a_countries = countCountriesInDivisionRegion(self.start_countries, 1, 2)
-        self.americas_b_countries = countCountriesInDivisionRegion(self.start_countries, 2, 2)
-        self.asia_pacific_a_countries = countCountriesInDivisionRegion(self.start_countries, 1, 3)
-        self.asia_pacific_b_countries = countCountriesInDivisionRegion(self.start_countries, 2, 3)
-        self.asia_pacific_c_countries = countCountriesInDivisionRegion(self.start_countries, 3, 3)
+        self.europe_a_countries = countCountriesInDivisionRegion(new_countries, 1, 1)
+        self.europe_b_countries = countCountriesInDivisionRegion(new_countries, 2, 1)
+        self.europe_c_countries = countCountriesInDivisionRegion(new_countries, 3, 1)
+        self.europe_d_countries = countCountriesInDivisionRegion(new_countries, 4, 1)
+        self.americas_a_countries = countCountriesInDivisionRegion(new_countries, 1, 2)
+        self.americas_b_countries = countCountriesInDivisionRegion(new_countries, 2, 2)
+        self.asia_pacific_a_countries = countCountriesInDivisionRegion(new_countries, 1, 3)
+        self.asia_pacific_b_countries = countCountriesInDivisionRegion(new_countries, 2, 3)
+        self.asia_pacific_c_countries = countCountriesInDivisionRegion(new_countries, 3, 3)
 
         # Create all competitions
         # With some placeholders '0' for relegations and promotions
@@ -92,35 +91,35 @@ class Season:
 
         # European Nations League Division B
         enl_b.number_of_relegations = relegations_enl_b
-        enl_b.runCompetition(self.start_countries, [])
+        enl_b.runCompetition(new_countries, [])
         self.enl_b_results = enl_b.final_rankings
         self.enl_b_promotions = enl_b.promoted_countries
         self.enl_b_relegations = enl_b.relegated_countries
-        self.enl_a_eligible_countries = enl_b.eligible_countries
+        self.enl_a_wildcard_eligible_countries = enl_b.wildcard_eligible_countries
         
         # Americas Nations League Division B
-        anl_b.runCompetition(self.start_countries, [])
+        anl_b.runCompetition(new_countries, [])
         self.anl_b_results = anl_b.final_rankings
         self.anl_b_promotions = anl_b.promoted_countries
 
         # Asia Pacific Nations League Division B
         apnl_b.number_of_relegations = relegations_apnl_b
-        apnl_b.runCompetition(self.start_countries, [])
+        apnl_b.runCompetition(new_countries, [])
         self.apnl_b_results = apnl_b.final_rankings
         self.apnl_b_promotions = apnl_b.promoted_countries
         self.apnl_b_relegations = apnl_b.relegated_countries
 
         # Create combined eligible countries for pcnl based on the existing order of the provided lists
-        self.pcnl_a_eligible_countries = [item for pair in zip(anl_b.eligible_countries, apnl_b.eligible_countries) for item in pair]
+        self.pcnl_a_wildcard_eligible_countries = [item for pair in zip(anl_b.wildcard_eligible_countries, apnl_b.wildcard_eligible_countries) for item in pair]
 
         # A divisions >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
         # European Nations League Division A
-        enl_a.runCompetition(self.start_countries, self.enl_a_eligible_countries)
+        enl_a.runCompetition(new_countries, self.enl_a_wildcard_eligible_countries)
         self.enl_a_results = enl_a.final_rankings
         self.enl_a_winner = enl_a.promoted_countries
         
         # Pan Continental Nations League Division A
-        pcnl_a.runCompetition(self.start_countries, self.pcnl_a_eligible_countries)
+        pcnl_a.runCompetition(new_countries, self.pcnl_a_wildcard_eligible_countries)
         self.pcnl_a_results = pcnl_a.final_rankings
         self.pcnl_a_winner = pcnl_a.promoted_countries
 
@@ -159,20 +158,20 @@ class Season:
         # European Nations League Division C
         enl_c.number_of_promotions = promotions_enl_c
         enl_c.number_of_relegations = relegations_enl_c
-        enl_c.runCompetition(self.start_countries, [])
+        enl_c.runCompetition(new_countries, [])
         self.enl_c_results = enl_c.final_rankings
         self.enl_c_promotions = enl_c.promoted_countries
         self.enl_c_relegations = enl_c.relegated_countries
 
         # European Nations League Division D
         enl_d.number_of_promotions = promotions_enl_d
-        enl_d.runCompetition(self.start_countries, [])
+        enl_d.runCompetition(new_countries, [])
         self.enl_d_results = enl_d.final_rankings
         self.enl_d_promotions = enl_d.promoted_countries
         
         # Asia Pacific Nations League Division C
         apnl_c.number_of_promotions = promotions_apnl_c
-        apnl_c.runCompetition(self.start_countries, [])
+        apnl_c.runCompetition(new_countries, [])
         self.apnl_c_results = apnl_c.final_rankings
         self.apnl_c_promotions = apnl_c.promoted_countries
 
@@ -200,4 +199,4 @@ class Season:
         # Calculate country ranking
         new_countries = calculateRanking(new_countries)
 
-        self.end_countries = new_countries
+        self.end_countries = copy.deepcopy(new_countries)

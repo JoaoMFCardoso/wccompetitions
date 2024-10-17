@@ -19,16 +19,16 @@ for country in mens_ranking:
 
 # Run season simulation
 seasons = []
-enl_a_eligible_countries = []
-pcnl_a_eligible_countries = []
+enl_a_wildcard_eligible_countries = []
+pcnl_a_wildcard_eligible_countries = []
 
 for year in range(10):
-    new_season = Season(str(year + 1), regions, countries, enl_a_eligible_countries, pcnl_a_eligible_countries)
+    new_season = Season(str(year + 1), regions, countries, enl_a_wildcard_eligible_countries, pcnl_a_wildcard_eligible_countries)
     new_season.runSeason()
     seasons.append(new_season)
     countries = new_season.end_countries
-    enl_a_eligible_countries = new_season.enl_a_eligible_countries
-    pcnl_a_eligible_countries = new_season.pcnl_a_eligible_countries
+    enl_a_wildcard_eligible_countries = new_season.enl_a_wildcard_eligible_countries
+    pcnl_a_wildcard_eligible_countries = new_season.pcnl_a_wildcard_eligible_countries
 
 # Create results file
 createShortResultsFile(seasons)

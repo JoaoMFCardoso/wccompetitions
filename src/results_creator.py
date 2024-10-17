@@ -132,6 +132,10 @@ def createLongResultsFile(seasons):
             f.write(f"B division nations: {season.asia_pacific_b_countries}\n")
             f.write(f"C division nations: {season.asia_pacific_c_countries}\n")
 
+            f.write(f'\nNations Ranking\n')
+            for country in season.start_countries:
+                f.write(f"{country.rank} - {country.name} - Points: {country.points}\n")
+
             #B Division Results
             f.write(f"\nEuropean Nations League B\n")
             f.write(f"Participating Nations: {len(season.enl_b_results)}\n")
@@ -280,7 +284,17 @@ def createJSONFile(seasons):
         asia_pacific_nations_dictionary["B"] = season.asia_pacific_b_countries
         asia_pacific_nations_dictionary["C"] = season.asia_pacific_c_countries
         nations_dictionary["Asia Pacific Nations League"] = asia_pacific_nations_dictionary
-        
+        season_dictionary["starting field"] = nations_dictionary
+
+        # Full year Ranking
+        nations_ranking_dictionary = {}
+        for country in season.start_countries:
+            country_dictionary = {}
+            country_dictionary["rank"] = country.rank
+            country_dictionary["points"] = country.points
+            nations_ranking_dictionary[country.name] = country_dictionary
+        season_dictionary["starting field rank"] = nations_ranking_dictionary
+
         # Division results
         competitions_dictionary = {}
 

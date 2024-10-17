@@ -1,3 +1,5 @@
+from src.data.input_data import weight_for_points, weight_for_ranking
+
 
 # Prints the results of a competition
 def printResults(competition):

@@ -16,7 +16,7 @@ class Country:
         total_points = 0.0
         for points_year in self.points:
             total_points = total_points + points_year
-        self.strength = weight_for_ranking * (1 / self.rank) + weight_for_points * total_points
+        self.strength = weight_for_ranking * (0.95 * self.rank) + weight_for_points * total_points
         
         
     def __str__(self):
@@ -36,5 +36,5 @@ class Country:
         for points_year in self.points:
             total_points = total_points + points_year
 
-        self.strength = weight_for_ranking * (1 / self.rank) + weight_for_points * total_points
+        self.strength = weight_for_ranking * (0.95 * self.rank) + weight_for_points * total_points
         

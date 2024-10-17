@@ -1,5 +1,5 @@
-weight_for_ranking = 1
-weight_for_points = 1
+weight_for_ranking = 1.0
+weight_for_points = 1.0
 weight_for_season_points = [0.25, 0.5, 0.75, 1.0]
 
 competition_points_multiplier = {

@@ -25,9 +25,9 @@ class Competition:
         self.number_of_relegations = number_of_relegations
         self.relegated_countries = []
         self.number_of_eligible = number_of_eligible
-        self.eligible_countries = []
+        self.wildcard_eligible_countries = []
         
-    def runCompetition(self, countries, eligible_countries):
+    def runCompetition(self, countries, wildcard_eligible_countries):
         
         # Establishing the criteria for A division competitions and all the others
         qualified_countries = []
@@ -45,9 +45,9 @@ class Competition:
                         continue
             
                 if len(qualified_countries) < 8:
-                    for eligible_country in eligible_countries:
-                        if eligible_country not in qualified_countries and len(qualified_countries) < 8:
-                            qualified_countries.append(eligible_country)
+                    for wildcard_eligible_country in wildcard_eligible_countries:
+                        if wildcard_eligible_country not in qualified_countries and len(qualified_countries) < 8:
+                            qualified_countries.append(wildcard_eligible_country)
                             continue
 
             case "European Nations League A":
@@ -57,9 +57,9 @@ class Competition:
                         continue
 
                 if len(qualified_countries) < 10:
-                    for eligible_country in eligible_countries:
-                        if eligible_country not in qualified_countries and len(qualified_countries) < 10:
-                            qualified_countries.append(eligible_country)
+                    for wildcard_eligible_country in wildcard_eligible_countries:
+                        if wildcard_eligible_country not in qualified_countries and len(qualified_countries) < 10:
+                            qualified_countries.append(wildcard_eligible_country)
                             continue
             case _:
                 for country in countries:
@@ -74,4 +74,4 @@ class Competition:
         #List promoted (or winners), relegated and eligible for wildcards (if relevant in the context of the competition)
         self.promoted_countries = sorted(self.final_rankings, key=self.final_rankings.get)[:self.number_of_promotions]
         self.relegated_countries = sorted(self.final_rankings, key=self.final_rankings.get, reverse=True)[:self.number_of_relegations]
-        self.eligible_countries = sorted(self.final_rankings, key=self.final_rankings.get)[:self.number_of_eligible]
+        self.wildcard_eligible_countries = sorted(self.final_rankings, key=self.final_rankings.get)[:self.number_of_eligible]
