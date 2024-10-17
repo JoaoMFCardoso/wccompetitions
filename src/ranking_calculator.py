@@ -66,7 +66,7 @@ def preparePointsForCalculation(countries):
         # Recalculate the points for all years based on the weight_for_season_points
         new_quadrineal_points = [0.0, 0.0, 0.0, 0.0]
         for i in range(len(quadrineal_points)):
-            new_quadrineal_points[i] = quadrineal_points[i]*weight_for_season_points[i]
+            new_quadrineal_points[i] = round(quadrineal_points[i] * weight_for_season_points[i], 3)
         country.points = new_quadrineal_points
 
 def calculatePointsForCompetition(countries, competition_name, final_standings):

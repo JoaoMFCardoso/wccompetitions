@@ -1,36 +1,36 @@
-weight_for_ranking = 1.0
-weight_for_points = 1.0
+weight_for_ranking = 1.5
+weight_for_points = 0.5
 weight_for_season_points = [0.25, 0.5, 0.75, 1.0]
 
 competition_points_multiplier = {
-    "World Championships": 7,
-    "European Nations League A": 5,
-    "Pan Continental Nations League A": 5,
-    "European Nations League B": 3,
-    "Americas Nations League B": 3,
-    "Asia Pacific Nations League B": 3,
-    "European Nations League C": 2,
-    "Asia Pacific Nations League C": 2,
-    "European Nations League D": 1
+    "World Championships": 5.0,
+    "European Nations League A": 1.5,
+    "Pan Continental Nations League A": 1.0,
+    "European Nations League B": 1.0,
+    "Americas Nations League B": 0.25,
+    "Asia Pacific Nations League B": 0.25,
+    "European Nations League C": 0.5,
+    "Asia Pacific Nations League C": 0.5,
+    "European Nations League D": 0.25
 }
 
 competition_points = {
-        1: 240.0,
-        2: 200.0,
-        3: 180.0,
-        4: 150.0,
-        5: 120.0,
-        6: 110.0,
-        7: 100.0,
-        8: 90.0,
-        9: 80.0,
-        10: 70.0,
-        11: 60.0,
-        12: 50.0,
-        13: 40.0,
-        14: 30.0,
-        15: 20.0,
-        16: 10.0
+        1: 16.0,
+        2: 15.0,
+        3: 14.0,
+        4: 13.0,
+        5: 12.0,
+        6: 11.0,
+        7: 10.0,
+        8: 9.0,
+        9: 8.0,
+        10: 7.0,
+        11: 6.0,
+        12: 5.0,
+        13: 4.0,
+        14: 3.0,
+        15: 2.0,
+        16: 1.0
 }
 
 mens_ranking = [
