@@ -74,12 +74,12 @@ def calculatePointsForCompetition(countries, competition_name, final_standings):
     # Calculate the points for this competition based on the multiplier
     points_for_competition = []
     for i in range(len(final_standings)):
-        points_for_competition.append(competition_points[i + 1] * competition_points_multiplier[competition_name])
+        points_for_competition.append(round(competition_points[i + 1] * competition_points_multiplier[competition_name],3))
     
     # Calculate the points for the competition for each of the participating countries based on their final standings
     for country in final_standings:
         index = getIndexByCountryName(countries, country.name)
-        countries[index].points[3] = countries[index].points[3] + points_for_competition[final_standings[country] - 1]
+        countries[index].points[3] = round(countries[index].points[3] + points_for_competition[final_standings[country] - 1], 3)
 
 def calculateRanking(countries):
     sorted_countries = sorted(countries, key=lambda x: getTotalCountryPoints(x.points), reverse=True)

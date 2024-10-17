@@ -95,965 +95,177 @@ Nations Ranking
 European Nations League B
 Participating Nations: 12
 Promoted:
-England
-Hungary
-Relegated:
-Slovakia
-Wales
 Belgium
 France
+Relegated:
+Latvia
+Finland
+Denmark
+Austria
 Results:
-1-England
-2-Hungary
-3-Latvia
-4-Denmark
-5-Austria
-6-Türkiye
-7-Spain
-8-Finland
-9-France
-10-Belgium
-11-Wales
-12-Slovakia
+1-Belgium
+2-France
+3-Spain
+4-Slovakia
+5-Hungary
+6-Wales
+7-England
+8-Türkiye
+9-Austria
+10-Denmark
+11-Finland
+12-Latvia
 
 Americas Nations League B
 Participating Nations: 8
 Promoted:
-Bolivia
+Puerto Rico
 Results:
-1-Bolivia
-2-Dominican Republic
-3-Mexico
-4-U.S. Virgin Islands
-5-Brazil
-6-Guyana
-7-Puerto Rico
-8-Jamaica
+1-Puerto Rico
+2-Bolivia
+3-Jamaica
+4-Dominican Republic
+5-U.S. Virgin Islands
+6-Mexico
+7-Guyana
+8-Brazil
 
 Asia Pacific Nations League B
 Participating Nations: 12
 Promoted:
-Kazakhstan
+Kyrgyzstan
 Relegated:
-India
-New Zealand
 China
+New Zealand
+Phillipines
 Results:
-1-Kazakhstan
+1-Kyrgyzstan
 2-Chinese Taipei
-3-Qatar
-4-Phillipines
-5-Nigeria
-6-Australia
-7-Hong Kong
-8-Kyrgyzstan
-9-Saudi Arabia
-10-China
+3-Nigeria
+4-India
+5-Kazakhstan
+6-Qatar
+7-Saudi Arabia
+8-Hong Kong
+9-Australia
+10-Phillipines
 11-New Zealand
-12-India
+12-China
 
 European Nations League A
 Participating Nations: 10
-Winner: Scotland
+Winner: Czechia
 Results:
-1-Scotland
-2-Norway
-3-Netherlands
-4-Sweden
-5-Hungary
-6-England
-7-Italy
-8-Switzerland
-9-Czechia
-10-Germany
+1-Czechia
+2-Netherlands
+3-Switzerland
+4-Belgium
+5-Scotland
+6-Sweden
+7-France
+8-Germany
+9-Italy
+10-Norway
 
 Pan Continental Nations League A
 Participating Nations: 8
-Winner: Bolivia
+Winner: Kyrgyzstan
 Results:
-1-Bolivia
-2-Dominican Republic
+1-Kyrgyzstan
+2-Chinese Taipei
 3-Canada
-4-Chinese Taipei
+4-Puerto Rico
 5-Korea
-6-United States of America
-7-Kazakhstan
-8-Japan
+6-Bolivia
+7-Japan
+8-United States of America
 
 World Championships Results
 Participating Nations: 16
-Winner: Bolivia
+Winner: Korea
 Relegated:
-Korea
+Germany
+Sweden
+United States of America
 Italy
-Japan
-Kazakhstan
 Results:
-1-Bolivia
-2-United States of America
-3-Czechia
-4-Netherlands
-5-England
-6-Hungary
-7-Germany
-8-Scotland
-9-Norway
-10-Sweden
-11-Switzerland
-12-Canada
-13-Kazakhstan
-14-Japan
-15-Italy
-16-Korea
+1-Korea
+2-Switzerland
+3-Scotland
+4-Puerto Rico
+5-Canada
+6-Kyrgyzstan
+7-Japan
+8-Belgium
+9-Czechia
+10-Netherlands
+11-Norway
+12-France
+13-Italy
+14-United States of America
+15-Sweden
+16-Germany
 
 European Nations League C
 Participating Nations: 12
 Promoted:
-Lithuania
-Andorra
-Liechtenstein
-Portugal
-Romania
-Relegated:
+Slovenia
 Ukraine
+Andorra
+Relegated:
+Lithuania
 Estonia
+Poland
 Results:
-1-Lithuania
-2-Andorra
-3-Liechtenstein
-4-Portugal
-5-Romania
-6-Poland
-7-Bulgaria
+1-Slovenia
+2-Ukraine
+3-Andorra
+4-Romania
+5-Bulgaria
+6-Portugal
+7-Croatia
 8-Ireland
-9-Croatia
-10-Slovenia
+9-Liechtenstein
+10-Poland
 11-Estonia
-12-Ukraine
+12-Lithuania
 
 European Nations League D
 Participating Nations: 11
 Promoted:
 Kosovo
-Iceland
-Israel
+Serbia
 Results:
 1-Kosovo
-2-Iceland
-3-Israel
-4-Greece
-5-Serbia
-6-Russia
+2-Serbia
+3-Monaco
+4-Israel
+5-Iceland
+6-Luxembourg
 7-Belarus
-8-Monaco
-9-Bosnia & Herzegovina
-10-Luxembourg
-11-Georgia
-
-Asia Pacific Nations League C
-Participating Nations: 7
-Promoted:
-Thailand
-Results:
-1-Thailand
-2-Kenya
-3-Afghanistan
-4-Mongolia
-5-Pakistan
-6-Turkmenistan
-7-Kuwait
-
-
-Year 2
-
-European Nations League
-A division nations: 9
-B division nations: 12
-C division nations: 12
-D division nations: 10
-
-Americas Nations League
-A division nations: 3
-B division nations: 7
-
-Asia Pacific Nations League
-A division nations: 0
-B division nations: 12
-C division nations: 9
-
-Nations Ranking
-1 - Sweden - Points: [0.0, 0.0, 63.064, 54.5]
-2 - United States of America - Points: [0.0, 0.0, 28.722, 86.0]
-3 - Scotland - Points: [0.0, 0.0, 45.634, 69.0]
-4 - Bolivia - Points: [0.0, 0.0, 0.0, 100.0]
-5 - Netherlands - Points: [0.0, 0.0, 12.401, 86.0]
-6 - Canada - Points: [0.0, 0.0, 58.564, 39.0]
-7 - England - Points: [0.0, 0.0, 5.054, 92.5]
-8 - Czechia - Points: [0.0, 0.0, 14.493, 82.0]
-9 - Hungary - Points: [0.0, 0.0, 3.628, 88.0]
-10 - Norway - Points: [0.0, 0.0, 19.712, 62.5]
-11 - Germany - Points: [0.0, 0.0, 19.268, 60.5]
-12 - Switzerland - Points: [0.0, 0.0, 33.814, 43.5]
-13 - Italy - Points: [0.0, 0.0, 36.433, 25.0]
-14 - Korea - Points: [0.0, 0.0, 25.88, 17.0]
-15 - Japan - Points: [0.0, 0.0, 14.873, 24.0]
-16 - New Zealand - Points: [0.0, 0.0, 36.433, 1.5]
-17 - Kazakhstan - Points: [0.0, 0.0, 2.167, 34.0]
-18 - Chinese Taipei - Points: [0.0, 0.0, 6.106, 16.75]
-19 - Denmark - Points: [0.0, 0.0, 8.926, 13.0]
-20 - Latvia - Points: [0.0, 0.0, 6.106, 14.0]
-21 - Türkiye - Points: [0.0, 0.0, 8.788, 11.0]
-22 - Dominican Republic - Points: [0.0, 0.0, 0.0, 18.75]
-23 - Finland - Points: [0.0, 0.0, 8.905, 9.0]
-24 - Austria - Points: [0.0, 0.0, 5.094, 12.0]
-25 - Spain - Points: [0.0, 0.0, 6.494, 10.0]
-26 - Russia - Points: [0.0, 0.0, 9.169, 2.75]
-27 - Belgium - Points: [0.0, 0.0, 4.044, 7.0]
-28 - France - Points: [0.0, 0.0, 2.84, 8.0]
-29 - Wales - Points: [0.0, 0.0, 3.691, 6.0]
-30 - Lithuania - Points: [0.0, 0.0, 1.386, 8.0]
-31 - China - Points: [0.0, 0.0, 7.352, 1.75]
-32 - Slovakia - Points: [0.0, 0.0, 3.894, 5.0]
-33 - Andorra - Points: [0.0, 0.0, 1.276, 7.5]
-34 - Liechtenstein - Points: [0.0, 0.0, 1.599, 7.0]
-35 - Kenya - Points: [0.0, 0.0, 0.528, 7.5]
-36 - Thailand - Points: [0.0, 0.0, 0.0, 8.0]
-37 - Portugal - Points: [0.0, 0.0, 1.479, 6.5]
-38 - Romania - Points: [0.0, 0.0, 1.771, 6.0]
-39 - Poland - Points: [0.0, 0.0, 1.944, 5.5]
-40 - Ireland - Points: [0.0, 0.0, 2.601, 4.5]
-41 - Afghanistan - Points: [0.0, 0.0, 0.0, 7.0]
-42 - Australia - Points: [0.0, 0.0, 4.166, 2.75]
-43 - Estonia - Points: [0.0, 0.0, 3.509, 3.0]
-44 - Mongolia - Points: [0.0, 0.0, 0.0, 6.5]
-45 - Bulgaria - Points: [0.0, 0.0, 1.274, 5.0]
-46 - Slovenia - Points: [0.0, 0.0, 2.662, 3.5]
-47 - Pakistan - Points: [0.0, 0.0, 0.0, 6.0]
-48 - Croatia - Points: [0.0, 0.0, 1.534, 4.0]
-49 - Brazil - Points: [0.0, 0.0, 2.525, 3.0]
-50 - Turkmenistan - Points: [0.0, 0.0, 0.0, 5.5]
-51 - Guyana - Points: [0.0, 0.0, 2.324, 2.75]
-52 - Kuwait - Points: [0.0, 0.0, 0.0, 5.0]
-53 - Mexico - Points: [0.0, 0.0, 1.276, 3.5]
-54 - Qatar - Points: [0.0, 0.0, 1.208, 3.5]
-55 - Hong Kong - Points: [0.0, 0.0, 2.075, 2.5]
-56 - Ukraine - Points: [0.0, 0.0, 1.999, 2.5]
-57 - Phillipines - Points: [0.0, 0.0, 1.014, 3.25]
-58 - Nigeria - Points: [0.0, 0.0, 1.057, 3.0]
-59 - Kosovo - Points: [0.0, 0.0, 0.0, 4.0]
-60 - Greece - Points: [0.0, 0.0, 0.71, 3.25]
-61 - Israel - Points: [0.0, 0.0, 0.287, 3.5]
-62 - Iceland - Points: [0.0, 0.0, 0.0, 3.75]
-63 - Belarus - Points: [0.0, 0.0, 1.217, 2.5]
-64 - U.S. Virgin Islands - Points: [0.0, 0.0, 0.0, 3.25]
-65 - Kyrgyzstan - Points: [0.0, 0.0, 0.989, 2.25]
-66 - Serbia - Points: [0.0, 0.0, 0.0, 3.0]
-67 - Saudi Arabia - Points: [0.0, 0.0, 0.978, 2.0]
-68 - India - Points: [0.0, 0.0, 1.309, 1.25]
-69 - Puerto Rico - Points: [0.0, 0.0, 0.0, 2.5]
-70 - Jamaica - Points: [0.0, 0.0, 0.0, 2.25]
-71 - Monaco - Points: [0.0, 0.0, 0.0, 2.25]
-72 - Luxembourg - Points: [0.0, 0.0, 0.431, 1.75]
-73 - Bosnia & Herzegovina - Points: [0.0, 0.0, 0.0, 2.0]
-74 - Georgia - Points: [0.0, 0.0, 0.465, 1.5]
-
-European Nations League B
-Participating Nations: 12
-Promoted:
-Finland
-Lithuania
-Relegated:
-Spain
-Denmark
-Italy
-Liechtenstein
-Results:
-1-Finland
-2-Lithuania
-3-Austria
-4-Romania
-5-Portugal
-6-Latvia
-7-Türkiye
-8-Andorra
-9-Liechtenstein
-10-Italy
-11-Denmark
-12-Spain
-
-Americas Nations League B
-Participating Nations: 7
-Promoted:
-Puerto Rico
-Results:
-1-Puerto Rico
-2-Mexico
-3-Brazil
-4-Guyana
-5-U.S. Virgin Islands
-6-Jamaica
-7-Dominican Republic
-
-Asia Pacific Nations League B
-Participating Nations: 12
-Promoted:
-Qatar
-Relegated:
-Australia
-Results:
-1-Qatar
-2-Thailand
-3-Saudi Arabia
-4-Kyrgyzstan
-5-Japan
-6-Chinese Taipei
-7-Nigeria
-8-Kazakhstan
-9-Phillipines
-10-Korea
-11-Hong Kong
-12-Australia
-
-European Nations League A
-Participating Nations: 10
-Winner: Netherlands
-Results:
-1-Netherlands
-2-Germany
-3-Switzerland
-4-Finland
-5-England
-6-Sweden
-7-Norway
-8-Czechia
-9-Hungary
-10-Scotland
-
-Pan Continental Nations League A
-Participating Nations: 8
-Winner: Canada
-Results:
-1-Canada
-2-Thailand
-3-Qatar
-4-Brazil
-5-Puerto Rico
-6-United States of America
-7-Bolivia
-8-Mexico
-
-World Championships Results
-Participating Nations: 16
-Winner: Sweden
-Relegated:
-Finland
-Switzerland
-Netherlands
-Canada
-Results:
-1-Sweden
-2-Germany
-3-Lithuania
-4-Puerto Rico
-5-England
-6-Scotland
-7-Qatar
-8-Czechia
-9-Hungary
-10-United States of America
-11-Bolivia
-12-Norway
-13-Canada
-14-Netherlands
-15-Switzerland
-16-Finland
-
-European Nations League C
-Participating Nations: 12
-Promoted:
-Poland
-Wales
-Slovenia
-Relegated:
-Ireland
-Belgium
-France
-Results:
-1-Poland
-2-Wales
-3-Slovenia
-4-Slovakia
-5-Bulgaria
-6-Kosovo
-7-Israel
-8-Croatia
-9-Iceland
-10-France
-11-Belgium
-12-Ireland
-
-European Nations League D
-Participating Nations: 10
-Promoted:
-Estonia
-Monaco
-Results:
-1-Estonia
-2-Monaco
-3-Belarus
-4-Luxembourg
-5-Bosnia & Herzegovina
-6-Georgia
-7-Ukraine
-8-Greece
-9-Serbia
-10-Russia
-
-Asia Pacific Nations League C
-Participating Nations: 9
-Promoted:
-Afghanistan
-Kuwait
-Results:
-1-Afghanistan
-2-Kuwait
-3-Mongolia
-4-Kenya
-5-India
-6-Pakistan
-7-China
-8-Turkmenistan
-9-New Zealand
-
-
-Year 3
-
-European Nations League
-A division nations: 8
-B division nations: 12
-C division nations: 12
-D division nations: 11
-
-Americas Nations League
-A division nations: 3
-B division nations: 7
-
-Asia Pacific Nations League
-A division nations: 1
-B division nations: 12
-C division nations: 8
-
-Nations Ranking
-1 - Sweden - Points: [0.0, 31.532, 40.875, 96.5]
-2 - Germany - Points: [0.0, 9.634, 45.375, 97.5]
-3 - England - Points: [0.0, 2.527, 69.375, 78.0]
-4 - Scotland - Points: [0.0, 22.817, 51.75, 65.5]
-5 - Czechia - Points: [0.0, 7.247, 61.5, 58.5]
-6 - United States of America - Points: [0.0, 14.361, 64.5, 46.0]
-7 - Hungary - Points: [0.0, 1.814, 66.0, 52.0]
-8 - Bolivia - Points: [0.0, 0.0, 75.0, 40.0]
-9 - Netherlands - Points: [0.0, 6.2, 64.5, 39.0]
-10 - Norway - Points: [0.0, 9.856, 46.875, 40.0]
-11 - Canada - Points: [0.0, 29.282, 29.25, 36.0]
-12 - Lithuania - Points: [0.0, 0.693, 6.0, 85.0]
-13 - Puerto Rico - Points: [0.0, 0.0, 1.875, 81.0]
-14 - Switzerland - Points: [0.0, 16.907, 32.625, 31.0]
-15 - Qatar - Points: [0.0, 0.604, 2.625, 68.0]
-16 - Finland - Points: [0.0, 4.452, 6.75, 40.5]
-17 - Italy - Points: [0.0, 18.216, 18.75, 7.0]
-18 - Kazakhstan - Points: [0.0, 1.083, 25.5, 2.25]
-19 - Japan - Points: [0.0, 7.436, 18.0, 3.0]
-20 - Korea - Points: [0.0, 12.94, 12.75, 1.75]
-21 - Austria - Points: [0.0, 2.547, 9.0, 14.0]
-22 - Thailand - Points: [0.0, 0.0, 6.0, 18.75]
-23 - Latvia - Points: [0.0, 3.053, 10.5, 11.0]
-24 - New Zealand - Points: [0.0, 18.216, 1.125, 4.0]
-25 - Türkiye - Points: [0.0, 4.394, 8.25, 10.0]
-26 - Denmark - Points: [0.0, 4.463, 9.75, 6.0]
-27 - Brazil - Points: [0.0, 1.262, 2.25, 16.5]
-28 - Romania - Points: [0.0, 0.885, 4.5, 13.0]
-29 - Chinese Taipei - Points: [0.0, 3.053, 12.562, 2.75]
-30 - Portugal - Points: [0.0, 0.74, 4.875, 12.0]
-31 - Dominican Republic - Points: [0.0, 0.0, 14.062, 2.5]
-32 - Mexico - Points: [0.0, 0.638, 2.625, 12.75]
-33 - Spain - Points: [0.0, 3.247, 7.5, 5.0]
-34 - Andorra - Points: [0.0, 0.638, 5.625, 9.0]
-35 - Liechtenstein - Points: [0.0, 0.799, 5.25, 8.0]
-36 - Wales - Points: [0.0, 1.845, 4.5, 7.5]
-37 - Afghanistan - Points: [0.0, 0.0, 5.25, 8.0]
-38 - Poland - Points: [0.0, 0.972, 4.125, 8.0]
-39 - Kenya - Points: [0.0, 0.264, 5.625, 6.5]
-40 - Slovakia - Points: [0.0, 1.947, 3.75, 6.5]
-41 - Mongolia - Points: [0.0, 0.0, 4.875, 7.0]
-42 - Kuwait - Points: [0.0, 0.0, 3.75, 7.5]
-43 - Slovenia - Points: [0.0, 1.331, 2.625, 7.0]
-44 - France - Points: [0.0, 1.42, 6.0, 3.5]
-45 - Bulgaria - Points: [0.0, 0.637, 3.75, 6.0]
-46 - Belgium - Points: [0.0, 2.022, 5.25, 3.0]
-47 - Pakistan - Points: [0.0, 0.0, 4.5, 5.5]
-48 - China - Points: [0.0, 3.676, 1.312, 5.0]
-49 - Turkmenistan - Points: [0.0, 0.0, 4.125, 4.5]
-50 - Kosovo - Points: [0.0, 0.0, 3.0, 5.5]
-51 - Russia - Points: [0.0, 4.585, 2.062, 1.75]
-52 - Croatia - Points: [0.0, 0.767, 3.0, 4.5]
-53 - Estonia - Points: [0.0, 1.754, 2.25, 4.0]
-54 - Israel - Points: [0.0, 0.143, 2.625, 5.0]
-55 - India - Points: [0.0, 0.654, 0.938, 6.0]
-56 - Ireland - Points: [0.0, 1.3, 3.375, 2.5]
-57 - Iceland - Points: [0.0, 0.0, 2.812, 4.0]
-58 - Guyana - Points: [0.0, 1.162, 2.062, 3.25]
-59 - Belarus - Points: [0.0, 0.609, 1.875, 3.5]
-60 - Saudi Arabia - Points: [0.0, 0.489, 1.5, 3.5]
-61 - U.S. Virgin Islands - Points: [0.0, 0.0, 2.438, 3.0]
-62 - Monaco - Points: [0.0, 0.0, 1.688, 3.75]
-63 - Kyrgyzstan - Points: [0.0, 0.494, 1.688, 3.25]
-64 - Australia - Points: [0.0, 2.083, 2.062, 1.25]
-65 - Ukraine - Points: [0.0, 1.0, 1.875, 2.5]
-66 - Nigeria - Points: [0.0, 0.528, 2.25, 2.5]
-67 - Greece - Points: [0.0, 0.355, 2.438, 2.25]
-68 - Phillipines - Points: [0.0, 0.507, 2.438, 2.0]
-69 - Luxembourg - Points: [0.0, 0.215, 1.312, 3.25]
-70 - Bosnia & Herzegovina - Points: [0.0, 0.0, 1.5, 3.0]
-71 - Jamaica - Points: [0.0, 0.0, 1.688, 2.75]
-72 - Hong Kong - Points: [0.0, 1.038, 1.875, 1.5]
-73 - Serbia - Points: [0.0, 0.0, 2.25, 2.0]
-74 - Georgia - Points: [0.0, 0.233, 1.125, 2.75]
-
-European Nations League B
-Participating Nations: 12
-Promoted:
-Finland
-Poland
-Relegated:
-Türkiye
-Latvia
-Netherlands
-Wales
-Results:
-1-Finland
-2-Poland
-3-Andorra
-4-Austria
-5-Slovenia
-6-Switzerland
-7-Romania
-8-Portugal
-9-Wales
-10-Netherlands
-11-Latvia
-12-Türkiye
-
-Americas Nations League B
-Participating Nations: 7
-Promoted:
-Dominican Republic
-Results:
-1-Dominican Republic
-2-Jamaica
-3-Brazil
-4-U.S. Virgin Islands
-5-Canada
-6-Mexico
-7-Guyana
-
-Asia Pacific Nations League B
-Participating Nations: 12
-Promoted:
-Nigeria
-Relegated:
-Thailand
-Kuwait
-Results:
-1-Nigeria
-2-Japan
-3-Phillipines
-4-Saudi Arabia
-5-Korea
-6-Chinese Taipei
-7-Hong Kong
-8-Afghanistan
-9-Kyrgyzstan
-10-Kazakhstan
-11-Kuwait
-12-Thailand
-
-European Nations League A
-Participating Nations: 10
-Winner: Sweden
-Results:
-1-Sweden
-2-Poland
-3-Scotland
-4-Norway
-5-Lithuania
-6-Czechia
-7-Germany
-8-Hungary
-9-England
-10-Finland
-
-Pan Continental Nations League A
-Participating Nations: 8
-Winner: Nigeria
-Results:
-1-Nigeria
-2-Jamaica
-3-Japan
-4-United States of America
-5-Qatar
-6-Bolivia
-7-Puerto Rico
-8-Dominican Republic
-
-World Championships Results
-Participating Nations: 16
-Winner: England
-Relegated:
-Finland
-Poland
-Dominican Republic
-Qatar
-Results:
-1-England
-2-United States of America
-3-Germany
-4-Puerto Rico
-5-Czechia
-6-Bolivia
-7-Sweden
-8-Norway
-9-Nigeria
-10-Scotland
-11-Hungary
-12-Lithuania
-13-Qatar
-14-Dominican Republic
-15-Poland
-16-Finland
-
-European Nations League C
-Participating Nations: 12
-Promoted:
-Monaco
-Israel
-Croatia
-Spain
-Relegated:
-Denmark
-Bulgaria
-Results:
-1-Monaco
-2-Israel
-3-Croatia
-4-Spain
-5-Slovakia
-6-Liechtenstein
-7-Kosovo
-8-Italy
-9-Estonia
-10-Iceland
-11-Bulgaria
-12-Denmark
-
-European Nations League D
-Participating Nations: 11
-Promoted:
-Bosnia & Herzegovina
-Belgium
-Results:
-1-Bosnia & Herzegovina
-2-Belgium
-3-Ukraine
-4-Belarus
-5-Luxembourg
-6-Greece
-7-France
-8-Russia
+8-Bosnia & Herzegovina
 9-Georgia
-10-Serbia
-11-Ireland
+10-Greece
+11-Russia
 
 Asia Pacific Nations League C
-Participating Nations: 8
+Participating Nations: 7
 Promoted:
+Kuwait
+Kenya
 Mongolia
 Turkmenistan
 Results:
-1-Mongolia
-2-Turkmenistan
-3-Australia
-4-India
+1-Kuwait
+2-Kenya
+3-Mongolia
+4-Turkmenistan
 5-Pakistan
-6-New Zealand
-7-Kenya
-8-China
+6-Thailand
+7-Afghanistan
 
 
-Year 4
-
-European Nations League
-A division nations: 8
-B division nations: 12
-C division nations: 12
-D division nations: 11
-
-Americas Nations League
-A division nations: 3
-B division nations: 7
-
-Asia Pacific Nations League
-A division nations: 1
-B division nations: 12
-C division nations: 8
-
-Nations Ranking
-1 - England - Points: [0.632, 34.688, 58.5, 92.0]
-2 - Germany - Points: [2.409, 22.688, 73.125, 85.0]
-3 - Sweden - Points: [7.883, 20.438, 72.375, 74.0]
-4 - United States of America - Points: [3.59, 32.25, 34.5, 88.0]
-5 - Czechia - Points: [1.812, 30.75, 43.875, 76.5]
-6 - Scotland - Points: [5.704, 25.875, 49.125, 56.0]
-7 - Puerto Rico - Points: [0.0, 0.938, 60.75, 75.0]
-8 - Bolivia - Points: [0.0, 37.5, 30.0, 66.0]
-9 - Norway - Points: [2.464, 23.438, 30.0, 64.5]
-10 - Hungary - Points: [0.454, 33.0, 39.0, 43.5]
-11 - Lithuania - Points: [0.173, 3.0, 63.75, 43.0]
-12 - Qatar - Points: [0.151, 1.312, 51.0, 32.0]
-13 - Netherlands - Points: [1.55, 32.25, 29.25, 7.0]
-14 - Finland - Points: [1.113, 3.375, 30.375, 31.5]
-15 - Nigeria - Points: [0.132, 1.125, 1.875, 60.0]
-16 - Poland - Points: [0.243, 2.062, 6.0, 47.5]
-17 - Switzerland - Points: [4.227, 16.312, 23.25, 11.0]
-18 - Canada - Points: [7.321, 14.625, 27.0, 3.0]
-19 - Dominican Republic - Points: [0.0, 7.031, 1.875, 28.0]
-20 - Japan - Points: [1.859, 9.0, 2.25, 17.75]
-21 - Austria - Points: [0.637, 4.5, 10.5, 13.0]
-22 - Andorra - Points: [0.16, 2.812, 6.75, 14.0]
-23 - Italy - Points: [4.554, 9.375, 5.25, 4.5]
-24 - Romania - Points: [0.221, 2.25, 9.75, 10.0]
-25 - Jamaica - Points: [0.0, 0.844, 2.062, 18.75]
-26 - Portugal - Points: [0.185, 2.438, 9.0, 9.0]
-27 - Latvia - Points: [0.763, 5.25, 8.25, 6.0]
-28 - Slovenia - Points: [0.333, 1.312, 5.25, 12.0]
-29 - Thailand - Points: [0.0, 3.0, 14.062, 1.25]
-30 - Türkiye - Points: [1.099, 4.125, 7.5, 5.0]
-31 - Brazil - Points: [0.316, 1.125, 12.375, 3.5]
-32 - Kazakhstan - Points: [0.271, 12.75, 1.688, 1.75]
-33 - Wales - Points: [0.461, 2.25, 5.625, 8.0]
-34 - Mongolia - Points: [0.0, 2.438, 5.25, 8.0]
-35 - Spain - Points: [0.812, 3.75, 3.75, 6.5]
-36 - Liechtenstein - Points: [0.2, 2.625, 6.0, 5.5]
-37 - Korea - Points: [3.235, 6.375, 1.312, 3.0]
-38 - Mexico - Points: [0.16, 1.312, 9.562, 2.75]
-39 - New Zealand - Points: [4.554, 0.562, 3.0, 5.5]
-40 - Slovakia - Points: [0.487, 1.875, 4.875, 6.0]
-41 - Denmark - Points: [1.116, 4.875, 4.5, 2.5]
-42 - Turkmenistan - Points: [0.0, 2.062, 3.375, 7.5]
-43 - Kenya - Points: [0.066, 2.812, 4.875, 5.0]
-44 - Israel - Points: [0.036, 1.312, 3.75, 7.5]
-45 - Pakistan - Points: [0.0, 2.25, 4.125, 6.0]
-46 - Croatia - Points: [0.192, 1.5, 3.375, 7.0]
-47 - Chinese Taipei - Points: [0.763, 6.281, 2.062, 2.75]
-48 - Monaco - Points: [0.0, 0.844, 2.812, 8.0]
-49 - India - Points: [0.164, 0.469, 4.5, 6.5]
-50 - Afghanistan - Points: [0.0, 2.625, 6.0, 2.25]
-51 - Kosovo - Points: [0.0, 1.5, 4.125, 5.0]
-52 - China - Points: [0.919, 0.656, 3.75, 4.5]
-53 - Bulgaria - Points: [0.159, 1.875, 4.5, 3.0]
-54 - Australia - Points: [0.521, 1.031, 0.938, 7.0]
-55 - Belgium - Points: [0.505, 2.625, 2.25, 3.75]
-56 - Kuwait - Points: [0.0, 1.875, 5.625, 1.5]
-57 - Estonia - Points: [0.439, 1.125, 3.0, 4.0]
-58 - France - Points: [0.355, 3.0, 2.625, 2.5]
-59 - Iceland - Points: [0.0, 1.406, 3.0, 3.5]
-60 - Bosnia & Herzegovina - Points: [0.0, 0.75, 2.25, 4.0]
-61 - Belarus - Points: [0.152, 0.938, 2.625, 3.25]
-62 - Saudi Arabia - Points: [0.122, 0.75, 2.625, 3.25]
-63 - U.S. Virgin Islands - Points: [0.0, 1.219, 2.25, 3.25]
-64 - Ukraine - Points: [0.25, 0.938, 1.875, 3.5]
-65 - Phillipines - Points: [0.127, 1.219, 1.5, 3.5]
-66 - Guyana - Points: [0.29, 1.031, 2.438, 2.5]
-67 - Luxembourg - Points: [0.054, 0.656, 2.438, 3.0]
-68 - Greece - Points: [0.089, 1.219, 1.688, 2.75]
-69 - Russia - Points: [1.146, 1.031, 1.312, 2.25]
-70 - Kyrgyzstan - Points: [0.123, 0.844, 2.438, 2.0]
-71 - Ireland - Points: [0.325, 1.688, 1.875, 1.5]
-72 - Hong Kong - Points: [0.26, 0.938, 1.125, 2.5]
-73 - Georgia - Points: [0.058, 0.562, 2.062, 2.0]
-74 - Serbia - Points: [0.0, 1.125, 1.5, 1.75]
-
-European Nations League B
-Participating Nations: 12
-Promoted:
-Croatia
-Finland
-Relegated:
-Switzerland
-Slovenia
-Romania
-Spain
-Results:
-1-Croatia
-2-Finland
-3-Poland
-4-Andorra
-5-Austria
-6-Portugal
-7-Israel
-8-Monaco
-9-Spain
-10-Romania
-11-Slovenia
-12-Switzerland
-
-Americas Nations League B
-Participating Nations: 7
-Promoted:
-Canada
-Results:
-1-Canada
-2-U.S. Virgin Islands
-3-Guyana
-4-Jamaica
-5-Brazil
-6-Mexico
-7-Dominican Republic
-
-Asia Pacific Nations League B
-Participating Nations: 12
-Promoted:
-Hong Kong
-Relegated:
-Kazakhstan
-Turkmenistan
-Results:
-1-Hong Kong
-2-Mongolia
-3-Kyrgyzstan
-4-Korea
-5-Japan
-6-Qatar
-7-Phillipines
-8-Saudi Arabia
-9-Chinese Taipei
-10-Afghanistan
-11-Turkmenistan
-12-Kazakhstan
-
-European Nations League A
-Participating Nations: 10
-Winner: Sweden
-Results:
-1-Sweden
-2-Croatia
-3-England
-4-Germany
-5-Finland
-6-Scotland
-7-Czechia
-8-Norway
-9-Lithuania
-10-Hungary
-
-Pan Continental Nations League A
-Participating Nations: 8
-Winner: Puerto Rico
-Results:
-1-Puerto Rico
-2-U.S. Virgin Islands
-3-Hong Kong
-4-Canada
-5-Nigeria
-6-United States of America
-7-Mongolia
-8-Bolivia
-
-World Championships Results
-Participating Nations: 16
-Winner: Croatia
-Relegated:
-Puerto Rico
-Finland
-Hungary
-Norway
-Results:
-1-Croatia
-2-Canada
-3-Germany
-4-United States of America
-5-Sweden
-6-Czechia
-7-England
-8-Scotland
-9-Bolivia
-10-Nigeria
-11-Lithuania
-12-Hong Kong
-13-Norway
-14-Hungary
-15-Finland
-16-Puerto Rico
-
-European Nations League C
-Participating Nations: 12
-Promoted:
-Kosovo
-Liechtenstein
-Bosnia & Herzegovina
-Relegated:
-Latvia
-Belgium
-Estonia
-Results:
-1-Kosovo
-2-Liechtenstein
-3-Bosnia & Herzegovina
-4-Iceland
-5-Türkiye
-6-Italy
-7-Wales
-8-Slovakia
-9-Netherlands
-10-Estonia
-11-Belgium
-12-Latvia
-
-European Nations League D
-Participating Nations: 11
-Promoted:
-Ukraine
-Russia
-Results:
-1-Ukraine
-2-Russia
-3-Denmark
-4-Bulgaria
-5-Serbia
-6-Greece
-7-Georgia
-8-France
-9-Ireland
-10-Belarus
-11-Luxembourg
-
-Asia Pacific Nations League C
-Participating Nations: 8
-Promoted:
-New Zealand
-Australia
-Kuwait
-Results:
-1-New Zealand
-2-Australia
-3-Kuwait
-4-China
-5-Pakistan
-6-India
-7-Thailand
-8-Kenya
-
-
-Year 5
+Year 2
 
 European Nations League
 A division nations: 7
@@ -1062,263 +274,266 @@ C division nations: 12
 D division nations: 12
 
 Americas Nations League
-A division nations: 3
-B division nations: 7
+A division nations: 2
+B division nations: 8
 
 Asia Pacific Nations League
-A division nations: 2
+A division nations: 3
 B division nations: 12
-C division nations: 7
+C division nations: 6
 
 Nations Ranking
-1 - Germany - Points: [5.672, 36.562, 63.75, 89.5]
-2 - Sweden - Points: [5.109, 36.188, 55.5, 84.0]
-3 - England - Points: [8.672, 29.25, 69.0, 71.0]
-4 - United States of America - Points: [8.062, 17.25, 66.0, 76.0]
-5 - Czechia - Points: [7.688, 21.938, 57.375, 70.0]
-6 - Scotland - Points: [6.469, 24.562, 42.0, 61.5]
-7 - Croatia - Points: [0.375, 1.688, 5.25, 118.5]
-8 - Bolivia - Points: [9.375, 15.0, 49.5, 49.0]
-9 - Canada - Points: [3.656, 13.5, 2.25, 92.0]
-10 - Puerto Rico - Points: [0.234, 30.375, 56.25, 21.0]
-11 - Lithuania - Points: [0.75, 31.875, 32.25, 42.0]
-12 - Norway - Points: [5.859, 15.0, 48.375, 33.5]
-13 - Nigeria - Points: [0.281, 0.938, 45.0, 47.0]
-14 - Hungary - Points: [8.25, 19.5, 32.625, 25.5]
-15 - Finland - Points: [0.844, 15.188, 23.625, 43.0]
-16 - Poland - Points: [0.515, 3.0, 35.625, 14.0]
-17 - Qatar - Points: [0.328, 25.5, 24.0, 2.75]
-18 - Hong Kong - Points: [0.234, 0.562, 1.875, 43.0]
-19 - Netherlands - Points: [8.062, 14.625, 5.25, 4.0]
-20 - Switzerland - Points: [4.078, 11.625, 8.25, 5.0]
-21 - Austria - Points: [1.125, 5.25, 9.75, 12.0]
-22 - Andorra - Points: [0.703, 3.375, 10.5, 13.0]
-23 - Dominican Republic - Points: [1.758, 0.938, 21.0, 2.5]
-24 - Mongolia - Points: [0.61, 2.625, 6.0, 13.75]
-25 - Portugal - Points: [0.61, 4.5, 6.75, 11.0]
-26 - U.S. Virgin Islands - Points: [0.305, 1.125, 2.438, 18.75]
-27 - Romania - Points: [0.562, 4.875, 7.5, 7.0]
-28 - Japan - Points: [2.25, 1.125, 13.312, 3.0]
-29 - Jamaica - Points: [0.211, 1.031, 14.062, 3.25]
-30 - Slovenia - Points: [0.328, 2.625, 9.0, 6.0]
-31 - Israel - Points: [0.328, 1.875, 5.625, 10.0]
-32 - Monaco - Points: [0.211, 1.406, 6.0, 9.0]
-33 - Spain - Points: [0.938, 1.875, 4.875, 8.0]
-34 - Liechtenstein - Points: [0.656, 3.0, 4.125, 7.5]
-35 - Türkiye - Points: [1.031, 3.75, 3.75, 6.0]
-36 - Wales - Points: [0.562, 2.812, 6.0, 5.0]
-37 - Kosovo - Points: [0.375, 2.062, 3.75, 8.0]
-38 - Italy - Points: [2.344, 2.625, 3.375, 5.5]
-39 - New Zealand - Points: [0.141, 1.5, 4.125, 8.0]
-40 - Thailand - Points: [0.75, 7.031, 0.938, 5.0]
-41 - Australia - Points: [0.258, 0.469, 5.25, 7.5]
-42 - Pakistan - Points: [0.562, 2.062, 4.5, 6.0]
-43 - India - Points: [0.117, 2.25, 4.875, 5.5]
-44 - Latvia - Points: [1.312, 4.125, 4.5, 2.5]
-45 - Brazil - Points: [0.281, 6.188, 2.625, 3.0]
-46 - China - Points: [0.164, 1.875, 3.375, 6.5]
-47 - Slovakia - Points: [0.469, 2.438, 4.5, 4.5]
-48 - Kuwait - Points: [0.469, 2.812, 1.125, 7.0]
-49 - Kenya - Points: [0.703, 2.438, 3.75, 4.5]
-50 - Bosnia & Herzegovina - Points: [0.188, 1.125, 3.0, 7.0]
-51 - Iceland - Points: [0.351, 1.5, 2.625, 6.5]
-52 - Mexico - Points: [0.328, 4.781, 2.062, 2.75]
-53 - Turkmenistan - Points: [0.515, 1.688, 5.625, 1.5]
-54 - Denmark - Points: [1.219, 2.25, 1.875, 3.5]
-55 - Estonia - Points: [0.281, 1.5, 3.0, 3.5]
-56 - Bulgaria - Points: [0.469, 2.25, 2.25, 3.25]
-57 - Ukraine - Points: [0.234, 0.938, 2.625, 4.0]
-58 - Korea - Points: [1.594, 0.656, 2.25, 3.25]
-59 - Belgium - Points: [0.656, 1.125, 2.812, 3.0]
-60 - Afghanistan - Points: [0.656, 3.0, 1.688, 1.75]
-61 - Guyana - Points: [0.258, 1.219, 1.875, 3.5]
-62 - Chinese Taipei - Points: [1.57, 1.031, 2.062, 2.0]
-63 - Kazakhstan - Points: [3.188, 0.844, 1.312, 1.25]
-64 - Kyrgyzstan - Points: [0.211, 1.219, 1.5, 3.5]
-65 - Russia - Points: [0.258, 0.656, 1.688, 3.75]
-66 - Saudi Arabia - Points: [0.188, 1.312, 2.438, 2.25]
-67 - France - Points: [0.75, 1.312, 1.875, 2.25]
-68 - Phillipines - Points: [0.305, 0.75, 2.625, 2.5]
-69 - Greece - Points: [0.305, 0.844, 2.062, 2.75]
-70 - Belarus - Points: [0.234, 1.312, 2.438, 1.75]
-71 - Serbia - Points: [0.281, 0.75, 1.312, 3.0]
-72 - Georgia - Points: [0.141, 1.031, 1.5, 2.5]
-73 - Luxembourg - Points: [0.164, 1.219, 2.25, 1.5]
-74 - Ireland - Points: [0.422, 0.938, 1.125, 2.0]
+1 - Scotland - Points: [0.0, 0.0, 45.634, 88.0]
+2 - Canada - Points: [0.0, 0.0, 58.564, 74.0]
+3 - Switzerland - Points: [0.0, 0.0, 33.814, 96.0]
+4 - Korea - Points: [0.0, 0.0, 25.88, 92.0]
+5 - Sweden - Points: [0.0, 0.0, 63.064, 26.5]
+6 - Belgium - Points: [0.0, 0.0, 4.044, 80.5]
+7 - Puerto Rico - Points: [0.0, 0.0, 0.0, 80.4]
+8 - Czechia - Points: [0.0, 0.0, 14.493, 64.0]
+9 - Japan - Points: [0.0, 0.0, 14.873, 60.0]
+10 - Kyrgyzstan - Points: [0.0, 0.0, 0.989, 73.4]
+11 - Netherlands - Points: [0.0, 0.0, 12.401, 57.5]
+12 - Italy - Points: [0.0, 0.0, 36.433, 32.0]
+13 - Norway - Points: [0.0, 0.0, 19.712, 40.5]
+14 - France - Points: [0.0, 0.0, 2.84, 55.0]
+15 - United States of America - Points: [0.0, 0.0, 28.722, 24.0]
+16 - Germany - Points: [0.0, 0.0, 19.268, 18.5]
+17 - New Zealand - Points: [0.0, 0.0, 36.433, 0.9]
+18 - Chinese Taipei - Points: [0.0, 0.0, 6.106, 17.25]
+19 - Spain - Points: [0.0, 0.0, 6.494, 14.0]
+20 - Türkiye - Points: [0.0, 0.0, 8.788, 9.0]
+21 - Slovakia - Points: [0.0, 0.0, 3.894, 13.0]
+22 - Denmark - Points: [0.0, 0.0, 8.926, 7.0]
+23 - Hungary - Points: [0.0, 0.0, 3.628, 12.0]
+24 - England - Points: [0.0, 0.0, 5.054, 10.0]
+25 - Finland - Points: [0.0, 0.0, 8.905, 6.0]
+26 - Wales - Points: [0.0, 0.0, 3.691, 11.0]
+27 - Bolivia - Points: [0.0, 0.0, 0.0, 13.25]
+28 - Austria - Points: [0.0, 0.0, 5.094, 8.0]
+29 - Latvia - Points: [0.0, 0.0, 6.106, 5.0]
+30 - Russia - Points: [0.0, 0.0, 9.169, 0.9]
+31 - China - Points: [0.0, 0.0, 7.352, 0.75]
+32 - Slovenia - Points: [0.0, 0.0, 2.662, 4.8]
+33 - Ukraine - Points: [0.0, 0.0, 1.999, 4.5]
+34 - Romania - Points: [0.0, 0.0, 1.771, 3.9]
+35 - Andorra - Points: [0.0, 0.0, 1.276, 4.2]
+36 - Australia - Points: [0.0, 0.0, 4.166, 1.2]
+37 - Estonia - Points: [0.0, 0.0, 3.509, 1.8]
+38 - Ireland - Points: [0.0, 0.0, 2.601, 2.7]
+39 - Bulgaria - Points: [0.0, 0.0, 1.274, 3.6]
+40 - Portugal - Points: [0.0, 0.0, 1.479, 3.3]
+41 - Croatia - Points: [0.0, 0.0, 1.534, 3.0]
+42 - Poland - Points: [0.0, 0.0, 1.944, 2.1]
+43 - Liechtenstein - Points: [0.0, 0.0, 1.599, 2.4]
+44 - Kazakhstan - Points: [0.0, 0.0, 2.167, 1.8]
+45 - Brazil - Points: [0.0, 0.0, 2.525, 1.35]
+46 - Guyana - Points: [0.0, 0.0, 2.324, 1.5]
+47 - Hong Kong - Points: [0.0, 0.0, 2.075, 1.35]
+48 - India - Points: [0.0, 0.0, 1.309, 1.95]
+49 - Nigeria - Points: [0.0, 0.0, 1.057, 2.1]
+50 - Mexico - Points: [0.0, 0.0, 1.276, 1.65]
+51 - Lithuania - Points: [0.0, 0.0, 1.386, 1.5]
+52 - Qatar - Points: [0.0, 0.0, 1.208, 1.65]
+53 - Kenya - Points: [0.0, 0.0, 0.528, 2.25]
+54 - Belarus - Points: [0.0, 0.0, 1.217, 1.5]
+55 - Saudi Arabia - Points: [0.0, 0.0, 0.978, 1.5]
+56 - Kosovo - Points: [0.0, 0.0, 0.0, 2.4]
+57 - Kuwait - Points: [0.0, 0.0, 0.0, 2.4]
+58 - Serbia - Points: [0.0, 0.0, 0.0, 2.25]
+59 - Israel - Points: [0.0, 0.0, 0.287, 1.95]
+60 - Jamaica - Points: [0.0, 0.0, 0.0, 2.1]
+61 - Mongolia - Points: [0.0, 0.0, 0.0, 2.1]
+62 - Monaco - Points: [0.0, 0.0, 0.0, 2.1]
+63 - Luxembourg - Points: [0.0, 0.0, 0.431, 1.65]
+64 - Phillipines - Points: [0.0, 0.0, 1.014, 1.05]
+65 - Dominican Republic - Points: [0.0, 0.0, 0.0, 1.95]
+66 - Turkmenistan - Points: [0.0, 0.0, 0.0, 1.95]
+67 - Iceland - Points: [0.0, 0.0, 0.0, 1.8]
+68 - U.S. Virgin Islands - Points: [0.0, 0.0, 0.0, 1.8]
+69 - Pakistan - Points: [0.0, 0.0, 0.0, 1.8]
+70 - Greece - Points: [0.0, 0.0, 0.71, 1.05]
+71 - Georgia - Points: [0.0, 0.0, 0.465, 1.2]
+72 - Thailand - Points: [0.0, 0.0, 0.0, 1.65]
+73 - Afghanistan - Points: [0.0, 0.0, 0.0, 1.5]
+74 - Bosnia & Herzegovina - Points: [0.0, 0.0, 0.0, 1.35]
 
 European Nations League B
 Participating Nations: 12
 Promoted:
-Finland
-Kosovo
+Slovenia
+Hungary
 Relegated:
-Liechtenstein
-Austria
-Poland
-Monaco
+Slovakia
+Türkiye
+England
+Andorra
 Results:
-1-Finland
-2-Kosovo
-3-Bosnia & Herzegovina
-4-Norway
-5-Israel
-6-Portugal
-7-Andorra
-8-Hungary
-9-Monaco
-10-Poland
-11-Austria
-12-Liechtenstein
+1-Slovenia
+2-Hungary
+3-Italy
+4-Ukraine
+5-Sweden
+6-Spain
+7-Germany
+8-Wales
+9-Andorra
+10-England
+11-Türkiye
+12-Slovakia
 
 Americas Nations League B
-Participating Nations: 7
+Participating Nations: 8
 Promoted:
-Mexico
+Brazil
 Results:
-1-Mexico
-2-U.S. Virgin Islands
-3-Dominican Republic
-4-Guyana
-5-Brazil
-6-Jamaica
-7-Puerto Rico
+1-Brazil
+2-Mexico
+3-United States of America
+4-Jamaica
+5-Dominican Republic
+6-Guyana
+7-Bolivia
+8-U.S. Virgin Islands
 
 Asia Pacific Nations League B
 Participating Nations: 12
 Promoted:
-Kuwait
+Hong Kong
 Relegated:
-Australia
-Japan
-New Zealand
+Kuwait
+India
+Saudi Arabia
+Chinese Taipei
 Results:
-1-Kuwait
-2-Korea
-3-Phillipines
-4-Saudi Arabia
-5-Afghanistan
-6-Mongolia
-7-Kyrgyzstan
-8-Chinese Taipei
-9-Qatar
-10-New Zealand
-11-Japan
-12-Australia
+1-Hong Kong
+2-Kenya
+3-Kazakhstan
+4-Australia
+5-Qatar
+6-Turkmenistan
+7-Mongolia
+8-Nigeria
+9-Chinese Taipei
+10-Saudi Arabia
+11-India
+12-Kuwait
 
 European Nations League A
 Participating Nations: 10
-Winner: Czechia
+Winner: Italy
 Results:
-1-Czechia
-2-Croatia
-3-Scotland
-4-Lithuania
-5-Sweden
-6-Germany
-7-Bosnia & Herzegovina
-8-Finland
-9-Kosovo
-10-England
+1-Italy
+2-Czechia
+3-Switzerland
+4-Scotland
+5-Hungary
+6-Slovenia
+7-France
+8-Netherlands
+9-Norway
+10-Belgium
 
 Pan Continental Nations League A
 Participating Nations: 8
-Winner: United States of America
+Winner: Kyrgyzstan
 Results:
-1-United States of America
-2-Bolivia
-3-Nigeria
-4-Hong Kong
-5-Canada
-6-Kuwait
-7-Mexico
-8-U.S. Virgin Islands
+1-Kyrgyzstan
+2-Korea
+3-Brazil
+4-Japan
+5-Mexico
+6-Hong Kong
+7-Canada
+8-Puerto Rico
 
 World Championships Results
 Participating Nations: 16
-Winner: Sweden
+Winner: Japan
 Relegated:
-Finland
-England
-Croatia
-Hong Kong
+Slovenia
+Norway
+Puerto Rico
+Switzerland
 Results:
-1-Sweden
-2-Scotland
-3-Kosovo
-4-Mexico
-5-Canada
-6-United States of America
-7-Germany
-8-Nigeria
-9-Bolivia
-10-Kuwait
-11-Lithuania
-12-Czechia
-13-Hong Kong
-14-Croatia
-15-England
-16-Finland
+1-Japan
+2-Brazil
+3-France
+4-Hungary
+5-Netherlands
+6-Kyrgyzstan
+7-Scotland
+8-Czechia
+9-Belgium
+10-Hong Kong
+11-Korea
+12-Canada
+13-Switzerland
+14-Puerto Rico
+15-Norway
+16-Slovenia
 
 European Nations League C
 Participating Nations: 12
 Promoted:
-Russia
-Netherlands
-Iceland
+Finland
+Portugal
+Latvia
 Relegated:
-Switzerland
-Romania
-Ukraine
+Liechtenstein
+Serbia
+Austria
 Results:
-1-Russia
-2-Netherlands
-3-Iceland
-4-Slovenia
-5-Wales
-6-Spain
-7-Türkiye
-8-Italy
-9-Slovakia
-10-Ukraine
-11-Romania
-12-Switzerland
+1-Finland
+2-Portugal
+3-Latvia
+4-Bulgaria
+5-Kosovo
+6-Romania
+7-Denmark
+8-Ireland
+9-Croatia
+10-Austria
+11-Serbia
+12-Liechtenstein
 
 European Nations League D
 Participating Nations: 12
 Promoted:
-Georgia
-Ireland
+Iceland
+Russia
 Results:
-1-Georgia
-2-Ireland
-3-Greece
-4-France
-5-Serbia
-6-Denmark
-7-Belgium
-8-Belarus
-9-Latvia
-10-Estonia
+1-Iceland
+2-Russia
+3-Lithuania
+4-Bosnia & Herzegovina
+5-Belarus
+6-Estonia
+7-Monaco
+8-Georgia
+9-Greece
+10-Poland
 11-Luxembourg
-12-Bulgaria
+12-Israel
 
 Asia Pacific Nations League C
-Participating Nations: 7
+Participating Nations: 6
 Promoted:
-Pakistan
-India
 Thailand
+Phillipines
+Afghanistan
+Pakistan
+China
 Results:
-1-Pakistan
-2-India
-3-Thailand
-4-China
-5-Kazakhstan
-6-Kenya
-7-Turkmenistan
+1-Thailand
+2-Phillipines
+3-Afghanistan
+4-Pakistan
+5-China
+6-New Zealand
 
 
-Year 6
+Year 3
 
 European Nations League
 A division nations: 6
@@ -1327,8 +542,544 @@ C division nations: 12
 D division nations: 13
 
 Americas Nations League
+A division nations: 2
+B division nations: 8
+
+Asia Pacific Nations League
 A division nations: 4
-B division nations: 6
+B division nations: 12
+C division nations: 5
+
+Nations Ranking
+1 - Scotland - Points: [0.0, 22.817, 66.0, 69.5]
+2 - Japan - Points: [0.0, 7.436, 45.0, 93.0]
+3 - Switzerland - Points: [0.0, 16.907, 72.0, 41.0]
+4 - France - Points: [0.0, 1.42, 41.25, 85.0]
+5 - Korea - Points: [0.0, 12.94, 69.0, 45.0]
+6 - Kyrgyzstan - Points: [0.0, 0.494, 55.05, 71.0]
+7 - Netherlands - Points: [0.0, 6.2, 43.125, 73.5]
+8 - Czechia - Points: [0.0, 7.247, 48.0, 67.5]
+9 - Canada - Points: [0.0, 29.282, 55.5, 35.0]
+10 - Belgium - Points: [0.0, 2.022, 60.375, 50.5]
+11 - Hungary - Points: [0.0, 1.814, 9.0, 98.0]
+12 - Brazil - Points: [0.0, 1.262, 1.013, 91.4]
+13 - Puerto Rico - Points: [0.0, 0.0, 60.3, 24.0]
+14 - Italy - Points: [0.0, 18.216, 24.0, 38.0]
+15 - Sweden - Points: [0.0, 31.532, 19.875, 12.0]
+16 - Norway - Points: [0.0, 9.856, 30.375, 22.0]
+17 - Hong Kong - Points: [0.0, 1.038, 1.013, 48.4]
+18 - Slovenia - Points: [0.0, 1.331, 3.6, 37.5]
+19 - United States of America - Points: [0.0, 14.361, 18.0, 2.1]
+20 - Germany - Points: [0.0, 9.634, 13.875, 10.0]
+21 - Spain - Points: [0.0, 3.247, 10.5, 11.0]
+22 - New Zealand - Points: [0.0, 18.216, 0.675, 1.65]
+23 - Wales - Points: [0.0, 1.845, 8.25, 9.0]
+24 - Ukraine - Points: [0.0, 1.0, 3.375, 13.0]
+25 - Chinese Taipei - Points: [0.0, 3.053, 12.938, 1.2]
+26 - Türkiye - Points: [0.0, 4.394, 6.75, 6.0]
+27 - England - Points: [0.0, 2.527, 7.5, 7.0]
+28 - Slovakia - Points: [0.0, 1.947, 9.75, 5.0]
+29 - Mexico - Points: [0.0, 0.638, 1.237, 14.25]
+30 - Finland - Points: [0.0, 4.452, 4.5, 4.8]
+31 - Denmark - Points: [0.0, 4.463, 5.25, 3.0]
+32 - Andorra - Points: [0.0, 0.638, 3.15, 8.0]
+33 - Bolivia - Points: [0.0, 0.0, 9.938, 1.5]
+34 - Latvia - Points: [0.0, 3.053, 3.75, 4.2]
+35 - Austria - Points: [0.0, 2.547, 6.0, 2.1]
+36 - Portugal - Points: [0.0, 0.74, 2.475, 4.5]
+37 - Russia - Points: [0.0, 4.585, 0.675, 2.25]
+38 - Bulgaria - Points: [0.0, 0.637, 2.7, 3.9]
+39 - Romania - Points: [0.0, 0.885, 2.925, 3.3]
+40 - China - Points: [0.0, 3.676, 0.562, 1.8]
+41 - Ireland - Points: [0.0, 1.3, 2.025, 2.7]
+42 - Croatia - Points: [0.0, 0.767, 2.25, 2.4]
+43 - Kosovo - Points: [0.0, 0.0, 1.8, 3.6]
+44 - Australia - Points: [0.0, 2.083, 0.9, 1.95]
+45 - Estonia - Points: [0.0, 1.754, 1.35, 1.65]
+46 - Kazakhstan - Points: [0.0, 1.083, 1.35, 2.1]
+47 - Kenya - Points: [0.0, 0.264, 1.688, 2.25]
+48 - Liechtenstein - Points: [0.0, 0.799, 1.8, 1.5]
+49 - Guyana - Points: [0.0, 1.162, 1.125, 1.65]
+50 - Lithuania - Points: [0.0, 0.693, 1.125, 2.1]
+51 - Iceland - Points: [0.0, 0.0, 1.35, 2.4]
+52 - Qatar - Points: [0.0, 0.604, 1.237, 1.8]
+53 - Thailand - Points: [0.0, 0.0, 1.237, 2.4]
+54 - Poland - Points: [0.0, 0.972, 1.575, 1.05]
+55 - Phillipines - Points: [0.0, 0.507, 0.788, 2.25]
+56 - Belarus - Points: [0.0, 0.609, 1.125, 1.8]
+57 - Jamaica - Points: [0.0, 0.0, 1.575, 1.95]
+58 - Serbia - Points: [0.0, 0.0, 1.688, 1.8]
+59 - Nigeria - Points: [0.0, 0.528, 1.575, 1.35]
+60 - Pakistan - Points: [0.0, 0.0, 1.35, 1.95]
+61 - Dominican Republic - Points: [0.0, 0.0, 1.462, 1.8]
+62 - Afghanistan - Points: [0.0, 0.0, 1.125, 2.1]
+63 - Turkmenistan - Points: [0.0, 0.0, 1.462, 1.65]
+64 - Mongolia - Points: [0.0, 0.0, 1.575, 1.5]
+65 - Monaco - Points: [0.0, 0.0, 1.575, 1.5]
+66 - India - Points: [0.0, 0.654, 1.462, 0.9]
+67 - Bosnia & Herzegovina - Points: [0.0, 0.0, 1.013, 1.95]
+68 - U.S. Virgin Islands - Points: [0.0, 0.0, 1.35, 1.35]
+69 - Saudi Arabia - Points: [0.0, 0.489, 1.125, 1.05]
+70 - Kuwait - Points: [0.0, 0.0, 1.8, 0.75]
+71 - Georgia - Points: [0.0, 0.233, 0.9, 1.35]
+72 - Israel - Points: [0.0, 0.143, 1.462, 0.75]
+73 - Luxembourg - Points: [0.0, 0.215, 1.237, 0.9]
+74 - Greece - Points: [0.0, 0.355, 0.788, 1.2]
+
+European Nations League B
+Participating Nations: 12
+Promoted:
+Latvia
+Italy
+Relegated:
+Germany
+Spain
+Slovenia
+Norway
+Results:
+1-Latvia
+2-Italy
+3-Finland
+4-Wales
+5-Portugal
+6-Sweden
+7-Switzerland
+8-Ukraine
+9-Norway
+10-Slovenia
+11-Spain
+12-Germany
+
+Americas Nations League B
+Participating Nations: 8
+Promoted:
+Dominican Republic
+Results:
+1-Dominican Republic
+2-Guyana
+3-U.S. Virgin Islands
+4-Puerto Rico
+5-Jamaica
+6-Bolivia
+7-Mexico
+8-United States of America
+
+Asia Pacific Nations League B
+Participating Nations: 12
+Promoted:
+Qatar
+Relegated:
+Turkmenistan
+Australia
+Kenya
+Phillipines
+Results:
+1-Qatar
+2-Mongolia
+3-Kazakhstan
+4-Afghanistan
+5-Pakistan
+6-Nigeria
+7-China
+8-Thailand
+9-Phillipines
+10-Kenya
+11-Australia
+12-Turkmenistan
+
+European Nations League A
+Participating Nations: 10
+Winner: Scotland
+Results:
+1-Scotland
+2-France
+3-Latvia
+4-Italy
+5-Belgium
+6-Finland
+7-Czechia
+8-Wales
+9-Netherlands
+10-Hungary
+
+Pan Continental Nations League A
+Participating Nations: 8
+Winner: Brazil
+Results:
+1-Brazil
+2-Japan
+3-Qatar
+4-Hong Kong
+5-Dominican Republic
+6-Canada
+7-Kyrgyzstan
+8-Korea
+
+World Championships Results
+Participating Nations: 16
+Winner: Canada
+Relegated:
+Netherlands
+Brazil
+Qatar
+Japan
+Results:
+1-Canada
+2-Italy
+3-France
+4-Latvia
+5-Dominican Republic
+6-Hungary
+7-Kyrgyzstan
+8-Korea
+9-Scotland
+10-Hong Kong
+11-Czechia
+12-Belgium
+13-Japan
+14-Qatar
+15-Brazil
+16-Netherlands
+
+European Nations League C
+Participating Nations: 12
+Promoted:
+Romania
+Ireland
+Russia
+Iceland
+Slovakia
+Relegated:
+Kosovo
+Bulgaria
+Results:
+1-Romania
+2-Ireland
+3-Russia
+4-Iceland
+5-Slovakia
+6-Türkiye
+7-Andorra
+8-Denmark
+9-England
+10-Croatia
+11-Bulgaria
+12-Kosovo
+
+European Nations League D
+Participating Nations: 13
+Promoted:
+Monaco
+Bosnia & Herzegovina
+Georgia
+Results:
+1-Monaco
+2-Bosnia & Herzegovina
+3-Georgia
+4-Greece
+5-Liechtenstein
+6-Poland
+7-Luxembourg
+8-Belarus
+9-Lithuania
+10-Israel
+11-Estonia
+12-Austria
+13-Serbia
+
+Asia Pacific Nations League C
+Participating Nations: 5
+Promoted:
+India
+Saudi Arabia
+Kuwait
+Results:
+1-India
+2-Saudi Arabia
+3-Kuwait
+4-Chinese Taipei
+5-New Zealand
+
+
+Year 4
+
+European Nations League
+A division nations: 7
+B division nations: 12
+C division nations: 12
+D division nations: 12
+
+Americas Nations League
+A division nations: 2
+B division nations: 8
+
+Asia Pacific Nations League
+A division nations: 3
+B division nations: 12
+C division nations: 6
+
+Nations Ranking
+1 - France - Points: [0.355, 20.625, 63.75, 92.5]
+2 - Scotland - Points: [5.704, 33.0, 52.125, 64.0]
+3 - Italy - Points: [4.554, 12.0, 28.5, 109.5]
+4 - Canada - Points: [7.321, 27.75, 26.25, 91.0]
+5 - Hungary - Points: [0.454, 4.5, 73.5, 65.5]
+6 - Kyrgyzstan - Points: [0.123, 27.525, 53.25, 60.0]
+7 - Japan - Points: [1.859, 22.5, 69.75, 35.0]
+8 - Korea - Points: [3.235, 34.5, 33.75, 54.0]
+9 - Czechia - Points: [1.812, 24.0, 50.625, 45.0]
+10 - Belgium - Points: [0.505, 30.188, 37.875, 43.0]
+11 - Latvia - Points: [0.763, 1.875, 3.15, 102.0]
+12 - Brazil - Points: [0.316, 0.506, 68.55, 26.0]
+13 - Netherlands - Points: [1.55, 21.562, 55.125, 17.0]
+14 - Hong Kong - Points: [0.26, 0.506, 36.3, 48.0]
+15 - Switzerland - Points: [4.227, 36.0, 30.75, 10.0]
+16 - Dominican Republic - Points: [0.0, 0.731, 1.35, 74.4]
+17 - Puerto Rico - Points: [0.0, 30.15, 18.0, 1.95]
+18 - Norway - Points: [2.464, 15.188, 16.5, 8.0]
+19 - Wales - Points: [0.461, 4.125, 6.75, 26.5]
+20 - Sweden - Points: [7.883, 9.938, 9.0, 11.0]
+21 - Finland - Points: [1.113, 2.25, 3.6, 30.5]
+22 - Slovenia - Points: [0.333, 1.8, 28.125, 7.0]
+23 - Qatar - Points: [0.151, 0.619, 1.35, 31.4]
+24 - Germany - Points: [2.409, 6.938, 7.5, 5.0]
+25 - Ukraine - Points: [0.25, 1.688, 9.75, 9.0]
+26 - Spain - Points: [0.812, 5.25, 8.25, 6.0]
+27 - Portugal - Points: [0.185, 1.238, 3.375, 12.0]
+28 - United States of America - Points: [3.59, 9.0, 1.575, 1.35]
+29 - Mexico - Points: [0.16, 0.619, 10.688, 1.5]
+30 - Slovakia - Points: [0.487, 4.875, 3.75, 3.6]
+31 - Türkiye - Points: [1.099, 3.375, 4.5, 3.3]
+32 - England - Points: [0.632, 3.75, 5.25, 2.4]
+33 - Andorra - Points: [0.16, 1.575, 6.0, 3.0]
+34 - Chinese Taipei - Points: [0.763, 6.469, 0.9, 1.95]
+35 - Romania - Points: [0.221, 1.462, 2.475, 4.8]
+36 - Denmark - Points: [1.116, 2.625, 2.25, 2.7]
+37 - New Zealand - Points: [4.554, 0.338, 1.237, 1.8]
+38 - Ireland - Points: [0.325, 1.012, 2.025, 4.5]
+39 - Bolivia - Points: [0.0, 4.969, 1.125, 1.65]
+40 - Russia - Points: [1.146, 0.338, 1.688, 4.2]
+41 - Iceland - Points: [0.0, 0.675, 1.8, 3.9]
+42 - Bulgaria - Points: [0.159, 1.35, 2.925, 1.8]
+43 - Austria - Points: [0.637, 3.0, 1.575, 0.75]
+44 - Croatia - Points: [0.192, 1.125, 1.8, 2.1]
+45 - Kosovo - Points: [0.0, 0.9, 2.7, 1.5]
+46 - Kazakhstan - Points: [0.271, 0.675, 1.575, 2.1]
+47 - Guyana - Points: [0.29, 0.562, 1.237, 2.25]
+48 - Monaco - Points: [0.0, 0.787, 1.125, 2.4]
+49 - Bosnia & Herzegovina - Points: [0.0, 0.506, 1.462, 2.25]
+50 - Mongolia - Points: [0.0, 0.787, 1.125, 2.25]
+51 - Afghanistan - Points: [0.0, 0.562, 1.575, 1.95]
+52 - China - Points: [0.919, 0.281, 1.35, 1.5]
+53 - Jamaica - Points: [0.0, 0.787, 1.462, 1.8]
+54 - Liechtenstein - Points: [0.2, 0.9, 1.125, 1.8]
+55 - India - Points: [0.164, 0.731, 0.675, 2.4]
+56 - Pakistan - Points: [0.0, 0.675, 1.462, 1.8]
+57 - U.S. Virgin Islands - Points: [0.0, 0.675, 1.013, 2.1]
+58 - Thailand - Points: [0.0, 0.619, 1.8, 1.35]
+59 - Saudi Arabia - Points: [0.122, 0.562, 0.788, 2.25]
+60 - Kenya - Points: [0.066, 0.844, 1.688, 1.05]
+61 - Georgia - Points: [0.058, 0.45, 1.013, 2.1]
+62 - Nigeria - Points: [0.132, 0.787, 1.013, 1.65]
+63 - Kuwait - Points: [0.0, 0.9, 0.562, 2.1]
+64 - Lithuania - Points: [0.173, 0.562, 1.575, 1.2]
+65 - Poland - Points: [0.243, 0.787, 0.788, 1.65]
+66 - Belarus - Points: [0.152, 0.562, 1.35, 1.35]
+67 - Phillipines - Points: [0.127, 0.394, 1.688, 1.2]
+68 - Greece - Points: [0.089, 0.394, 0.9, 1.95]
+69 - Australia - Points: [0.521, 0.45, 1.462, 0.9]
+70 - Estonia - Points: [0.439, 0.675, 1.237, 0.9]
+71 - Luxembourg - Points: [0.054, 0.619, 0.675, 1.5]
+72 - Serbia - Points: [0.0, 0.844, 1.35, 0.6]
+73 - Turkmenistan - Points: [0.0, 0.731, 1.237, 0.75]
+74 - Israel - Points: [0.036, 0.731, 0.562, 1.05]
+
+European Nations League B
+Participating Nations: 12
+Promoted:
+Ireland
+Iceland
+Relegated:
+Slovakia
+Switzerland
+Romania
+Russia
+Results:
+1-Ireland
+2-Iceland
+3-Wales
+4-Finland
+5-Ukraine
+6-Netherlands
+7-Portugal
+8-Sweden
+9-Russia
+10-Romania
+11-Switzerland
+12-Slovakia
+
+Americas Nations League B
+Participating Nations: 8
+Promoted:
+Brazil
+Results:
+1-Brazil
+2-Bolivia
+3-Guyana
+4-Mexico
+5-Puerto Rico
+6-Jamaica
+7-U.S. Virgin Islands
+8-United States of America
+
+Asia Pacific Nations League B
+Participating Nations: 12
+Promoted:
+Kuwait
+Relegated:
+Qatar
+Thailand
+India
+China
+Results:
+1-Kuwait
+2-Japan
+3-Saudi Arabia
+4-Pakistan
+5-Kazakhstan
+6-Nigeria
+7-Afghanistan
+8-Mongolia
+9-China
+10-India
+11-Thailand
+12-Qatar
+
+European Nations League A
+Participating Nations: 10
+Winner: Iceland
+Results:
+1-Iceland
+2-Belgium
+3-France
+4-Italy
+5-Scotland
+6-Latvia
+7-Ireland
+8-Hungary
+9-Czechia
+10-Wales
+
+Pan Continental Nations League A
+Participating Nations: 8
+Winner: Bolivia
+Results:
+1-Bolivia
+2-Kyrgyzstan
+3-Dominican Republic
+4-Hong Kong
+5-Kuwait
+6-Korea
+7-Canada
+8-Brazil
+
+World Championships Results
+Participating Nations: 16
+Winner: Dominican Republic
+Relegated:
+Brazil
+Scotland
+Korea
+Kyrgyzstan
+Results:
+1-Dominican Republic
+2-Kuwait
+3-Czechia
+4-Ireland
+5-Italy
+6-Latvia
+7-Hong Kong
+8-Iceland
+9-France
+10-Hungary
+11-Belgium
+12-Canada
+13-Kyrgyzstan
+14-Korea
+15-Scotland
+16-Brazil
+
+European Nations League C
+Participating Nations: 12
+Promoted:
+Andorra
+Georgia
+Croatia
+Germany
+Slovenia
+Relegated:
+Spain
+Norway
+Results:
+1-Andorra
+2-Georgia
+3-Croatia
+4-Germany
+5-Slovenia
+6-Monaco
+7-Denmark
+8-Bosnia & Herzegovina
+9-Türkiye
+10-England
+11-Norway
+12-Spain
+
+European Nations League D
+Participating Nations: 12
+Promoted:
+Kosovo
+Greece
+Bulgaria
+Results:
+1-Kosovo
+2-Greece
+3-Bulgaria
+4-Liechtenstein
+5-Poland
+6-Belarus
+7-Estonia
+8-Luxembourg
+9-Israel
+10-Serbia
+11-Austria
+12-Lithuania
+
+Asia Pacific Nations League C
+Participating Nations: 6
+Promoted:
+Turkmenistan
+Chinese Taipei
+Australia
+Results:
+1-Turkmenistan
+2-Chinese Taipei
+3-Australia
+4-Kenya
+5-Phillipines
+6-New Zealand
+
+
+Year 5
+
+European Nations League
+A division nations: 8
+B division nations: 12
+C division nations: 12
+D division nations: 11
+
+Americas Nations League
+A division nations: 2
+B division nations: 8
 
 Asia Pacific Nations League
 A division nations: 2
@@ -1336,252 +1087,520 @@ B division nations: 12
 C division nations: 7
 
 Nations Ranking
-1 - Sweden - Points: [9.047, 27.75, 63.0, 98.0]
-2 - Germany - Points: [9.14, 31.875, 67.125, 66.5]
-3 - Scotland - Points: [6.141, 21.0, 46.125, 96.0]
-4 - United States of America - Points: [4.312, 33.0, 57.0, 71.0]
-5 - Canada - Points: [3.375, 1.125, 69.0, 72.0]
-6 - Czechia - Points: [5.484, 28.688, 52.5, 49.0]
-7 - Croatia - Points: [0.422, 2.625, 88.875, 37.5]
-8 - Bolivia - Points: [3.75, 24.75, 36.75, 55.0]
-9 - Nigeria - Points: [0.234, 22.5, 35.25, 59.0]
-10 - England - Points: [7.312, 34.5, 53.25, 20.5]
-11 - Kosovo - Points: [0.515, 1.875, 6.0, 97.0]
-12 - Lithuania - Points: [7.969, 16.125, 31.5, 49.5]
-13 - Mexico - Points: [1.195, 1.031, 2.062, 79.0]
-14 - Finland - Points: [3.797, 11.812, 32.25, 34.5]
-15 - Hong Kong - Points: [0.141, 0.938, 32.25, 33.0]
-16 - Norway - Points: [3.75, 24.188, 25.125, 13.0]
-17 - Kuwait - Points: [0.703, 0.562, 5.25, 50.0]
-18 - Puerto Rico - Points: [7.594, 28.125, 15.75, 2.5]
-19 - Hungary - Points: [4.875, 16.312, 19.125, 9.0]
-20 - Poland - Points: [0.75, 17.812, 10.5, 7.0]
-21 - Bosnia & Herzegovina - Points: [0.281, 1.5, 5.25, 29.0]
-22 - U.S. Virgin Islands - Points: [0.281, 1.219, 14.062, 12.75]
-23 - Andorra - Points: [0.844, 5.25, 9.75, 10.0]
-24 - Portugal - Points: [1.125, 3.375, 8.25, 11.0]
-25 - Israel - Points: [0.469, 2.812, 7.5, 12.0]
-26 - Qatar - Points: [6.375, 12.0, 2.062, 2.0]
-27 - Austria - Points: [1.312, 4.875, 9.0, 6.0]
-28 - Monaco - Points: [0.351, 3.0, 6.75, 8.0]
-29 - Netherlands - Points: [3.656, 2.625, 3.0, 7.5]
-30 - Mongolia - Points: [0.656, 3.0, 10.312, 2.75]
-31 - Slovenia - Points: [0.656, 4.5, 4.5, 6.5]
-32 - Dominican Republic - Points: [0.234, 10.5, 1.875, 3.5]
-33 - Pakistan - Points: [0.515, 2.25, 4.5, 8.0]
-34 - India - Points: [0.562, 2.438, 4.125, 7.5]
-35 - Spain - Points: [0.469, 2.438, 6.0, 5.5]
-36 - Iceland - Points: [0.375, 1.312, 4.875, 7.0]
-37 - China - Points: [0.469, 1.688, 4.875, 6.5]
-38 - Wales - Points: [0.703, 3.0, 3.75, 6.0]
-39 - Liechtenstein - Points: [0.75, 2.062, 5.625, 5.0]
-40 - Switzerland - Points: [2.906, 4.125, 3.75, 2.5]
-41 - Romania - Points: [1.219, 3.75, 5.25, 3.0]
-42 - Thailand - Points: [1.758, 0.469, 3.75, 7.0]
-43 - Jamaica - Points: [0.258, 7.031, 2.438, 2.75]
-44 - Türkiye - Points: [0.938, 1.875, 4.5, 5.0]
-45 - Russia - Points: [0.164, 0.844, 2.812, 8.0]
-46 - Kenya - Points: [0.61, 1.875, 3.375, 5.5]
-47 - Italy - Points: [0.656, 1.688, 4.125, 4.5]
-48 - Japan - Points: [0.281, 6.656, 2.25, 1.5]
-49 - Slovakia - Points: [0.61, 2.25, 3.375, 4.0]
-50 - New Zealand - Points: [0.375, 2.062, 6.0, 1.75]
-51 - Australia - Points: [0.117, 2.625, 5.625, 1.25]
-52 - Turkmenistan - Points: [0.422, 2.812, 1.125, 5.0]
-53 - Brazil - Points: [1.547, 1.312, 2.25, 3.0]
-54 - Ukraine - Points: [0.234, 1.312, 3.0, 3.5]
-55 - Kazakhstan - Points: [0.211, 0.656, 0.938, 6.0]
-56 - Korea - Points: [0.164, 1.125, 2.438, 3.75]
-57 - Latvia - Points: [1.031, 2.25, 1.875, 2.0]
-58 - Guyana - Points: [0.305, 0.938, 2.625, 3.25]
-59 - Georgia - Points: [0.258, 0.75, 1.875, 4.0]
-60 - Denmark - Points: [0.562, 0.938, 2.625, 2.75]
-61 - Phillipines - Points: [0.188, 1.312, 1.875, 3.5]
-62 - Greece - Points: [0.211, 1.031, 2.062, 3.5]
-63 - Saudi Arabia - Points: [0.328, 1.219, 1.688, 3.25]
-64 - Belgium - Points: [0.281, 1.406, 2.25, 2.5]
-65 - Estonia - Points: [0.375, 1.5, 2.625, 1.75]
-66 - France - Points: [0.328, 0.938, 1.688, 3.25]
-67 - Kyrgyzstan - Points: [0.305, 0.75, 2.625, 2.5]
-68 - Serbia - Points: [0.188, 0.656, 2.25, 3.0]
-69 - Ireland - Points: [0.234, 0.562, 1.5, 3.75]
-70 - Afghanistan - Points: [0.75, 0.844, 1.312, 3.0]
-71 - Bulgaria - Points: [0.562, 1.125, 2.438, 1.25]
-72 - Belarus - Points: [0.328, 1.219, 1.312, 2.25]
-73 - Chinese Taipei - Points: [0.258, 1.031, 1.5, 2.25]
-74 - Luxembourg - Points: [0.305, 1.125, 1.125, 1.5]
+1 - Italy - Points: [3.0, 14.25, 82.125, 79.5]
+2 - France - Points: [5.156, 31.875, 69.375, 61.0]
+3 - Dominican Republic - Points: [0.183, 0.675, 55.8, 94.0]
+4 - Latvia - Points: [0.469, 1.575, 76.5, 71.5]
+5 - Czechia - Points: [6.0, 25.312, 33.75, 82.0]
+6 - Hungary - Points: [1.125, 36.75, 49.125, 48.5]
+7 - Canada - Points: [6.938, 13.125, 68.25, 35.0]
+8 - Hong Kong - Points: [0.127, 18.15, 36.0, 63.0]
+9 - Kyrgyzstan - Points: [6.881, 26.625, 45.0, 35.0]
+10 - Belgium - Points: [7.547, 18.938, 32.25, 52.5]
+11 - Scotland - Points: [8.25, 26.062, 48.0, 28.0]
+12 - Ireland - Points: [0.253, 1.012, 3.375, 96.0]
+13 - Korea - Points: [8.625, 16.875, 40.5, 26.0]
+14 - Kuwait - Points: [0.225, 0.281, 1.575, 89.4]
+15 - Iceland - Points: [0.169, 0.9, 2.925, 84.0]
+16 - Brazil - Points: [0.127, 34.275, 19.5, 16.4]
+17 - Japan - Points: [5.625, 34.875, 26.25, 2.25]
+18 - Netherlands - Points: [5.391, 27.562, 12.75, 11.0]
+19 - Wales - Points: [1.031, 3.375, 19.875, 24.5]
+20 - Finland - Points: [0.562, 1.8, 22.875, 13.0]
+21 - Switzerland - Points: [9.0, 15.375, 7.5, 6.0]
+22 - Qatar - Points: [0.155, 0.675, 23.55, 0.75]
+23 - Sweden - Points: [2.485, 4.5, 8.25, 9.0]
+24 - Ukraine - Points: [0.422, 4.875, 6.75, 12.0]
+25 - Slovenia - Points: [0.45, 14.062, 5.25, 3.6]
+26 - Bolivia - Points: [1.242, 0.562, 1.237, 18.25]
+27 - Portugal - Points: [0.309, 1.688, 9.0, 10.0]
+28 - Norway - Points: [3.797, 8.25, 6.0, 1.8]
+29 - Puerto Rico - Points: [7.537, 9.0, 1.462, 1.8]
+30 - Germany - Points: [1.734, 3.75, 3.75, 3.9]
+31 - Romania - Points: [0.365, 1.238, 3.6, 7.0]
+32 - Russia - Points: [0.085, 0.844, 3.15, 8.0]
+33 - Spain - Points: [1.312, 4.125, 4.5, 1.5]
+34 - Slovakia - Points: [1.219, 1.875, 2.7, 5.0]
+35 - Andorra - Points: [0.394, 3.0, 2.25, 4.8]
+36 - Mexico - Points: [0.155, 5.344, 1.125, 1.95]
+37 - Türkiye - Points: [0.844, 2.25, 2.475, 2.4]
+38 - England - Points: [0.938, 2.625, 1.8, 2.1]
+39 - Croatia - Points: [0.281, 0.9, 1.575, 4.2]
+40 - Denmark - Points: [0.656, 1.125, 2.025, 3.0]
+41 - Georgia - Points: [0.113, 0.506, 1.575, 4.5]
+42 - Monaco - Points: [0.197, 0.562, 1.8, 3.3]
+43 - Chinese Taipei - Points: [1.617, 0.45, 1.462, 2.25]
+44 - United States of America - Points: [2.25, 0.787, 1.013, 1.35]
+45 - Bulgaria - Points: [0.338, 1.462, 1.35, 2.1]
+46 - Bosnia & Herzegovina - Points: [0.127, 0.731, 1.688, 2.7]
+47 - Kosovo - Points: [0.225, 1.35, 1.125, 2.4]
+48 - Guyana - Points: [0.141, 0.619, 1.688, 2.1]
+49 - Kazakhstan - Points: [0.169, 0.787, 1.575, 1.8]
+50 - Saudi Arabia - Points: [0.141, 0.394, 1.688, 2.1]
+51 - Greece - Points: [0.099, 0.45, 1.462, 2.25]
+52 - Pakistan - Points: [0.169, 0.731, 1.35, 1.95]
+53 - Liechtenstein - Points: [0.225, 0.562, 1.35, 1.95]
+54 - Jamaica - Points: [0.197, 0.731, 1.35, 1.65]
+55 - Afghanistan - Points: [0.141, 0.787, 1.462, 1.5]
+56 - Mongolia - Points: [0.197, 0.562, 1.688, 1.35]
+57 - Kenya - Points: [0.211, 0.844, 0.788, 1.95]
+58 - Turkmenistan - Points: [0.183, 0.619, 0.562, 2.4]
+59 - U.S. Virgin Islands - Points: [0.169, 0.506, 1.575, 1.5]
+60 - New Zealand - Points: [0.085, 0.619, 1.35, 1.65]
+61 - Phillipines - Points: [0.099, 0.844, 0.9, 1.8]
+62 - Poland - Points: [0.197, 0.394, 1.237, 1.8]
+63 - Australia - Points: [0.113, 0.731, 0.675, 2.1]
+64 - Nigeria - Points: [0.197, 0.506, 1.237, 1.65]
+65 - Belarus - Points: [0.141, 0.675, 1.013, 1.65]
+66 - India - Points: [0.183, 0.338, 1.8, 1.05]
+67 - China - Points: [0.07, 0.675, 1.125, 1.2]
+68 - Austria - Points: [0.75, 0.787, 0.562, 0.9]
+69 - Luxembourg - Points: [0.155, 0.338, 1.125, 1.35]
+70 - Thailand - Points: [0.155, 0.9, 1.013, 0.9]
+71 - Estonia - Points: [0.169, 0.619, 0.675, 1.5]
+72 - Lithuania - Points: [0.141, 0.787, 0.9, 0.75]
+73 - Israel - Points: [0.183, 0.281, 0.788, 1.2]
+74 - Serbia - Points: [0.211, 0.675, 0.45, 1.05]
 
 European Nations League B
 Participating Nations: 12
 Promoted:
-Finland
-Hungary
+Sweden
+Slovenia
 Relegated:
-Portugal
 Andorra
-England
-Croatia
+Wales
+Finland
+Ukraine
 Results:
-1-Finland
-2-Hungary
+1-Sweden
+2-Slovenia
 3-Netherlands
-4-Iceland
-5-Israel
-6-Norway
-7-Bosnia & Herzegovina
-8-Russia
-9-Croatia
-10-England
-11-Andorra
-12-Portugal
+4-Georgia
+5-Portugal
+6-Germany
+7-Scotland
+8-Croatia
+9-Ukraine
+10-Finland
+11-Wales
+12-Andorra
 
 Americas Nations League B
-Participating Nations: 6
+Participating Nations: 8
 Promoted:
-Puerto Rico
+U.S. Virgin Islands
 Results:
-1-Puerto Rico
-2-Dominican Republic
-3-Brazil
-4-Guyana
-5-U.S. Virgin Islands
-6-Jamaica
+1-U.S. Virgin Islands
+2-Guyana
+3-United States of America
+4-Jamaica
+5-Puerto Rico
+6-Bolivia
+7-Mexico
+8-Brazil
 
 Asia Pacific Nations League B
 Participating Nations: 12
 Promoted:
-Chinese Taipei
+Saudi Arabia
 Relegated:
-Hong Kong
-Thailand
-Pakistan
+Chinese Taipei
+Nigeria
+Japan
 Results:
-1-Chinese Taipei
-2-Afghanistan
-3-Saudi Arabia
-4-Qatar
-5-Kyrgyzstan
-6-Korea
-7-Mongolia
-8-Phillipines
-9-India
-10-Pakistan
-11-Thailand
-12-Hong Kong
+1-Saudi Arabia
+2-Kyrgyzstan
+3-Kazakhstan
+4-Turkmenistan
+5-Korea
+6-Pakistan
+7-Australia
+8-Mongolia
+9-Afghanistan
+10-Japan
+11-Nigeria
+12-Chinese Taipei
 
 European Nations League A
 Participating Nations: 10
 Winner: Iceland
 Results:
 1-Iceland
-2-Sweden
-3-Hungary
-4-Finland
-5-Lithuania
-6-Germany
-7-Czechia
-8-Scotland
-9-Kosovo
-10-Netherlands
+2-Slovenia
+3-Latvia
+4-Ireland
+5-Hungary
+6-Italy
+7-Belgium
+8-Czechia
+9-Sweden
+10-France
 
 Pan Continental Nations League A
 Participating Nations: 8
-Winner: Puerto Rico
+Winner: U.S. Virgin Islands
 Results:
-1-Puerto Rico
-2-United States of America
-3-Nigeria
-4-Chinese Taipei
-5-Mexico
-6-Bolivia
+1-U.S. Virgin Islands
+2-Guyana
+3-Canada
+4-Saudi Arabia
+5-Hong Kong
+6-Kyrgyzstan
 7-Kuwait
-8-Canada
+8-Dominican Republic
 
 World Championships Results
 Participating Nations: 16
-Winner: Chinese Taipei
+Winner: Czechia
 Relegated:
-Kosovo
-Kuwait
-Nigeria
-Mexico
+Sweden
+Belgium
+Canada
+Italy
 Results:
-1-Chinese Taipei
-2-Finland
-3-Canada
-4-Germany
-5-Hungary
-6-United States of America
-7-Scotland
-8-Lithuania
-9-Bolivia
-10-Sweden
-11-Czechia
-12-Puerto Rico
-13-Mexico
-14-Nigeria
-15-Kuwait
-16-Kosovo
+1-Czechia
+2-U.S. Virgin Islands
+3-France
+4-Hungary
+5-Saudi Arabia
+6-Ireland
+7-Latvia
+8-Slovenia
+9-Hong Kong
+10-Iceland
+11-Dominican Republic
+12-Kuwait
+13-Italy
+14-Canada
+15-Belgium
+16-Sweden
 
 European Nations League C
 Participating Nations: 12
 Promoted:
-Poland
-Austria
-Georgia
-Spain
-Slovenia
+Bulgaria
+Slovakia
+Monaco
 Relegated:
-Liechtenstein
-Ireland
+England
+Switzerland
+Greece
 Results:
-1-Poland
-2-Austria
-3-Georgia
-4-Spain
-5-Slovenia
-6-Italy
-7-Slovakia
-8-Wales
-9-Türkiye
-10-Monaco
-11-Ireland
-12-Liechtenstein
+1-Bulgaria
+2-Slovakia
+3-Monaco
+4-Romania
+5-Kosovo
+6-Bosnia & Herzegovina
+7-Russia
+8-Türkiye
+9-Denmark
+10-Greece
+11-Switzerland
+12-England
 
 European Nations League D
-Participating Nations: 13
+Participating Nations: 11
 Promoted:
-Luxembourg
 Estonia
-Latvia
+Norway
 Results:
-1-Luxembourg
-2-Estonia
-3-Latvia
-4-France
-5-Romania
-6-Serbia
-7-Belgium
+1-Estonia
+2-Norway
+3-Liechtenstein
+4-Serbia
+5-Poland
+6-Austria
+7-Lithuania
 8-Belarus
-9-Ukraine
-10-Bulgaria
-11-Switzerland
-12-Denmark
-13-Greece
+9-Spain
+10-Israel
+11-Luxembourg
 
 Asia Pacific Nations League C
 Participating Nations: 7
 Promoted:
-China
-Turkmenistan
+Phillipines
+Kenya
+Thailand
+New Zealand
 Results:
-1-China
-2-Turkmenistan
-3-Kazakhstan
-4-Kenya
-5-Japan
-6-Australia
+1-Phillipines
+2-Kenya
+3-Thailand
+4-New Zealand
+5-China
+6-Qatar
+7-India
+
+
+Year 6
+
+European Nations League
+A division nations: 7
+B division nations: 12
+C division nations: 12
+D division nations: 12
+
+Americas Nations League
+A division nations: 2
+B division nations: 8
+
+Asia Pacific Nations League
+A division nations: 3
+B division nations: 12
+C division nations: 6
+
+Nations Ranking
+1 - Czechia - Points: [6.328, 16.875, 61.5, 93.5]
+2 - France - Points: [7.969, 34.688, 45.75, 80.5]
+3 - Latvia - Points: [0.394, 38.25, 53.625, 71.0]
+4 - Hungary - Points: [9.188, 24.562, 36.375, 83.0]
+5 - Ireland - Points: [0.253, 1.688, 72.0, 74.5]
+6 - Italy - Points: [3.562, 41.062, 59.625, 36.5]
+7 - Dominican Republic - Points: [0.169, 27.9, 70.5, 39.0]
+8 - Iceland - Points: [0.225, 1.462, 63.0, 59.0]
+9 - Hong Kong - Points: [4.537, 18.0, 47.25, 52.0]
+10 - Kuwait - Points: [0.07, 0.787, 67.05, 35.0]
+11 - U.S. Virgin Islands - Points: [0.127, 0.787, 1.125, 93.4]
+12 - Canada - Points: [3.281, 34.125, 26.25, 29.0]
+13 - Slovenia - Points: [3.515, 2.625, 2.7, 82.5]
+14 - Belgium - Points: [4.734, 16.125, 39.375, 25.0]
+15 - Saudi Arabia - Points: [0.099, 0.844, 1.575, 75.4]
+16 - Kyrgyzstan - Points: [6.656, 22.5, 26.25, 13.25]
+17 - Scotland - Points: [6.516, 24.0, 21.0, 10.0]
+18 - Korea - Points: [4.219, 20.25, 19.5, 1.8]
+19 - Sweden - Points: [1.125, 4.125, 6.75, 33.0]
+20 - Netherlands - Points: [6.891, 6.375, 8.25, 14.0]
+21 - Wales - Points: [0.844, 9.938, 18.375, 6.0]
+22 - Brazil - Points: [8.569, 9.75, 12.3, 1.35]
+23 - Finland - Points: [0.45, 11.438, 9.75, 7.0]
+24 - Japan - Points: [8.719, 13.125, 1.688, 1.05]
+25 - Portugal - Points: [0.422, 4.5, 7.5, 12.0]
+26 - Ukraine - Points: [1.219, 3.375, 9.0, 8.0]
+27 - Guyana - Points: [0.155, 0.844, 1.575, 17.25]
+28 - Georgia - Points: [0.127, 0.787, 3.375, 13.0]
+29 - Germany - Points: [0.938, 1.875, 2.925, 11.0]
+30 - Bolivia - Points: [0.141, 0.619, 13.688, 1.65]
+31 - Qatar - Points: [0.169, 11.775, 0.562, 1.65]
+32 - Switzerland - Points: [3.844, 3.75, 4.5, 1.8]
+33 - Croatia - Points: [0.225, 0.787, 3.15, 9.0]
+34 - Romania - Points: [0.309, 1.8, 5.25, 3.9]
+35 - Russia - Points: [0.211, 1.575, 6.0, 3.0]
+36 - Andorra - Points: [0.75, 1.125, 3.6, 5.0]
+37 - Slovakia - Points: [0.469, 1.35, 3.75, 4.5]
+38 - Norway - Points: [2.062, 3.0, 1.35, 2.25]
+39 - Monaco - Points: [0.141, 0.9, 2.475, 4.2]
+40 - Bulgaria - Points: [0.365, 0.675, 1.575, 4.8]
+41 - Bosnia & Herzegovina - Points: [0.183, 0.844, 2.025, 3.3]
+42 - Türkiye - Points: [0.562, 1.238, 1.8, 2.7]
+43 - Kosovo - Points: [0.338, 0.562, 1.8, 3.6]
+44 - Puerto Rico - Points: [2.25, 0.731, 1.35, 1.8]
+45 - Denmark - Points: [0.281, 1.012, 2.25, 2.4]
+46 - Spain - Points: [1.031, 2.25, 1.125, 1.2]
+47 - Mexico - Points: [1.336, 0.562, 1.462, 1.5]
+48 - Greece - Points: [0.113, 0.731, 1.688, 2.1]
+49 - England - Points: [0.656, 0.9, 1.575, 1.5]
+50 - Kazakhstan - Points: [0.197, 0.787, 1.35, 2.1]
+51 - Phillipines - Points: [0.211, 0.45, 1.35, 2.4]
+52 - Liechtenstein - Points: [0.141, 0.675, 1.462, 2.1]
+53 - Kenya - Points: [0.211, 0.394, 1.462, 2.25]
+54 - Turkmenistan - Points: [0.155, 0.281, 1.8, 1.95]
+55 - Jamaica - Points: [0.183, 0.675, 1.237, 1.95]
+56 - Estonia - Points: [0.155, 0.338, 1.125, 2.4]
+57 - New Zealand - Points: [0.155, 0.675, 1.237, 1.95]
+58 - Pakistan - Points: [0.183, 0.675, 1.462, 1.65]
+59 - Poland - Points: [0.099, 0.619, 1.35, 1.8]
+60 - United States of America - Points: [0.197, 0.506, 1.013, 2.1]
+61 - Australia - Points: [0.183, 0.338, 1.575, 1.5]
+62 - Thailand - Points: [0.225, 0.506, 0.675, 2.1]
+63 - China - Points: [0.169, 0.562, 0.9, 1.8]
+64 - Mongolia - Points: [0.141, 0.844, 1.013, 1.35]
+65 - Chinese Taipei - Points: [0.113, 0.731, 1.688, 0.75]
+66 - India - Points: [0.085, 0.9, 0.788, 1.5]
+67 - Belarus - Points: [0.169, 0.506, 1.237, 1.35]
+68 - Afghanistan - Points: [0.197, 0.731, 1.125, 1.2]
+69 - Serbia - Points: [0.169, 0.225, 0.788, 1.95]
+70 - Nigeria - Points: [0.127, 0.619, 1.237, 0.9]
+71 - Austria - Points: [0.197, 0.281, 0.675, 1.65]
+72 - Lithuania - Points: [0.197, 0.45, 0.562, 1.5]
+73 - Luxembourg - Points: [0.085, 0.562, 1.013, 0.9]
+74 - Israel - Points: [0.07, 0.394, 0.9, 1.05]
+
+European Nations League B
+Participating Nations: 12
+Promoted:
+Germany
+Belgium
+Relegated:
+Sweden
+Netherlands
+Portugal
+Georgia
+Results:
+1-Germany
+2-Belgium
+3-Italy
+4-Scotland
+5-Monaco
+6-Bulgaria
+7-Croatia
+8-Slovakia
+9-Georgia
+10-Portugal
+11-Netherlands
+12-Sweden
+
+Americas Nations League B
+Participating Nations: 8
+Promoted:
+Mexico
+Results:
+1-Mexico
+2-Canada
+3-Guyana
+4-United States of America
+5-Bolivia
+6-Jamaica
+7-Puerto Rico
+8-Brazil
+
+Asia Pacific Nations League B
+Participating Nations: 12
+Promoted:
+Pakistan
+Relegated:
+Mongolia
+Kazakhstan
+Phillipines
+Afghanistan
+Results:
+1-Pakistan
+2-Kyrgyzstan
+3-Thailand
+4-Australia
+5-Kenya
+6-Korea
 7-New Zealand
+8-Turkmenistan
+9-Afghanistan
+10-Phillipines
+11-Kazakhstan
+12-Mongolia
+
+European Nations League A
+Participating Nations: 10
+Winner: Italy
+Results:
+1-Italy
+2-Germany
+3-Ireland
+4-Belgium
+5-France
+6-Czechia
+7-Hungary
+8-Latvia
+9-Slovenia
+10-Iceland
+
+Pan Continental Nations League A
+Participating Nations: 8
+Winner: Canada
+Results:
+1-Canada
+2-Saudi Arabia
+3-Pakistan
+4-Dominican Republic
+5-Mexico
+6-U.S. Virgin Islands
+7-Kuwait
+8-Hong Kong
+
+World Championships Results
+Participating Nations: 16
+Winner: Iceland
+Relegated:
+Germany
+Dominican Republic
+Slovenia
+Mexico
+Results:
+1-Iceland
+2-Hungary
+3-Saudi Arabia
+4-France
+5-Czechia
+6-Hong Kong
+7-Pakistan
+8-Latvia
+9-Belgium
+10-Kuwait
+11-U.S. Virgin Islands
+12-Ireland
+13-Mexico
+14-Slovenia
+15-Dominican Republic
+16-Germany
+
+European Nations League C
+Participating Nations: 12
+Promoted:
+Kosovo
+Bosnia & Herzegovina
+Romania
+Russia
+Relegated:
+Wales
+Denmark
+Results:
+1-Kosovo
+2-Bosnia & Herzegovina
+3-Romania
+4-Russia
+5-Norway
+6-Andorra
+7-Estonia
+8-Ukraine
+9-Finland
+10-Türkiye
+11-Denmark
+12-Wales
+
+European Nations League D
+Participating Nations: 12
+Promoted:
+Liechtenstein
+Belarus
+Results:
+1-Liechtenstein
+2-Belarus
+3-Greece
+4-Poland
+5-Lithuania
+6-England
+7-Luxembourg
+8-Israel
+9-Serbia
+10-Spain
+11-Austria
+12-Switzerland
+
+Asia Pacific Nations League C
+Participating Nations: 6
+Promoted:
+Nigeria
+India
+Chinese Taipei
+Qatar
+China
+Results:
+1-Nigeria
+2-India
+3-Chinese Taipei
+4-Qatar
+5-China
+6-Japan
 
 
 Year 7
@@ -1593,785 +1612,800 @@ C division nations: 12
 D division nations: 12
 
 Americas Nations League
-A division nations: 4
-B division nations: 6
+A division nations: 1
+B division nations: 9
 
 Asia Pacific Nations League
-A division nations: 1
+A division nations: 4
 B division nations: 12
-C division nations: 8
+C division nations: 5
 
 Nations Ranking
-1 - Germany - Points: [7.969, 33.562, 49.875, 81.5]
-2 - Sweden - Points: [6.938, 31.5, 73.5, 57.5]
-3 - Canada - Points: [0.281, 34.5, 54.0, 79.0]
-4 - Scotland - Points: [5.25, 23.062, 72.0, 63.5]
-5 - United States of America - Points: [8.25, 28.5, 53.25, 70.0]
-6 - Finland - Points: [2.953, 16.125, 25.875, 110.5]
-7 - Lithuania - Points: [4.031, 15.75, 37.125, 63.0]
-8 - Bolivia - Points: [6.188, 18.375, 41.25, 51.0]
-9 - Hungary - Points: [4.078, 9.562, 6.75, 96.0]
-10 - Czechia - Points: [7.172, 26.25, 36.75, 45.0]
-11 - Chinese Taipei - Points: [0.258, 0.75, 1.688, 97.0]
-12 - Nigeria - Points: [5.625, 17.625, 44.25, 29.0]
-13 - Kosovo - Points: [0.469, 3.0, 72.75, 17.0]
-14 - Mexico - Points: [0.258, 1.031, 59.25, 32.0]
-15 - Croatia - Points: [0.656, 44.438, 28.125, 8.0]
-16 - Puerto Rico - Points: [7.031, 7.875, 1.875, 45.0]
-17 - Kuwait - Points: [0.141, 2.625, 37.5, 20.0]
-18 - England - Points: [8.625, 26.625, 15.375, 7.0]
-19 - Iceland - Points: [0.328, 2.438, 5.25, 37.0]
-20 - Hong Kong - Points: [0.234, 16.125, 24.75, 1.25]
-21 - Norway - Points: [6.047, 12.562, 9.75, 11.0]
-22 - Bosnia & Herzegovina - Points: [0.375, 2.625, 21.75, 10.0]
-23 - Netherlands - Points: [0.656, 1.5, 5.625, 24.5]
-24 - Israel - Points: [0.703, 3.75, 9.0, 12.0]
-25 - Poland - Points: [4.453, 5.25, 5.25, 8.0]
-26 - U.S. Virgin Islands - Points: [0.305, 7.031, 9.562, 3.0]
-27 - Andorra - Points: [1.312, 4.875, 7.5, 6.0]
-28 - Portugal - Points: [0.844, 4.125, 8.25, 5.0]
-29 - Austria - Points: [1.219, 4.5, 4.5, 7.5]
-30 - Russia - Points: [0.211, 1.406, 6.0, 9.0]
-31 - China - Points: [0.422, 2.438, 4.875, 8.0]
-32 - Slovenia - Points: [1.125, 2.25, 4.875, 6.0]
-33 - Spain - Points: [0.61, 3.0, 4.125, 6.5]
-34 - Monaco - Points: [0.75, 3.375, 6.0, 3.5]
-35 - Kenya - Points: [0.469, 1.688, 4.125, 6.5]
-36 - Turkmenistan - Points: [0.703, 0.562, 3.75, 7.5]
-37 - Kazakhstan - Points: [0.164, 0.469, 4.5, 7.0]
-38 - Wales - Points: [0.75, 1.875, 4.5, 4.5]
-39 - Italy - Points: [0.422, 2.062, 3.375, 5.5]
-40 - Georgia - Points: [0.188, 0.938, 3.0, 7.0]
-41 - Pakistan - Points: [0.562, 2.25, 6.0, 1.75]
-42 - Türkiye - Points: [0.469, 2.25, 3.75, 4.0]
-43 - Mongolia - Points: [0.75, 5.156, 2.062, 2.5]
-44 - India - Points: [0.61, 2.062, 5.625, 2.0]
-45 - Slovakia - Points: [0.562, 1.688, 3.0, 5.0]
-46 - Dominican Republic - Points: [2.625, 0.938, 2.625, 3.75]
-47 - Japan - Points: [1.664, 1.125, 1.125, 6.0]
-48 - Australia - Points: [0.656, 2.812, 0.938, 5.5]
-49 - New Zealand - Points: [0.515, 3.0, 1.312, 5.0]
-50 - Liechtenstein - Points: [0.515, 2.812, 3.75, 2.5]
-51 - Romania - Points: [0.938, 2.625, 2.25, 3.0]
-52 - Qatar - Points: [3.0, 1.031, 1.5, 3.25]
-53 - Thailand - Points: [0.117, 1.875, 5.25, 1.5]
-54 - Jamaica - Points: [1.758, 1.219, 2.062, 2.75]
-55 - Guyana - Points: [0.234, 1.312, 2.438, 3.25]
-56 - Brazil - Points: [0.328, 1.125, 2.25, 3.5]
-57 - Saudi Arabia - Points: [0.305, 0.844, 2.438, 3.5]
-58 - Korea - Points: [0.281, 1.219, 2.812, 2.75]
-59 - Afghanistan - Points: [0.211, 0.656, 2.25, 3.75]
-60 - France - Points: [0.234, 0.844, 2.438, 3.25]
-61 - Estonia - Points: [0.375, 1.312, 1.312, 3.75]
-62 - Ireland - Points: [0.141, 0.75, 2.812, 3.0]
-63 - Latvia - Points: [0.562, 0.938, 1.5, 3.5]
-64 - Ukraine - Points: [0.328, 1.5, 2.625, 2.0]
-65 - Kyrgyzstan - Points: [0.188, 1.312, 1.875, 3.0]
-66 - Serbia - Points: [0.164, 1.125, 2.25, 2.75]
-67 - Switzerland - Points: [1.031, 1.875, 1.875, 1.5]
-68 - Phillipines - Points: [0.328, 0.938, 2.625, 2.25]
-69 - Luxembourg - Points: [0.281, 0.562, 1.125, 4.0]
-70 - Belgium - Points: [0.351, 1.125, 1.875, 2.5]
-71 - Greece - Points: [0.258, 1.031, 2.625, 1.0]
-72 - Belarus - Points: [0.305, 0.656, 1.688, 2.25]
-73 - Denmark - Points: [0.234, 1.312, 2.062, 1.25]
-74 - Bulgaria - Points: [0.281, 1.219, 0.938, 1.75]
+1 - Czechia - Points: [4.219, 30.75, 70.125, 76.5]
+2 - Hungary - Points: [6.141, 18.188, 62.25, 90.0]
+3 - France - Points: [8.672, 22.875, 60.375, 83.0]
+4 - Iceland - Points: [0.365, 31.5, 44.25, 90.5]
+5 - Latvia - Points: [9.562, 26.812, 53.25, 58.5]
+6 - Saudi Arabia - Points: [0.211, 0.787, 56.55, 85.0]
+7 - Ireland - Points: [0.422, 36.0, 55.875, 46.0]
+8 - Hong Kong - Points: [4.5, 23.625, 39.0, 64.0]
+9 - Belgium - Points: [4.031, 19.688, 18.75, 74.5]
+10 - U.S. Virgin Islands - Points: [0.197, 0.562, 70.05, 41.0]
+11 - Italy - Points: [10.265, 29.812, 27.375, 38.0]
+12 - Kuwait - Points: [0.197, 33.525, 26.25, 45.0]
+13 - Dominican Republic - Points: [6.975, 35.25, 29.25, 23.0]
+14 - Slovenia - Points: [0.656, 1.35, 61.875, 27.0]
+15 - Pakistan - Points: [0.169, 0.731, 1.237, 66.4]
+16 - Canada - Points: [8.531, 13.125, 21.75, 18.25]
+17 - Germany - Points: [0.469, 1.462, 8.25, 43.5]
+18 - Scotland - Points: [6.0, 10.5, 7.5, 13.0]
+19 - Mexico - Points: [0.141, 0.731, 1.125, 34.4]
+20 - Sweden - Points: [1.031, 3.375, 24.75, 5.0]
+21 - Kyrgyzstan - Points: [5.625, 13.125, 9.938, 2.25]
+22 - Netherlands - Points: [1.594, 4.125, 10.5, 6.0]
+23 - Portugal - Points: [1.125, 3.75, 9.0, 7.0]
+24 - Georgia - Points: [0.197, 1.688, 9.75, 8.0]
+25 - Croatia - Points: [0.197, 1.575, 6.75, 10.0]
+26 - Korea - Points: [5.062, 9.75, 1.35, 1.65]
+27 - Wales - Points: [2.485, 9.188, 4.5, 1.5]
+28 - Monaco - Points: [0.225, 1.238, 3.15, 12.0]
+29 - Guyana - Points: [0.211, 0.787, 12.938, 2.1]
+30 - Bulgaria - Points: [0.169, 0.787, 3.6, 11.0]
+31 - Finland - Points: [2.86, 4.875, 5.25, 2.4]
+32 - Slovakia - Points: [0.338, 1.875, 3.375, 9.0]
+33 - Ukraine - Points: [0.844, 4.5, 6.0, 2.7]
+34 - Brazil - Points: [2.438, 6.15, 1.013, 1.35]
+35 - Romania - Points: [0.45, 2.625, 2.925, 4.2]
+36 - Bolivia - Points: [0.155, 6.844, 1.237, 1.8]
+37 - Russia - Points: [0.394, 3.0, 2.25, 3.9]
+38 - Andorra - Points: [0.281, 1.8, 3.75, 3.3]
+39 - Kosovo - Points: [0.141, 0.9, 2.7, 4.8]
+40 - Bosnia & Herzegovina - Points: [0.211, 1.012, 2.475, 4.5]
+41 - Norway - Points: [0.75, 0.675, 1.688, 3.6]
+42 - Japan - Points: [3.281, 0.844, 0.788, 1.65]
+43 - Qatar - Points: [2.944, 0.281, 1.237, 1.95]
+44 - Estonia - Points: [0.085, 0.562, 1.8, 3.0]
+45 - Türkiye - Points: [0.309, 0.9, 2.025, 2.1]
+46 - Switzerland - Points: [0.938, 2.25, 1.35, 0.75]
+47 - Denmark - Points: [0.253, 1.125, 1.8, 1.8]
+48 - Liechtenstein - Points: [0.169, 0.731, 1.575, 2.4]
+49 - Greece - Points: [0.183, 0.844, 1.575, 2.1]
+50 - Kenya - Points: [0.099, 0.731, 1.688, 1.8]
+51 - United States of America - Points: [0.127, 0.506, 1.575, 1.95]
+52 - Thailand - Points: [0.127, 0.338, 1.575, 2.1]
+53 - Poland - Points: [0.155, 0.675, 1.35, 1.95]
+54 - Belarus - Points: [0.127, 0.619, 1.013, 2.25]
+55 - India - Points: [0.225, 0.394, 1.125, 2.25]
+56 - Australia - Points: [0.085, 0.787, 1.125, 1.95]
+57 - Jamaica - Points: [0.169, 0.619, 1.462, 1.65]
+58 - Nigeria - Points: [0.155, 0.619, 0.675, 2.4]
+59 - England - Points: [0.225, 0.787, 1.125, 1.65]
+60 - Turkmenistan - Points: [0.07, 0.9, 1.462, 1.35]
+61 - New Zealand - Points: [0.169, 0.619, 1.462, 1.5]
+62 - China - Points: [0.141, 0.45, 1.35, 1.8]
+63 - Puerto Rico - Points: [0.183, 0.675, 1.35, 1.5]
+64 - Chinese Taipei - Points: [0.183, 0.844, 0.562, 2.1]
+65 - Phillipines - Points: [0.113, 0.675, 1.8, 1.05]
+66 - Kazakhstan - Points: [0.197, 0.675, 1.575, 0.9]
+67 - Lithuania - Points: [0.113, 0.281, 1.125, 1.8]
+68 - Serbia - Points: [0.056, 0.394, 1.462, 1.2]
+69 - Spain - Points: [0.562, 0.562, 0.9, 1.05]
+70 - Afghanistan - Points: [0.183, 0.562, 0.9, 1.2]
+71 - Luxembourg - Points: [0.141, 0.506, 0.675, 1.5]
+72 - Israel - Points: [0.099, 0.45, 0.788, 1.35]
+73 - Austria - Points: [0.07, 0.338, 1.237, 0.9]
+74 - Mongolia - Points: [0.211, 0.506, 1.013, 0.75]
 
 European Nations League B
 Participating Nations: 12
 Promoted:
-Norway
-Israel
-Relegated:
 Russia
-Iceland
-Slovenia
-Poland
+Italy
+Relegated:
+Bulgaria
+Bosnia & Herzegovina
+Romania
+Scotland
 Results:
-1-Norway
-2-Israel
-3-Kosovo
-4-Austria
-5-Netherlands
-6-Georgia
-7-Bosnia & Herzegovina
-8-Spain
-9-Poland
-10-Slovenia
-11-Iceland
-12-Russia
+1-Russia
+2-Italy
+3-Croatia
+4-Slovenia
+5-Monaco
+6-Kosovo
+7-Slovakia
+8-Germany
+9-Scotland
+10-Romania
+11-Bosnia & Herzegovina
+12-Bulgaria
 
 Americas Nations League B
-Participating Nations: 6
+Participating Nations: 9
 Promoted:
 Guyana
 Results:
 1-Guyana
 2-Mexico
-3-U.S. Virgin Islands
-4-Dominican Republic
-5-Brazil
-6-Jamaica
+3-Jamaica
+4-Puerto Rico
+5-United States of America
+6-Canada
+7-Brazil
+8-Bolivia
+9-Dominican Republic
 
 Asia Pacific Nations League B
 Participating Nations: 12
 Promoted:
-India
+Korea
 Relegated:
-China
 Nigeria
+Qatar
+Turkmenistan
+Kyrgyzstan
 Results:
-1-India
-2-Mongolia
-3-Qatar
-4-Saudi Arabia
-5-Korea
-6-Turkmenistan
-7-Kyrgyzstan
-8-Kuwait
-9-Afghanistan
-10-Phillipines
-11-Nigeria
-12-China
+1-Korea
+2-Australia
+3-Chinese Taipei
+4-Thailand
+5-India
+6-New Zealand
+7-Kenya
+8-China
+9-Kyrgyzstan
+10-Turkmenistan
+11-Qatar
+12-Nigeria
 
 European Nations League A
 Participating Nations: 10
 Winner: Hungary
 Results:
 1-Hungary
-2-Sweden
-3-Kosovo
-4-Finland
-5-Israel
-6-Czechia
-7-Lithuania
-8-Norway
-9-Scotland
-10-Germany
+2-Italy
+3-Latvia
+4-Czechia
+5-France
+6-Ireland
+7-Iceland
+8-Belgium
+9-Croatia
+10-Russia
 
 Pan Continental Nations League A
 Participating Nations: 8
-Winner: India
+Winner: Korea
 Results:
-1-India
-2-Bolivia
-3-Canada
-4-Chinese Taipei
-5-Mexico
-6-Puerto Rico
-7-Guyana
-8-United States of America
+1-Korea
+2-U.S. Virgin Islands
+3-Saudi Arabia
+4-Pakistan
+5-Guyana
+6-Hong Kong
+7-Kuwait
+8-Mexico
 
 World Championships Results
 Participating Nations: 16
-Winner: Czechia
+Winner: Saudi Arabia
 Relegated:
-Scotland
-Chinese Taipei
+Hong Kong
+Belgium
+Kuwait
 Guyana
-Israel
 Results:
-1-Czechia
-2-Sweden
-3-Germany
-4-Bolivia
-5-Puerto Rico
-6-Norway
-7-Lithuania
-8-Canada
-9-India
-10-Hungary
-11-United States of America
-12-Finland
-13-Israel
-14-Guyana
-15-Chinese Taipei
-16-Scotland
+1-Saudi Arabia
+2-Hungary
+3-Korea
+4-France
+5-Czechia
+6-U.S. Virgin Islands
+7-Pakistan
+8-Italy
+9-Iceland
+10-Latvia
+11-Russia
+12-Ireland
+13-Guyana
+14-Kuwait
+15-Belgium
+16-Hong Kong
 
 European Nations League C
 Participating Nations: 12
 Promoted:
-Latvia
-Croatia
-Wales
-Andorra
-Relegated:
+Türkiye
 Portugal
-Monaco
+Liechtenstein
+Andorra
+Belarus
+Relegated:
+Georgia
+Estonia
 Results:
-1-Latvia
-2-Croatia
-3-Wales
+1-Türkiye
+2-Portugal
+3-Liechtenstein
 4-Andorra
-5-Italy
-6-Türkiye
-7-England
-8-Luxembourg
-9-Estonia
-10-Slovakia
-11-Monaco
-12-Portugal
+5-Belarus
+6-Ukraine
+7-Sweden
+8-Finland
+9-Norway
+10-Netherlands
+11-Estonia
+12-Georgia
 
 European Nations League D
 Participating Nations: 12
 Promoted:
-Belarus
-Liechtenstein
+England
+Luxembourg
+Denmark
 Results:
-1-Belarus
-2-Liechtenstein
-3-France
-4-Belgium
-5-Denmark
-6-Ukraine
-7-Bulgaria
-8-Ireland
-9-Greece
-10-Romania
-11-Serbia
-12-Switzerland
+1-England
+2-Luxembourg
+3-Denmark
+4-Poland
+5-Wales
+6-Serbia
+7-Greece
+8-Austria
+9-Lithuania
+10-Switzerland
+11-Spain
+12-Israel
 
 Asia Pacific Nations League C
-Participating Nations: 8
+Participating Nations: 5
 Promoted:
+Phillipines
 Kazakhstan
-New Zealand
+Mongolia
 Results:
-1-Kazakhstan
-2-New Zealand
-3-Thailand
-4-Australia
+1-Phillipines
+2-Kazakhstan
+3-Mongolia
+4-Afghanistan
 5-Japan
-6-Hong Kong
-7-Kenya
-8-Pakistan
 
 
 Year 8
 
 European Nations League
-A division nations: 7
+A division nations: 8
 B division nations: 12
 C division nations: 12
-D division nations: 12
+D division nations: 11
 
 Americas Nations League
-A division nations: 4
-B division nations: 6
+A division nations: 1
+B division nations: 9
 
 Asia Pacific Nations League
-A division nations: 1
+A division nations: 3
 B division nations: 12
-C division nations: 8
+C division nations: 6
 
 Nations Ranking
-1 - Sweden - Points: [7.875, 36.75, 43.125, 97.5]
-2 - Germany - Points: [8.39, 24.938, 61.125, 80.5]
-3 - Czechia - Points: [6.562, 18.375, 33.75, 96.5]
-4 - Canada - Points: [8.625, 27.0, 59.25, 59.0]
-5 - Finland - Points: [4.031, 12.938, 82.875, 44.5]
-6 - Bolivia - Points: [4.594, 20.625, 38.25, 80.0]
-7 - Hungary - Points: [2.39, 3.375, 72.0, 59.0]
-8 - Lithuania - Points: [3.938, 18.562, 47.25, 65.0]
-9 - United States of America - Points: [7.125, 26.625, 52.5, 39.0]
-10 - Puerto Rico - Points: [1.969, 0.938, 33.75, 71.0]
-11 - Scotland - Points: [5.766, 36.0, 47.625, 17.0]
-12 - Norway - Points: [3.14, 4.875, 8.25, 84.5]
-13 - Chinese Taipei - Points: [0.188, 0.844, 72.75, 23.0]
-14 - Kosovo - Points: [0.75, 36.375, 12.75, 35.0]
-15 - Mexico - Points: [0.258, 29.625, 24.0, 15.75]
-16 - Israel - Points: [0.938, 4.5, 9.0, 53.0]
-17 - India - Points: [0.515, 2.812, 1.5, 60.0]
-18 - Nigeria - Points: [4.406, 22.125, 21.75, 1.5]
-19 - Croatia - Points: [11.11, 14.062, 6.0, 7.5]
-20 - Iceland - Points: [0.61, 2.625, 27.75, 6.0]
-21 - Kuwait - Points: [0.656, 18.75, 15.0, 2.25]
-22 - Netherlands - Points: [0.375, 2.812, 18.375, 12.0]
-23 - Guyana - Points: [0.328, 1.219, 2.438, 29.0]
-24 - Bosnia & Herzegovina - Points: [0.656, 10.875, 7.5, 10.0]
-25 - England - Points: [6.656, 7.688, 5.25, 5.0]
-26 - Hong Kong - Points: [4.031, 12.375, 0.938, 5.5]
-27 - Austria - Points: [1.125, 2.25, 5.625, 13.0]
-28 - Georgia - Points: [0.234, 1.5, 5.25, 11.0]
-29 - Poland - Points: [1.312, 2.625, 6.0, 8.0]
-30 - Spain - Points: [0.75, 2.062, 4.875, 9.0]
-31 - Andorra - Points: [1.219, 3.75, 4.5, 6.5]
-32 - Kazakhstan - Points: [0.117, 2.25, 5.25, 8.0]
-33 - Russia - Points: [0.351, 3.0, 6.75, 5.0]
-34 - Slovenia - Points: [0.562, 2.438, 4.5, 7.0]
-35 - Wales - Points: [0.469, 2.25, 3.375, 7.0]
-36 - New Zealand - Points: [0.75, 0.656, 3.75, 7.5]
-37 - Kenya - Points: [0.422, 2.062, 4.875, 5.0]
-38 - Italy - Points: [0.515, 1.688, 4.125, 6.0]
-39 - U.S. Virgin Islands - Points: [1.758, 4.781, 2.25, 3.5]
-40 - Australia - Points: [0.703, 0.469, 4.125, 6.5]
-41 - Latvia - Points: [0.234, 0.75, 2.625, 8.0]
-42 - Portugal - Points: [1.031, 4.125, 3.75, 2.5]
-43 - Japan - Points: [0.281, 0.562, 4.5, 6.0]
-44 - Thailand - Points: [0.469, 2.625, 1.125, 7.0]
-45 - Türkiye - Points: [0.562, 1.875, 3.0, 5.5]
-46 - Turkmenistan - Points: [0.141, 1.875, 5.625, 2.75]
-47 - China - Points: [0.61, 2.438, 6.0, 1.25]
-48 - Monaco - Points: [0.844, 3.0, 2.625, 3.0]
-49 - Pakistan - Points: [0.562, 3.0, 1.312, 4.5]
-50 - Slovakia - Points: [0.422, 1.5, 3.75, 3.5]
-51 - Liechtenstein - Points: [0.703, 1.875, 1.875, 3.75]
-52 - Luxembourg - Points: [0.141, 0.562, 3.0, 4.5]
-53 - Mongolia - Points: [1.289, 1.031, 1.875, 3.75]
-54 - Estonia - Points: [0.328, 0.656, 2.812, 4.0]
-55 - Dominican Republic - Points: [0.234, 1.312, 2.812, 3.25]
-56 - France - Points: [0.211, 1.219, 2.438, 3.5]
-57 - Saudi Arabia - Points: [0.211, 1.219, 2.625, 3.25]
-58 - Brazil - Points: [0.281, 1.125, 2.625, 3.0]
-59 - Qatar - Points: [0.258, 0.75, 2.438, 3.5]
-60 - Korea - Points: [0.305, 1.406, 2.062, 3.0]
-61 - Belarus - Points: [0.164, 0.844, 1.688, 4.0]
-62 - Belgium - Points: [0.281, 0.938, 1.875, 3.25]
-63 - Jamaica - Points: [0.305, 1.031, 2.062, 2.75]
-64 - Afghanistan - Points: [0.164, 1.125, 2.812, 2.0]
-65 - Ireland - Points: [0.188, 1.406, 2.25, 2.25]
-66 - Kyrgyzstan - Points: [0.328, 0.938, 2.25, 2.5]
-67 - Ukraine - Points: [0.375, 1.312, 1.5, 2.75]
-68 - Romania - Points: [0.656, 1.125, 2.25, 1.75]
-69 - Denmark - Points: [0.328, 1.031, 0.938, 3.0]
-70 - Phillipines - Points: [0.234, 1.312, 1.688, 1.75]
-71 - Serbia - Points: [0.281, 1.125, 2.062, 1.5]
-72 - Bulgaria - Points: [0.305, 0.469, 1.312, 2.5]
-73 - Greece - Points: [0.258, 1.312, 0.75, 2.0]
-74 - Switzerland - Points: [0.469, 0.938, 1.125, 1.25]
+1 - Hungary - Points: [4.547, 31.125, 67.5, 99.0]
+2 - Saudi Arabia - Points: [0.197, 28.275, 63.75, 94.0]
+3 - France - Points: [5.719, 30.188, 62.25, 83.0]
+4 - Czechia - Points: [7.688, 35.062, 57.375, 79.5]
+5 - Iceland - Points: [7.875, 22.125, 67.875, 55.0]
+6 - U.S. Virgin Islands - Points: [0.141, 35.025, 30.75, 70.0]
+7 - Latvia - Points: [6.703, 26.625, 43.875, 56.0]
+8 - Italy - Points: [7.453, 13.688, 28.5, 82.5]
+9 - Pakistan - Points: [0.183, 0.619, 49.8, 63.0]
+10 - Ireland - Points: [9.0, 27.938, 34.5, 41.5]
+11 - Belgium - Points: [4.922, 9.375, 55.875, 23.5]
+12 - Korea - Points: [2.438, 0.675, 1.237, 88.4]
+13 - Hong Kong - Points: [5.906, 19.5, 48.0, 16.0]
+14 - Kuwait - Points: [8.381, 13.125, 33.75, 25.0]
+15 - Slovenia - Points: [0.338, 30.938, 20.25, 13.0]
+16 - Russia - Points: [0.75, 1.125, 2.925, 56.5]
+17 - Germany - Points: [0.365, 4.125, 32.625, 9.0]
+18 - Guyana - Points: [0.197, 6.469, 1.575, 34.4]
+19 - Dominican Republic - Points: [8.812, 14.625, 17.25, 1.2]
+20 - Mexico - Points: [0.183, 0.562, 25.8, 11.25]
+21 - Croatia - Points: [0.394, 3.375, 7.5, 26.0]
+22 - Canada - Points: [3.281, 10.875, 13.688, 1.65]
+23 - Scotland - Points: [2.625, 3.75, 9.75, 8.0]
+24 - Monaco - Points: [0.309, 1.575, 9.0, 12.0]
+25 - Sweden - Points: [0.844, 12.375, 3.75, 3.0]
+26 - Slovakia - Points: [0.469, 1.688, 6.75, 10.0]
+27 - Kosovo - Points: [0.225, 1.35, 3.6, 11.0]
+28 - Bulgaria - Points: [0.197, 1.8, 8.25, 5.0]
+29 - Portugal - Points: [0.938, 4.5, 5.25, 4.5]
+30 - Netherlands - Points: [1.031, 5.25, 4.5, 2.1]
+31 - Georgia - Points: [0.422, 4.875, 6.0, 1.5]
+32 - Romania - Points: [0.656, 1.462, 3.15, 7.0]
+33 - Kyrgyzstan - Points: [3.281, 4.969, 1.688, 1.2]
+34 - Bosnia & Herzegovina - Points: [0.253, 1.238, 3.375, 6.0]
+35 - Ukraine - Points: [1.125, 3.0, 2.025, 3.3]
+36 - Andorra - Points: [0.45, 1.875, 2.475, 3.9]
+37 - Finland - Points: [1.219, 2.625, 1.8, 2.7]
+38 - Türkiye - Points: [0.225, 1.012, 1.575, 4.8]
+39 - Wales - Points: [2.297, 2.25, 1.125, 1.8]
+40 - Liechtenstein - Points: [0.183, 0.787, 1.8, 4.2]
+41 - Norway - Points: [0.169, 0.844, 2.7, 2.4]
+42 - Belarus - Points: [0.155, 0.506, 1.688, 3.6]
+43 - Estonia - Points: [0.141, 0.9, 2.25, 1.8]
+44 - Bolivia - Points: [1.711, 0.619, 1.35, 1.35]
+45 - Denmark - Points: [0.281, 0.9, 1.35, 2.1]
+46 - Brazil - Points: [1.538, 0.506, 1.013, 1.5]
+47 - Australia - Points: [0.197, 0.562, 1.462, 2.25]
+48 - Thailand - Points: [0.085, 0.787, 1.575, 1.95]
+49 - England - Points: [0.197, 0.562, 1.237, 2.4]
+50 - Phillipines - Points: [0.169, 0.9, 0.788, 2.4]
+51 - Poland - Points: [0.169, 0.675, 1.462, 1.95]
+52 - Jamaica - Points: [0.155, 0.731, 1.237, 2.1]
+53 - United States of America - Points: [0.127, 0.787, 1.462, 1.8]
+54 - Chinese Taipei - Points: [0.211, 0.281, 1.575, 2.1]
+55 - India - Points: [0.099, 0.562, 1.688, 1.8]
+56 - Greece - Points: [0.211, 0.787, 1.575, 1.5]
+57 - Puerto Rico - Points: [0.169, 0.675, 1.125, 1.95]
+58 - Kazakhstan - Points: [0.169, 0.787, 0.675, 2.25]
+59 - Kenya - Points: [0.183, 0.844, 1.35, 1.5]
+60 - Luxembourg - Points: [0.127, 0.338, 1.125, 2.25]
+61 - New Zealand - Points: [0.155, 0.731, 1.125, 1.65]
+62 - Japan - Points: [0.211, 0.394, 1.237, 1.8]
+63 - China - Points: [0.113, 0.675, 1.35, 1.35]
+64 - Afghanistan - Points: [0.141, 0.45, 0.9, 1.95]
+65 - Serbia - Points: [0.099, 0.731, 0.9, 1.65]
+66 - Mongolia - Points: [0.127, 0.506, 0.562, 2.1]
+67 - Lithuania - Points: [0.07, 0.562, 1.35, 1.2]
+68 - Qatar - Points: [0.07, 0.619, 1.462, 0.9]
+69 - Nigeria - Points: [0.155, 0.338, 1.8, 0.75]
+70 - Turkmenistan - Points: [0.225, 0.731, 1.013, 1.05]
+71 - Switzerland - Points: [0.562, 0.675, 0.562, 1.05]
+72 - Austria - Points: [0.085, 0.619, 0.675, 1.35]
+73 - Spain - Points: [0.141, 0.45, 0.788, 0.9]
+74 - Israel - Points: [0.113, 0.394, 1.013, 0.75]
 
 European Nations League B
 Participating Nations: 12
 Promoted:
-Latvia
-Scotland
+Croatia
+Andorra
 Relegated:
-Netherlands
-Wales
-Georgia
-Israel
+Slovakia
+Liechtenstein
+Kosovo
+Germany
 Results:
-1-Latvia
-2-Scotland
-3-Croatia
-4-Bosnia & Herzegovina
-5-Spain
-6-Andorra
-7-Kosovo
-8-Austria
-9-Israel
-10-Georgia
-11-Wales
-12-Netherlands
+1-Croatia
+2-Andorra
+3-Belarus
+4-Portugal
+5-Belgium
+6-Slovenia
+7-Monaco
+8-Türkiye
+9-Germany
+10-Kosovo
+11-Liechtenstein
+12-Slovakia
 
 Americas Nations League B
-Participating Nations: 6
+Participating Nations: 9
 Promoted:
-Brazil
+United States of America
 Results:
-1-Brazil
-2-U.S. Virgin Islands
+1-United States of America
+2-Mexico
 3-Dominican Republic
-4-Jamaica
-5-Mexico
+4-Puerto Rico
+5-Jamaica
 6-Guyana
+7-Brazil
+8-Bolivia
+9-Canada
 
 Asia Pacific Nations League B
 Participating Nations: 12
 Promoted:
-Turkmenistan
-Relegated:
-Kuwait
 Mongolia
+Relegated:
+Thailand
+Hong Kong
+India
+Kuwait
 Results:
-1-Turkmenistan
-2-Korea
-3-Saudi Arabia
+1-Mongolia
+2-Australia
+3-New Zealand
 4-Kazakhstan
-5-Afghanistan
-6-New Zealand
-7-Qatar
-8-Kyrgyzstan
-9-Phillipines
-10-Chinese Taipei
-11-Mongolia
-12-Kuwait
+5-China
+6-Chinese Taipei
+7-Phillipines
+8-Kenya
+9-Kuwait
+10-India
+11-Hong Kong
+12-Thailand
 
 European Nations League A
 Participating Nations: 10
-Winner: Germany
+Winner: France
 Results:
-1-Germany
-2-Scotland
-3-Croatia
-4-Norway
-5-Finland
-6-Sweden
-7-Czechia
-8-Lithuania
-9-Latvia
-10-Hungary
+1-France
+2-Czechia
+3-Hungary
+4-Ireland
+5-Italy
+6-Russia
+7-Croatia
+8-Latvia
+9-Iceland
+10-Andorra
 
 Pan Continental Nations League A
 Participating Nations: 8
-Winner: U.S. Virgin Islands
+Winner: Mongolia
 Results:
-1-U.S. Virgin Islands
-2-Puerto Rico
-3-Canada
-4-Turkmenistan
-5-Bolivia
-6-Brazil
-7-United States of America
-8-India
+1-Mongolia
+2-Korea
+3-Mexico
+4-United States of America
+5-U.S. Virgin Islands
+6-Pakistan
+7-Australia
+8-Saudi Arabia
 
 World Championships Results
 Participating Nations: 16
-Winner: Latvia
+Winner: Russia
 Relegated:
-Czechia
-Turkmenistan
-Norway
-Canada
+U.S. Virgin Islands
+Hungary
+Korea
+United States of America
 Results:
-1-Latvia
-2-Germany
-3-Lithuania
-4-Puerto Rico
-5-Finland
-6-Hungary
-7-Bolivia
-8-United States of America
-9-Sweden
-10-Brazil
-11-India
-12-Scotland
-13-Canada
-14-Norway
-15-Turkmenistan
-16-Czechia
+1-Russia
+2-France
+3-Czechia
+4-Italy
+5-Croatia
+6-Mongolia
+7-Iceland
+8-Pakistan
+9-Saudi Arabia
+10-Ireland
+11-Latvia
+12-Andorra
+13-United States of America
+14-Korea
+15-Hungary
+16-U.S. Virgin Islands
 
 European Nations League C
 Participating Nations: 12
 Promoted:
-Slovenia
-Russia
-Estonia
-Türkiye
+England
+Bulgaria
+Denmark
+Luxembourg
+Finland
 Relegated:
-Poland
-Italy
+Sweden
+Ukraine
 Results:
-1-Slovenia
-2-Russia
-3-Estonia
-4-Türkiye
-5-Iceland
-6-Liechtenstein
-7-Belarus
-8-Slovakia
-9-England
-10-Luxembourg
-11-Italy
-12-Poland
+1-England
+2-Bulgaria
+3-Denmark
+4-Luxembourg
+5-Finland
+6-Romania
+7-Bosnia & Herzegovina
+8-Norway
+9-Netherlands
+10-Scotland
+11-Ukraine
+12-Sweden
 
 European Nations League D
-Participating Nations: 12
+Participating Nations: 11
 Promoted:
-Serbia
-Bulgaria
+Switzerland
+Estonia
+Spain
 Results:
-1-Serbia
-2-Bulgaria
-3-Romania
-4-Greece
-5-Ireland
-6-Switzerland
-7-France
-8-Belgium
-9-Denmark
-10-Portugal
-11-Ukraine
-12-Monaco
+1-Switzerland
+2-Estonia
+3-Spain
+4-Austria
+5-Serbia
+6-Israel
+7-Lithuania
+8-Georgia
+9-Greece
+10-Poland
+11-Wales
 
 Asia Pacific Nations League C
-Participating Nations: 8
+Participating Nations: 6
 Promoted:
+Nigeria
 Japan
-Thailand
+Qatar
+Turkmenistan
 Results:
-1-Japan
-2-Thailand
-3-Australia
-4-China
-5-Pakistan
-6-Kenya
-7-Nigeria
-8-Hong Kong
+1-Nigeria
+2-Japan
+3-Qatar
+4-Turkmenistan
+5-Kyrgyzstan
+6-Afghanistan
 
 
 Year 9
 
 European Nations League
-A division nations: 7
+A division nations: 9
 B division nations: 12
 C division nations: 12
-D division nations: 12
+D division nations: 10
 
 Americas Nations League
-A division nations: 4
-B division nations: 6
+A division nations: 0
+B division nations: 10
 
 Asia Pacific Nations League
-A division nations: 1
+A division nations: 3
 B division nations: 12
-C division nations: 8
+C division nations: 6
 
 Nations Ranking
-1 - Germany - Points: [6.234, 30.562, 60.375, 99.0]
-2 - Lithuania - Points: [4.641, 23.625, 48.75, 83.5]
-3 - Sweden - Points: [9.188, 21.562, 73.125, 56.5]
-4 - Finland - Points: [3.235, 41.438, 33.375, 78.0]
-5 - Puerto Rico - Points: [0.234, 16.875, 53.25, 80.0]
-6 - Hungary - Points: [0.844, 36.0, 44.25, 65.5]
-7 - Bolivia - Points: [5.156, 19.125, 60.0, 62.0]
-8 - United States of America - Points: [6.656, 26.25, 29.25, 55.0]
-9 - Latvia - Points: [0.188, 1.312, 6.0, 108.0]
-10 - Canada - Points: [6.75, 29.625, 44.25, 34.0]
-11 - Czechia - Points: [4.594, 16.875, 72.375, 20.0]
-12 - Scotland - Points: [9.0, 23.812, 12.75, 62.5]
-13 - Norway - Points: [1.219, 4.125, 63.375, 34.5]
-14 - India - Points: [0.703, 0.75, 45.0, 39.0]
-15 - Chinese Taipei - Points: [0.211, 36.375, 17.25, 1.75]
-16 - Brazil - Points: [0.281, 1.312, 2.25, 50.0]
-17 - Israel - Points: [1.125, 4.5, 39.75, 8.0]
-18 - Kosovo - Points: [9.094, 6.375, 26.25, 10.0]
-19 - Croatia - Points: [3.515, 3.0, 5.625, 35.0]
-20 - Mexico - Points: [7.406, 12.0, 11.812, 3.0]
-21 - Turkmenistan - Points: [0.469, 2.812, 2.062, 27.0]
-22 - Bosnia & Herzegovina - Points: [2.719, 3.75, 7.5, 13.0]
-23 - Guyana - Points: [0.305, 1.219, 21.75, 2.75]
-24 - Iceland - Points: [0.656, 13.875, 4.5, 6.0]
-25 - U.S. Virgin Islands - Points: [1.195, 1.125, 2.625, 19.75]
-26 - Netherlands - Points: [0.703, 9.188, 9.0, 5.0]
-27 - Nigeria - Points: [5.531, 10.875, 1.125, 5.0]
-28 - Austria - Points: [0.562, 2.812, 9.75, 9.0]
-29 - Spain - Points: [0.515, 2.438, 6.75, 12.0]
-30 - Andorra - Points: [0.938, 2.25, 4.875, 11.0]
-31 - Georgia - Points: [0.375, 2.625, 8.25, 7.0]
-32 - Slovenia - Points: [0.61, 2.25, 5.25, 8.0]
-33 - Russia - Points: [0.75, 3.375, 3.75, 7.5]
-34 - Kuwait - Points: [4.688, 7.5, 1.688, 1.25]
-35 - Japan - Points: [0.141, 2.25, 4.5, 8.0]
-36 - Australia - Points: [0.117, 2.062, 4.875, 7.0]
-37 - Thailand - Points: [0.656, 0.562, 5.25, 7.5]
-38 - Wales - Points: [0.562, 1.688, 5.25, 6.0]
-39 - Türkiye - Points: [0.469, 1.5, 4.125, 6.5]
-40 - Kazakhstan - Points: [0.562, 2.625, 6.0, 3.25]
-41 - England - Points: [1.922, 2.625, 3.75, 4.0]
-42 - Kenya - Points: [0.515, 2.438, 3.75, 5.5]
-43 - Hong Kong - Points: [3.094, 0.469, 4.125, 4.5]
-44 - Poland - Points: [0.656, 3.0, 6.0, 2.5]
-45 - Estonia - Points: [0.164, 1.406, 3.0, 7.0]
-46 - China - Points: [0.61, 3.0, 0.938, 6.5]
-47 - Pakistan - Points: [0.75, 0.656, 3.375, 6.0]
-48 - New Zealand - Points: [0.164, 1.875, 5.625, 2.75]
-49 - Italy - Points: [0.422, 2.062, 4.5, 3.0]
-50 - Liechtenstein - Points: [0.469, 0.938, 2.812, 5.5]
-51 - Slovakia - Points: [0.375, 1.875, 2.625, 4.5]
-52 - Belarus - Points: [0.211, 0.844, 3.0, 5.0]
-53 - Luxembourg - Points: [0.141, 1.5, 3.375, 3.5]
-54 - Dominican Republic - Points: [0.328, 1.406, 2.438, 3.5]
-55 - Saudi Arabia - Points: [0.305, 1.312, 2.438, 3.5]
-56 - Korea - Points: [0.351, 1.031, 2.25, 3.75]
-57 - France - Points: [0.305, 1.219, 2.625, 2.5]
-58 - Jamaica - Points: [0.258, 1.031, 2.062, 3.25]
-59 - Qatar - Points: [0.188, 1.219, 2.625, 2.5]
-60 - Portugal - Points: [1.031, 1.875, 1.875, 1.75]
-61 - Serbia - Points: [0.281, 1.031, 1.125, 4.0]
-62 - Bulgaria - Points: [0.117, 0.656, 1.875, 3.75]
-63 - Romania - Points: [0.281, 1.125, 1.312, 3.5]
-64 - Afghanistan - Points: [0.281, 1.406, 1.5, 3.0]
-65 - Ireland - Points: [0.351, 1.125, 1.688, 3.0]
-66 - Belgium - Points: [0.234, 0.938, 2.438, 2.25]
-67 - Monaco - Points: [0.75, 1.312, 2.25, 1.25]
-68 - Mongolia - Points: [0.258, 0.938, 2.812, 1.5]
-69 - Kyrgyzstan - Points: [0.234, 1.125, 1.875, 2.25]
-70 - Greece - Points: [0.328, 0.375, 1.5, 3.25]
-71 - Denmark - Points: [0.258, 0.469, 2.25, 2.0]
-72 - Ukraine - Points: [0.328, 0.75, 2.062, 1.5]
-73 - Phillipines - Points: [0.328, 0.844, 1.312, 2.0]
-74 - Switzerland - Points: [0.234, 0.562, 0.938, 2.75]
+1 - France - Points: [7.547, 31.125, 62.25, 99.0]
+2 - Czechia - Points: [8.765, 28.688, 59.625, 92.5]
+3 - Italy - Points: [3.422, 14.25, 61.875, 83.0]
+4 - Saudi Arabia - Points: [7.069, 31.875, 70.5, 49.0]
+5 - Hungary - Points: [7.781, 33.75, 74.25, 31.0]
+6 - Iceland - Points: [5.531, 33.938, 41.25, 62.0]
+7 - Russia - Points: [0.281, 1.462, 42.375, 96.5]
+8 - Pakistan - Points: [0.155, 24.9, 47.25, 56.0]
+9 - Croatia - Points: [0.844, 3.75, 19.5, 91.0]
+10 - Latvia - Points: [6.656, 21.938, 42.0, 43.5]
+11 - Ireland - Points: [6.984, 17.25, 31.125, 54.5]
+12 - Korea - Points: [0.169, 0.619, 66.3, 30.0]
+13 - U.S. Virgin Islands - Points: [8.756, 15.375, 52.5, 17.0]
+14 - Mongolia - Points: [0.127, 0.281, 1.575, 73.4]
+15 - Belgium - Points: [2.344, 27.938, 17.625, 12.0]
+16 - Andorra - Points: [0.469, 1.238, 2.925, 50.5]
+17 - Hong Kong - Points: [4.875, 24.0, 12.0, 0.9]
+18 - Kuwait - Points: [3.281, 16.875, 18.75, 1.2]
+19 - Slovenia - Points: [7.734, 10.125, 9.75, 11.0]
+20 - Mexico - Points: [0.141, 12.9, 8.438, 16.25]
+21 - United States of America - Points: [0.197, 0.731, 1.35, 35.4]
+22 - Germany - Points: [1.031, 16.312, 6.75, 8.0]
+23 - Guyana - Points: [1.617, 0.787, 25.8, 1.65]
+24 - Monaco - Points: [0.394, 4.5, 9.0, 10.0]
+25 - Portugal - Points: [1.125, 2.625, 3.375, 13.0]
+26 - Belarus - Points: [0.127, 0.844, 2.7, 14.0]
+27 - Kosovo - Points: [0.338, 1.8, 8.25, 7.0]
+28 - Slovakia - Points: [0.422, 3.375, 7.5, 5.0]
+29 - Dominican Republic - Points: [3.656, 8.625, 0.9, 2.1]
+30 - Australia - Points: [0.141, 0.731, 1.688, 12.25]
+31 - Scotland - Points: [0.938, 4.875, 6.0, 2.1]
+32 - Türkiye - Points: [0.253, 0.787, 3.6, 9.0]
+33 - Bulgaria - Points: [0.45, 4.125, 3.75, 4.5]
+34 - Canada - Points: [2.719, 6.844, 1.237, 1.2]
+35 - Romania - Points: [0.365, 1.575, 5.25, 3.3]
+36 - Liechtenstein - Points: [0.197, 0.9, 3.15, 6.0]
+37 - Bosnia & Herzegovina - Points: [0.309, 1.688, 4.5, 3.0]
+38 - Sweden - Points: [3.094, 1.875, 2.25, 1.5]
+39 - Netherlands - Points: [1.312, 2.25, 1.575, 2.4]
+40 - England - Points: [0.141, 0.619, 1.8, 4.8]
+41 - Finland - Points: [0.656, 0.9, 2.025, 3.6]
+42 - Georgia - Points: [1.219, 3.0, 1.125, 1.35]
+43 - Denmark - Points: [0.225, 0.675, 1.575, 4.2]
+44 - Luxembourg - Points: [0.085, 0.562, 1.688, 3.9]
+45 - Norway - Points: [0.211, 1.35, 1.8, 2.7]
+46 - Ukraine - Points: [0.75, 1.012, 2.475, 1.8]
+47 - Estonia - Points: [0.225, 1.125, 1.35, 2.25]
+48 - Kyrgyzstan - Points: [1.242, 0.844, 0.9, 1.8]
+49 - Japan - Points: [0.099, 0.619, 1.35, 2.25]
+50 - Jamaica - Points: [0.183, 0.619, 1.575, 1.8]
+51 - Kazakhstan - Points: [0.197, 0.338, 1.688, 1.95]
+52 - Puerto Rico - Points: [0.169, 0.562, 1.462, 1.95]
+53 - New Zealand - Points: [0.183, 0.562, 1.237, 2.1]
+54 - Chinese Taipei - Points: [0.07, 0.787, 1.575, 1.65]
+55 - Nigeria - Points: [0.085, 0.9, 0.562, 2.4]
+56 - Phillipines - Points: [0.225, 0.394, 1.8, 1.5]
+57 - Afghanistan - Points: [0.113, 0.45, 1.462, 1.65]
+58 - Serbia - Points: [0.183, 0.45, 1.237, 1.8]
+59 - Qatar - Points: [0.155, 0.731, 0.675, 2.1]
+60 - China - Points: [0.169, 0.675, 1.013, 1.8]
+61 - Switzerland - Points: [0.169, 0.281, 0.788, 2.4]
+62 - Austria - Points: [0.155, 0.338, 1.013, 1.95]
+63 - Turkmenistan - Points: [0.183, 0.506, 0.788, 1.95]
+64 - Poland - Points: [0.169, 0.731, 1.462, 1.05]
+65 - India - Points: [0.141, 0.844, 1.35, 1.05]
+66 - Wales - Points: [0.562, 0.562, 1.35, 0.9]
+67 - Kenya - Points: [0.211, 0.675, 1.125, 1.35]
+68 - Greece - Points: [0.197, 0.787, 1.125, 1.2]
+69 - Spain - Points: [0.113, 0.394, 0.675, 2.1]
+70 - Brazil - Points: [0.127, 0.506, 1.125, 1.5]
+71 - Lithuania - Points: [0.141, 0.675, 0.9, 1.5]
+72 - Thailand - Points: [0.197, 0.787, 1.462, 0.75]
+73 - Bolivia - Points: [0.155, 0.675, 1.013, 1.35]
+74 - Israel - Points: [0.099, 0.506, 0.562, 1.65]
 
 European Nations League B
 Participating Nations: 12
 Promoted:
-Slovenia
-Kosovo
+Portugal
+Monaco
 Relegated:
-Bosnia & Herzegovina
-Croatia
-Russia
-Czechia
+Belgium
+Belarus
+Bulgaria
+Luxembourg
 Results:
-1-Slovenia
-2-Kosovo
-3-Estonia
-4-Andorra
-5-Austria
-6-Norway
-7-Spain
-8-Türkiye
-9-Czechia
-10-Russia
-11-Croatia
-12-Bosnia & Herzegovina
+1-Portugal
+2-Monaco
+3-Finland
+4-Slovenia
+5-England
+6-Hungary
+7-Türkiye
+8-Denmark
+9-Luxembourg
+10-Bulgaria
+11-Belarus
+12-Belgium
 
 Americas Nations League B
-Participating Nations: 6
+Participating Nations: 10
 Promoted:
-Jamaica
+Canada
 Results:
-1-Jamaica
-2-Dominican Republic
-3-Canada
-4-Guyana
-5-Mexico
-6-U.S. Virgin Islands
+1-Canada
+2-Jamaica
+3-Guyana
+4-U.S. Virgin Islands
+5-Brazil
+6-Dominican Republic
+7-Bolivia
+8-Mexico
+9-Puerto Rico
+10-United States of America
 
 Asia Pacific Nations League B
 Participating Nations: 12
 Promoted:
-Afghanistan
-Relegated:
-Turkmenistan
 New Zealand
+Relegated:
+Phillipines
+Australia
+Kenya
+Nigeria
 Results:
-1-Afghanistan
-2-Thailand
-3-Kazakhstan
-4-Qatar
-5-Chinese Taipei
-6-Kyrgyzstan
-7-Japan
-8-Phillipines
-9-Saudi Arabia
-10-Korea
-11-New Zealand
-12-Turkmenistan
+1-New Zealand
+2-Japan
+3-Chinese Taipei
+4-Korea
+5-Qatar
+6-Kazakhstan
+7-China
+8-Turkmenistan
+9-Nigeria
+10-Kenya
+11-Australia
+12-Phillipines
 
 European Nations League A
 Participating Nations: 10
-Winner: Sweden
+Winner: Czechia
 Results:
-1-Sweden
-2-Slovenia
-3-Lithuania
-4-Finland
-5-Hungary
-6-Germany
-7-Scotland
-8-Latvia
-9-Estonia
-10-Kosovo
+1-Czechia
+2-Andorra
+3-Ireland
+4-Russia
+5-France
+6-Italy
+7-Latvia
+8-Iceland
+9-Croatia
+10-Portugal
 
 Pan Continental Nations League A
 Participating Nations: 8
-Winner: India
+Winner: Saudi Arabia
 Results:
-1-India
-2-United States of America
-3-Jamaica
-4-Dominican Republic
-5-Afghanistan
-6-Brazil
-7-Puerto Rico
-8-Bolivia
+1-Saudi Arabia
+2-Canada
+3-New Zealand
+4-Jamaica
+5-Japan
+6-Guyana
+7-Pakistan
+8-Mongolia
 
 World Championships Results
 Participating Nations: 16
-Winner: Hungary
+Winner: Saudi Arabia
 Relegated:
-Sweden
-Puerto Rico
-Brazil
-Lithuania
+Ireland
+Iceland
+Latvia
+Portugal
 Results:
-1-Hungary
-2-Jamaica
-3-Latvia
-4-Slovenia
-5-Kosovo
-6-Afghanistan
-7-India
-8-United States of America
-9-Finland
-10-Germany
-11-Bolivia
-12-Scotland
-13-Lithuania
-14-Brazil
-15-Puerto Rico
-16-Sweden
+1-Saudi Arabia
+2-Czechia
+3-Andorra
+4-New Zealand
+5-Croatia
+6-Canada
+7-France
+8-Russia
+9-Mongolia
+10-Pakistan
+11-Italy
+12-Monaco
+13-Portugal
+14-Latvia
+15-Iceland
+16-Ireland
 
 European Nations League C
 Participating Nations: 12
 Promoted:
-Bulgaria
-Belarus
-Liechtenstein
-Slovakia
-Relegated:
-Iceland
-Wales
-Results:
-1-Bulgaria
-2-Belarus
-3-Liechtenstein
-4-Slovakia
-5-Luxembourg
-6-England
-7-Netherlands
-8-Georgia
-9-Serbia
-10-Israel
-11-Wales
-12-Iceland
-
-European Nations League D
-Participating Nations: 12
-Promoted:
 Romania
-Ireland
+Scotland
+Relegated:
+Kosovo
+Netherlands
+Bosnia & Herzegovina
+Slovakia
 Results:
 1-Romania
-2-Ireland
+2-Scotland
 3-Switzerland
-4-Belgium
-5-Italy
-6-Monaco
-7-Greece
-8-Denmark
-9-Portugal
-10-Ukraine
-11-France
-12-Poland
+4-Estonia
+5-Germany
+6-Norway
+7-Spain
+8-Liechtenstein
+9-Slovakia
+10-Bosnia & Herzegovina
+11-Netherlands
+12-Kosovo
+
+European Nations League D
+Participating Nations: 10
+Promoted:
+Greece
+Serbia
+Results:
+1-Greece
+2-Serbia
+3-Poland
+4-Lithuania
+5-Wales
+6-Austria
+7-Georgia
+8-Sweden
+9-Ukraine
+10-Israel
 
 Asia Pacific Nations League C
-Participating Nations: 8
+Participating Nations: 6
 Promoted:
-Mongolia
+Thailand
 Kuwait
-Nigeria
+India
+Kyrgyzstan
+Afghanistan
 Results:
-1-Mongolia
+1-Thailand
 2-Kuwait
-3-Nigeria
-4-Australia
-5-China
+3-India
+4-Kyrgyzstan
+5-Afghanistan
 6-Hong Kong
-7-Pakistan
-8-Kenya
 
 
 Year 10
@@ -2383,257 +2417,260 @@ C division nations: 12
 D division nations: 12
 
 Americas Nations League
-A division nations: 3
-B division nations: 7
+A division nations: 1
+B division nations: 9
 
 Asia Pacific Nations League
-A division nations: 2
+A division nations: 4
 B division nations: 12
-C division nations: 7
+C division nations: 5
 
 Nations Ranking
-1 - Hungary - Points: [9.0, 22.125, 49.125, 98.0]
-2 - Latvia - Points: [0.328, 3.0, 81.0, 83.5]
-3 - Germany - Points: [7.641, 30.188, 74.25, 51.5]
-4 - Finland - Points: [10.36, 16.688, 58.5, 59.5]
-5 - Lithuania - Points: [5.906, 24.375, 62.625, 41.0]
-6 - United States of America - Points: [6.562, 14.625, 41.25, 60.0]
-7 - Bolivia - Points: [4.781, 30.0, 46.5, 39.0]
-8 - India - Points: [0.188, 22.5, 29.25, 66.0]
-9 - Sweden - Points: [5.391, 36.562, 42.375, 29.0]
-10 - Slovenia - Points: [0.562, 2.625, 6.0, 103.5]
-11 - Puerto Rico - Points: [4.219, 26.625, 60.0, 20.0]
-12 - Kosovo - Points: [1.594, 13.125, 7.5, 85.5]
-13 - Scotland - Points: [5.953, 6.375, 46.875, 40.0]
-14 - Jamaica - Points: [0.258, 1.031, 2.438, 93.0]
-15 - Afghanistan - Points: [0.351, 0.75, 2.25, 71.0]
-16 - Norway - Points: [1.031, 31.688, 25.875, 11.0]
-17 - Brazil - Points: [0.328, 1.125, 37.5, 26.0]
-18 - Czechia - Points: [4.219, 36.188, 15.0, 8.0]
-19 - Canada - Points: [7.406, 22.125, 25.5, 3.5]
-20 - Croatia - Points: [0.75, 2.812, 26.25, 6.0]
-21 - Estonia - Points: [0.351, 1.5, 5.25, 26.0]
-22 - Israel - Points: [1.125, 19.875, 6.0, 3.5]
-23 - Austria - Points: [0.703, 4.875, 6.75, 12.0]
-24 - Andorra - Points: [0.562, 2.438, 8.25, 13.0]
-25 - Turkmenistan - Points: [0.703, 1.031, 20.25, 1.25]
-26 - Spain - Points: [0.61, 3.375, 9.0, 10.0]
-27 - Chinese Taipei - Points: [9.094, 8.625, 1.312, 3.0]
-28 - Dominican Republic - Points: [0.351, 1.219, 2.625, 16.75]
-29 - Bosnia & Herzegovina - Points: [0.938, 3.75, 9.75, 5.0]
-30 - U.S. Virgin Islands - Points: [0.281, 1.312, 14.812, 2.75]
-31 - Guyana - Points: [0.305, 10.875, 2.062, 3.25]
-32 - Türkiye - Points: [0.375, 2.062, 4.875, 9.0]
-33 - Netherlands - Points: [2.297, 4.5, 3.75, 5.0]
-34 - Russia - Points: [0.844, 1.875, 5.625, 7.0]
-35 - Australia - Points: [0.515, 2.438, 5.25, 6.5]
-36 - Georgia - Points: [0.656, 4.125, 5.25, 4.5]
-37 - Mexico - Points: [3.0, 5.906, 2.25, 3.0]
-38 - Nigeria - Points: [2.719, 0.562, 3.75, 7.0]
-39 - Belarus - Points: [0.211, 1.5, 3.75, 7.5]
-40 - Liechtenstein - Points: [0.234, 1.406, 4.125, 7.0]
-41 - Iceland - Points: [3.469, 2.25, 4.5, 2.5]
-42 - Thailand - Points: [0.141, 2.625, 5.625, 3.75]
-43 - China - Points: [0.75, 0.469, 4.875, 6.0]
-44 - Bulgaria - Points: [0.164, 0.938, 2.812, 8.0]
-45 - Slovakia - Points: [0.469, 1.312, 3.375, 6.5]
-46 - Pakistan - Points: [0.164, 1.688, 4.5, 5.0]
-47 - Japan - Points: [0.562, 2.25, 6.0, 2.5]
-48 - Kuwait - Points: [1.875, 0.844, 0.938, 7.5]
-49 - Kenya - Points: [0.61, 1.875, 4.125, 4.5]
-50 - Hong Kong - Points: [0.117, 2.062, 3.375, 5.5]
-51 - England - Points: [0.656, 1.875, 3.0, 5.5]
-52 - Mongolia - Points: [0.234, 1.406, 1.125, 8.0]
-53 - Luxembourg - Points: [0.375, 1.688, 2.625, 6.0]
-54 - Wales - Points: [0.422, 2.625, 4.5, 3.0]
-55 - Kazakhstan - Points: [0.656, 3.0, 2.438, 3.5]
-56 - Italy - Points: [0.515, 2.25, 2.25, 3.0]
-57 - Serbia - Points: [0.258, 0.562, 3.0, 4.0]
-58 - Romania - Points: [0.281, 0.656, 2.625, 4.0]
-59 - Ireland - Points: [0.281, 0.844, 2.25, 3.75]
-60 - Poland - Points: [0.75, 3.0, 1.875, 1.25]
-61 - New Zealand - Points: [0.469, 2.812, 2.062, 1.5]
-62 - Qatar - Points: [0.305, 1.312, 1.875, 3.25]
-63 - Belgium - Points: [0.234, 1.219, 1.688, 3.25]
-64 - Saudi Arabia - Points: [0.328, 1.219, 2.625, 2.0]
-65 - Switzerland - Points: [0.141, 0.469, 2.062, 3.5]
-66 - Korea - Points: [0.258, 1.125, 2.812, 1.75]
-67 - Greece - Points: [0.094, 0.75, 2.438, 2.5]
-68 - Kyrgyzstan - Points: [0.281, 0.938, 1.688, 2.75]
-69 - Monaco - Points: [0.328, 1.125, 0.938, 2.75]
-70 - France - Points: [0.305, 1.312, 1.875, 1.5]
-71 - Denmark - Points: [0.117, 1.125, 1.5, 2.25]
-72 - Portugal - Points: [0.469, 0.938, 1.312, 2.0]
-73 - Phillipines - Points: [0.211, 0.656, 1.5, 2.25]
-74 - Ukraine - Points: [0.188, 1.031, 1.125, 1.75]
+1 - Czechia - Points: [7.172, 29.812, 69.375, 99.0]
+2 - France - Points: [7.781, 31.125, 74.25, 68.0]
+3 - Saudi Arabia - Points: [7.969, 35.25, 36.75, 96.0]
+4 - Russia - Points: [0.365, 21.188, 72.375, 64.5]
+5 - Croatia - Points: [0.938, 9.75, 68.25, 72.0]
+6 - Italy - Points: [3.562, 30.938, 62.25, 46.5]
+7 - Andorra - Points: [0.309, 1.462, 37.875, 92.5]
+8 - Pakistan - Points: [6.225, 23.625, 42.0, 45.0]
+9 - Mongolia - Points: [0.07, 0.787, 55.05, 49.0]
+10 - Iceland - Points: [8.485, 20.625, 46.5, 23.5]
+11 - Latvia - Points: [5.484, 21.0, 32.625, 30.0]
+12 - Ireland - Points: [4.312, 15.562, 40.875, 26.0]
+13 - New Zealand - Points: [0.141, 0.619, 1.575, 81.4]
+14 - Hungary - Points: [8.438, 37.125, 23.25, 11.0]
+15 - Canada - Points: [1.711, 0.619, 0.9, 72.4]
+16 - Portugal - Points: [0.656, 1.688, 9.75, 46.5]
+17 - Korea - Points: [0.155, 33.15, 22.5, 1.95]
+18 - Monaco - Points: [1.125, 4.5, 7.5, 40.0]
+19 - U.S. Virgin Islands - Points: [3.844, 26.25, 12.75, 1.95]
+20 - Belgium - Points: [6.984, 8.812, 9.0, 5.0]
+21 - Slovenia - Points: [2.531, 4.875, 8.25, 13.0]
+22 - United States of America - Points: [0.183, 0.675, 26.55, 1.05]
+23 - Guyana - Points: [0.197, 12.9, 1.237, 13.1]
+24 - Mexico - Points: [3.225, 4.219, 12.188, 1.35]
+25 - Türkiye - Points: [0.197, 1.8, 6.75, 10.0]
+26 - Belarus - Points: [0.211, 1.35, 10.5, 6.0]
+27 - Finland - Points: [0.225, 1.012, 2.7, 14.0]
+28 - Jamaica - Points: [0.155, 0.787, 1.35, 15.25]
+29 - Germany - Points: [4.078, 3.375, 6.0, 3.6]
+30 - Japan - Points: [0.155, 0.675, 1.688, 14.25]
+31 - Kuwait - Points: [4.219, 9.375, 0.9, 2.25]
+32 - England - Points: [0.155, 0.9, 3.6, 12.0]
+33 - Hong Kong - Points: [6.0, 6.0, 0.675, 1.65]
+34 - Bulgaria - Points: [1.031, 1.875, 3.375, 7.0]
+35 - Denmark - Points: [0.169, 0.787, 3.15, 9.0]
+36 - Luxembourg - Points: [0.141, 0.844, 2.925, 8.0]
+37 - Kosovo - Points: [0.45, 4.125, 5.25, 1.5]
+38 - Australia - Points: [0.183, 0.844, 9.188, 0.9]
+39 - Slovakia - Points: [0.844, 3.75, 3.75, 2.4]
+40 - Scotland - Points: [1.219, 3.0, 1.575, 4.5]
+41 - Romania - Points: [0.394, 2.625, 2.475, 4.8]
+42 - Liechtenstein - Points: [0.225, 1.575, 4.5, 2.7]
+43 - Bosnia & Herzegovina - Points: [0.422, 2.25, 2.25, 2.1]
+44 - Norway - Points: [0.338, 0.9, 2.025, 3.3]
+45 - Estonia - Points: [0.281, 0.675, 1.688, 3.9]
+46 - Switzerland - Points: [0.07, 0.394, 1.8, 4.2]
+47 - Dominican Republic - Points: [2.156, 0.45, 1.575, 1.65]
+48 - Spain - Points: [0.099, 0.338, 1.575, 3.0]
+49 - Netherlands - Points: [0.562, 0.787, 1.8, 1.8]
+50 - Serbia - Points: [0.113, 0.619, 1.35, 2.25]
+51 - Chinese Taipei - Points: [0.197, 0.787, 1.237, 2.1]
+52 - Sweden - Points: [0.469, 1.125, 1.125, 1.35]
+53 - Greece - Points: [0.197, 0.562, 0.9, 2.4]
+54 - Ukraine - Points: [0.253, 1.238, 1.35, 1.2]
+55 - Kazakhstan - Points: [0.085, 0.844, 1.462, 1.65]
+56 - Kyrgyzstan - Points: [0.211, 0.45, 1.35, 1.95]
+57 - Qatar - Points: [0.183, 0.338, 1.575, 1.8]
+58 - Thailand - Points: [0.197, 0.731, 0.562, 2.4]
+59 - Afghanistan - Points: [0.113, 0.731, 1.237, 1.8]
+60 - Georgia - Points: [0.75, 0.562, 1.013, 1.5]
+61 - Poland - Points: [0.183, 0.731, 0.788, 2.1]
+62 - India - Points: [0.211, 0.675, 0.788, 2.1]
+63 - Austria - Points: [0.085, 0.506, 1.462, 1.65]
+64 - Lithuania - Points: [0.169, 0.45, 1.125, 1.95]
+65 - Brazil - Points: [0.127, 0.562, 1.125, 1.8]
+66 - Puerto Rico - Points: [0.141, 0.731, 1.462, 1.2]
+67 - China - Points: [0.169, 0.506, 1.35, 1.5]
+68 - Nigeria - Points: [0.225, 0.281, 1.8, 1.2]
+69 - Turkmenistan - Points: [0.127, 0.394, 1.462, 1.35]
+70 - Wales - Points: [0.141, 0.675, 0.675, 1.8]
+71 - Bolivia - Points: [0.169, 0.506, 1.013, 1.5]
+72 - Phillipines - Points: [0.099, 0.9, 1.125, 0.75]
+73 - Kenya - Points: [0.169, 0.562, 1.013, 1.05]
+74 - Israel - Points: [0.127, 0.281, 1.237, 1.05]
 
 European Nations League B
 Participating Nations: 12
 Promoted:
-Slovakia
-Liechtenstein
+Romania
+Portugal
 Relegated:
-Belarus
-Austria
-Bulgaria
-Andorra
+Latvia
+Slovenia
+Iceland
+Finland
 Results:
-1-Slovakia
-2-Liechtenstein
-3-Sweden
+1-Romania
+2-Portugal
+3-England
 4-Türkiye
-5-Lithuania
-6-Norway
-7-Spain
-8-Estonia
-9-Andorra
-10-Bulgaria
-11-Austria
-12-Belarus
+5-Scotland
+6-Ireland
+7-Denmark
+8-Hungary
+9-Finland
+10-Iceland
+11-Slovenia
+12-Latvia
 
 Americas Nations League B
-Participating Nations: 7
+Participating Nations: 9
 Promoted:
-Canada
+Bolivia
 Results:
-1-Canada
-2-Brazil
-3-Mexico
-4-U.S. Virgin Islands
-5-Dominican Republic
-6-Guyana
-7-Puerto Rico
+1-Bolivia
+2-Guyana
+3-Puerto Rico
+4-Dominican Republic
+5-Jamaica
+6-United States of America
+7-U.S. Virgin Islands
+8-Brazil
+9-Mexico
 
 Asia Pacific Nations League B
 Participating Nations: 12
 Promoted:
-Thailand
+Kazakhstan
 Relegated:
-Chinese Taipei
+Kuwait
+Turkmenistan
+Qatar
 Japan
-Nigeria
 Results:
-1-Thailand
-2-Mongolia
-3-Korea
-4-Phillipines
-5-Qatar
+1-Kazakhstan
+2-Thailand
+3-India
+4-Korea
+5-Chinese Taipei
 6-Kyrgyzstan
-7-Kazakhstan
-8-Saudi Arabia
-9-Kuwait
-10-Nigeria
-11-Japan
-12-Chinese Taipei
+7-Afghanistan
+8-China
+9-Japan
+10-Qatar
+11-Turkmenistan
+12-Kuwait
 
 European Nations League A
 Participating Nations: 10
-Winner: Kosovo
+Winner: Romania
 Results:
-1-Kosovo
-2-Sweden
-3-Hungary
-4-Latvia
-5-Germany
-6-Liechtenstein
-7-Slovenia
-8-Slovakia
-9-Scotland
-10-Finland
+1-Romania
+2-Croatia
+3-Andorra
+4-Russia
+5-Portugal
+6-Italy
+7-France
+8-Czechia
+9-England
+10-Monaco
 
 Pan Continental Nations League A
 Participating Nations: 8
-Winner: Canada
+Winner: Guyana
 Results:
-1-Canada
-2-India
-3-Afghanistan
-4-United States of America
-5-Jamaica
-6-Thailand
-7-Brazil
-8-Bolivia
+1-Guyana
+2-Kazakhstan
+3-Bolivia
+4-Canada
+5-New Zealand
+6-Saudi Arabia
+7-Pakistan
+8-Mongolia
 
 World Championships Results
 Participating Nations: 16
-Winner: Slovakia
+Winner: Czechia
 Relegated:
-India
-Scotland
-Thailand
-Liechtenstein
+Mongolia
+Andorra
+France
+Canada
 Results:
-1-Slovakia
-2-Kosovo
-3-Germany
-4-Finland
-5-Bolivia
-6-United States of America
-7-Hungary
-8-Slovenia
-9-Latvia
-10-Canada
-11-Jamaica
-12-Afghanistan
-13-Liechtenstein
-14-Thailand
-15-Scotland
-16-India
+1-Czechia
+2-Croatia
+3-Italy
+4-Monaco
+5-Pakistan
+6-Bolivia
+7-Portugal
+8-Saudi Arabia
+9-Romania
+10-Kazakhstan
+11-New Zealand
+12-Russia
+13-Canada
+14-France
+15-Andorra
+16-Mongolia
 
 European Nations League C
 Participating Nations: 12
 Promoted:
-Serbia
-Romania
-England
-Luxembourg
+Belgium
+Spain
+Bulgaria
+Switzerland
 Relegated:
-Bosnia & Herzegovina
-Czechia
+Estonia
+Norway
 Results:
-1-Serbia
-2-Romania
-3-England
-4-Luxembourg
-5-Israel
-6-Croatia
-7-Ireland
-8-Georgia
-9-Russia
-10-Netherlands
-11-Czechia
-12-Bosnia & Herzegovina
+1-Belgium
+2-Spain
+3-Bulgaria
+4-Switzerland
+5-Serbia
+6-Greece
+7-Luxembourg
+8-Germany
+9-Belarus
+10-Liechtenstein
+11-Norway
+12-Estonia
 
 European Nations League D
 Participating Nations: 12
 Promoted:
-Greece
-Belgium
+Bosnia & Herzegovina
+Israel
 Results:
-1-Greece
-2-Belgium
+1-Bosnia & Herzegovina
+2-Israel
 3-Wales
-4-Denmark
-5-Iceland
-6-Portugal
-7-France
-8-Ukraine
-9-Poland
-10-Monaco
-11-Switzerland
-12-Italy
+4-Ukraine
+5-Georgia
+6-Poland
+7-Kosovo
+8-Austria
+9-Slovakia
+10-Lithuania
+11-Sweden
+12-Netherlands
 
 Asia Pacific Nations League C
-Participating Nations: 7
+Participating Nations: 5
 Promoted:
-China
-Kenya
+Phillipines
+Nigeria
+Australia
+Hong Kong
 Results:
-1-China
-2-Kenya
-3-New Zealand
-4-Turkmenistan
-5-Australia
-6-Pakistan
-7-Hong Kong
+1-Phillipines
+2-Nigeria
+3-Australia
+4-Hong Kong
+5-Kenya
 
