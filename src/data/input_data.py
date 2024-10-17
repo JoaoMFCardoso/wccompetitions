@@ -7,11 +7,11 @@ competition_points_multiplier = {
     "European Nations League A": 1.5,
     "Pan Continental Nations League A": 1.0,
     "European Nations League B": 1.0,
-    "Americas Nations League B": 0.25,
-    "Asia Pacific Nations League B": 0.25,
-    "European Nations League C": 0.5,
-    "Asia Pacific Nations League C": 0.5,
-    "European Nations League D": 0.25
+    "Americas Nations League B": 0.15,
+    "Asia Pacific Nations League B": 0.15,
+    "European Nations League C": 0.30,
+    "Asia Pacific Nations League C": 0.15,
+    "European Nations League D": 0.15
 }
 
 competition_points = {
