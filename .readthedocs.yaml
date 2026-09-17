@@ -1,19 +1,13 @@
-version: 2
+version: "2"
 
-# Build documentation using Ubuntu and Python
 build:
   os: "ubuntu-22.04"
   tools:
-    python: "3.11"
-  commands:
-    # Optional: run any pre-build commands if needed
+    python: "3.10"
 
-# Specify the documentation tool (Sphinx is standard)
-sphinx:
-   configuration: docs/conf.py
-
-# If your project requires installing dependencies or the package itself:
 python:
   install:
-    - method: pip
-      path: .
+    - requirements: docs/requirements.txt
+
+sphinx:
+  configuration: docs/source/conf.py
