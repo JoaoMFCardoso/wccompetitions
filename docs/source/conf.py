@@ -4,7 +4,7 @@
 
 project = 'ws-competitions'
 copyright = '2023, Cardoso'
-author = 'João Cardoso'
+author = 'Cardoso'
 
 release = '0.1'
 version = '0.1.0'
