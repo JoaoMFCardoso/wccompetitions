@@ -1,5 +1,3 @@
-Python
-
 # Configuration file for the Sphinx documentation builder.
 project = 'wccompetitions'
 copyright = '2026, João Cardoso'
