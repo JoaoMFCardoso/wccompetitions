@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "main"
-authors = [{name = "João", email = "joao.cardoso@fdiportugal.pt"}]
+name = "ws-competitions"
+authors = [{name = "Cardoso", email = "joao.cardoso@fdiportugal.pt"}]
 dynamic = ["version"]
