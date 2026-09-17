@@ -4,5 +4,6 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "ws-competitions"
+description = "Test for a competitive format change for 4 person curling"
 authors = [{name = "Cardoso", email = "joao.cardoso@fdiportugal.pt"}]
 dynamic = ["version"]
