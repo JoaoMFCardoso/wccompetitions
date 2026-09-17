@@ -1,35 +1,16 @@
+Python
 # Configuration file for the Sphinx documentation builder.
-
-# -- Project information
-
-project = 'ws-competitions'
-copyright = '2023, Cardoso'
-author = 'Cardoso'
-
-release = '0.1'
-version = '0.1.0'
-
-# -- General configuration
+project = 'wccompetitions'
+copyright = '2026, João Cardoso'
+author = 'João Cardoso'
 
 extensions = [
-    'sphinx.ext.duration',
-    'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
+    'sphinx.ext.viewcode',
 ]
 
-intersphinx_mapping = {
-    'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
-}
-intersphinx_disabled_domains = ['std']
-
 templates_path = ['_templates']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
-# -- Options for HTML output
-
-html_theme = 'sphinx_rtd_theme'
-
-# -- Options for EPUB output
-epub_show_urls = 'footnote'
+html_theme = 'alabaster' # Or 'sphinx_rtd_theme' if you install it
+html_static_path = ['_static']
